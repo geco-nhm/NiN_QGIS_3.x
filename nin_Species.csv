@@ -1,0 +1,589 @@
+pid,scientificNameId,scientificName,author,vernacularName
+0,69027,Cladonia amaurocraea,(Flörke) Schaerer,begerpigglav
+1,69033,Cladonia arbuscula,(Wallr.) Flot.,lys reinlav
+2,69044,Cladonia bellidiflora,(Ach.) Schaerer,blomsterlav
+3,69060,Cladonia cariosa,(Ach.) Sprengel,småtrevlelav
+4,69061,Cladonia carneola,(Fr.) Fr.,bleikbeger
+5,69064,Cladonia cenotea,(Ach.) Schaerer,meltraktlav
+6,69071,Cladonia chlorophaea,(Sommerf.) Sprengel,pulverbrunbeger
+7,69075,Cladonia coccifera,(L.) Willd.,grynrødbeger
+8,69078,Cladonia coniocraea,(Flörke) Spreng.,stubbesyl
+9,69085,Cladonia cornuta,(L.) Hoffm.,skogsyl
+10,69088,Cladonia crispata,(Ach.) Flotow,traktlav
+11,69091,Cladonia cyanipes,(Sommerf.) Nyl.,blåfotlav
+12,69096,Cladonia deformis,(L.) Hoffm.,begerfausklav
+13,69101,Cladonia digitata,(L.) Hoffm.,fingerbeger
+14,69116,Cladonia fimbriata,(L.) Fr.,melbeger
+15,69118,Cladonia floerkeana,(Fr.) Flörke,kystrødtopp
+16,69120,Cladonia foliacea,(Hudson) Willd.,flikskjell
+17,69123,Cladonia furcata,(Hudson) Schrader,gaffellav
+18,69131,Cladonia gracilis,(L.) Willd.,syllav
+19,69173,Cladonia macilenta,Hoffm.,melrødtopp
+20,69175,Cladonia macrophylla,(Schaerer) Stenham.,trevlelav
+21,69228,Cladonia phyllophora,Hoffm.,svartfotlav
+22,69261,Cladonia rangiferina,(L.) F. H. Wigg.,grå reinlav
+23,69294,Cladonia squamosa,Hoffm.,fnaslav
+24,69297,Cladonia stellaris,(Opiz) Pouzar & Vezda,kvitkrull
+25,69328,Cladonia subulata,(L.) F. H. Wigg,hornlav
+26,69331,Cladonia sulphurina,(Michaux) Fr.,fausklav
+27,69343,Cladonia turgida,Hoffm.,narreskjell
+28,69348,Cladonia uncialis,(L.) Wigg.,pigglav
+29,69358,Cladonia verticillata,(Hoffm.) Schaer.,etasjebeger
+30,71602,Cetraria ericetorum,Opiz,smal islandslav
+31,71604,Cetraria islandica,(L.) Ach.,islandslav
+32,71719,Flavocetraria cucullata,(Bellardi) Kärnefelt & Thell,gulskjerpe
+33,71720,Flavocetraria nivalis,(L.) Kärnefelt & Thell,gulskinn
+34,75320,Sphaerophorus fragilis,(L.) Pers.,grå korallav
+35,75321,Sphaerophorus globosus,(Hudson) Vainio,brun korallav
+36,75408,Stereocaulon saxatile,Magnusson,grå saltlav
+37,78432,Nephroma arcticum,(L.) Torss.,storvrenge
+38,78461,Peltigera aphthosa,(L.) Willd.,grønnever
+39,78464,Peltigera canina,(L.) Willd.,bikkjenever
+40,78469,Peltigera degenii,Gyelnik,blank bikkjenever
+41,78478,Peltigera horizontalis,(Hudson) Baumg.,blanknever
+42,78486,Peltigera leucophlebia,(Nyl.) Gyelnik,åregrønnever
+43,78488,Peltigera malacea,(Ach.) Funck,mattnever
+44,78490,Peltigera membranacea,(Ach.) Nyl.,hinnenever
+45,78498,Peltigera polydactylon,(Neck.) Hoffm.,fingernever
+46,78500,Peltigera praetextata,(Sommerf.) Zopf,skjellnever
+47,78511,Peltigera venosa,(L.) Hoffm.,kalknever
+48,86528,Cladonia symphycarpa,(Flörke) Fr.,kalkpolster
+49,99419,Allium ursinum,L.,ramsløk
+50,99485,Cephalanthera rubra,(L.) Rich.,rød skogfrue
+51,99489,Coeloglossum viride,(L.) Hartm.,grønnkurle
+52,99493,Corallorhiza trifida,Châtel.,korallrot
+53,99495,Cypripedium calceolus,L.,marisko
+54,99503,Dactylorhiza maculata,(L.) Soó,blekmarihand
+55,99508,Epipactis atrorubens,(Hoffm.) Besser,rødflangre
+56,99509,Epipactis helleborine,(L.) Crantz,breiflangre
+57,99514,Epipogium aphyllum,Sw.,huldreblom
+58,99516,Goodyera repens,(L.) R.Br.,knerot
+59,99518,Gymnadenia conopsea,(L.) R.Br.,brudespore
+60,99528,Listera cordata,(L.) R.Br.,småtveblad
+61,99529,Listera ovata,(L.) R.Br.,stortveblad
+62,99535,Neottia nidus-avis,(L.) Rich.,fuglereir
+63,99539,Ophrys insectifera,L.,flueblom
+64,99541,Orchis mascula,(L.) L.,vårmarihand
+65,99543,Platanthera bifolia,(L.) Rich.,nattfiol
+66,99546,Platanthera montana,(F.W.Schmidt) Rchb.f.,grov nattfiol
+67,99552,Convallaria majalis,L.,liljekonvall
+68,99554,Maianthemum bifolium,(L.) F.W.Schmidt,maiblom
+69,99559,Polygonatum multiflorum,(L.) All.,storkonvall
+70,99560,Polygonatum odoratum,(Mill.) Druce,kantkonvall
+71,99561,Polygonatum verticillatum,(L.) All.,kranskonvall
+72,99577,Gagea lutea,(L.) Ker Gawl.,gullstjerne
+73,99592,Paris quadrifolia,L.,firblad
+74,99627,Carex brunnescens brunnescens,,brun seterstarr
+75,99628,Carex brunnescens vitilis,(Fr.) Kalela,sumpseterstarr
+76,99631,Carex capillaris,L.,hårstarr
+77,99638,Carex demissa,Hornem.,grønnstarr
+78,99640,Carex digitata,L.,fingerstarr
+79,99650,Carex ericetorum,Pollich,bakkestarr
+80,99652,Carex flacca,Schreb.,blåstarr
+81,99653,Carex flava,L.,gulstarr
+82,99664,Carex hostiana,DC.,engstarr
+83,99672,Carex leporina,L.,harestarr
+84,99686,Carex muricata,L.,piggstarr
+85,99692,Carex nigra,(L.) Reichard.,småstarr
+86,99696,Carex ornithopoda,Willd.,fuglestarr
+87,99700,Carex pallescens,L.,bleikstarr
+88,99701,Carex panicea,L.,kornstarr
+89,99709,Carex pilulifera,L.,bråtestarr
+90,99712,Carex pulicaris,L.,loppestarr
+91,99715,Carex remota,L.,slakkstarr
+92,99727,Carex spicata,Huds.,tettstarr
+93,99733,Carex sylvatica,Huds.,skogstarr
+94,99738,Carex vaginata,Tausch,slirestarr
+95,99741,Carex viridula,Michx.,grannstarr
+96,99826,Juncus filiformis,L.,trådsiv
+97,99848,Luzula multiflora,(Ehrh.) Lej.,bakkefrytle
+98,99855,Luzula pilosa,(L.) Willd.,hårfrytle
+99,99866,Agrostis canina,L.,hundekvein
+100,99867,Agrostis capillaris,L.,engkvein
+101,99897,Anthoxanthum odoratum,L.,gulaks
+102,99919,Avenella flexuosa,(L.) Drejer,smyle
+103,99926,Brachypodium pinnatum,(L.) P.Beauv.,kalkgrønnaks
+104,99927,Brachypodium sylvaticum,(Huds.) P.Beauv.,lundgrønnaks
+105,99930,Briza media,L.,hjertegras
+106,99933,Bromopsis benekenii,(Lange) Holub,skogfaks
+107,99951,Calamagrostis arundinacea,(L.) Roth,snerprørkvein
+108,99954,Calamagrostis epigejos,(L.) Roth,bergrørkvein
+109,99961,Calamagrostis phragmitoides,Hartm.,skogrørkvein
+110,99972,Cinna latifolia,(Trevir.) Griseb.,huldregras
+111,99983,Dactylis glomerata,L.,hundegras
+112,99986,Danthonia decumbens,(L.) DC.,knegras
+113,99989,Deschampsia cespitosa,(L.) P.Beauv.,kvassbunke
+114,100011,Elymus caninus,(L.) L.,hundekveke
+115,100023,Elytrigia repens,(L.) Nevski,kveke
+116,100043,Festuca ovina,L.,sauesvingel
+117,100047,Festuca rubra,L.,rødsvingel
+118,100098,Melica nutans,L.,hengeaks
+119,100101,Milium effusum,L.,myskegras
+120,100103,Molinia caerulea,(L.) Moench,blåtopp
+121,100105,Nardus stricta,L.,finnskjegg
+122,100137,Poa alpina,L.,fjellrapp
+123,100140,Poa annua,L.,tunrapp
+124,100151,Poa compressa,L.,flatrapp
+125,100152,Poa glauca,Vahl,blårapp
+126,100159,Poa nemoralis,L.,lundrapp
+127,100161,Poa pratensis,L.,engrapp
+128,100167,Poa remota,Forselles,storrapp
+129,100169,Poa trivialis,L.,markrapp
+130,100192,Schedonorus giganteus,(L.) Holub,kjempesvingel
+131,100193,Schedonorus pratensis,(Huds.) P.Beauv.,engsvingel
+132,100252,Aegopodium podagraria,L.,skvallerkål
+133,100268,Angelica sylvestris,L.,sløke
+134,100272,Anthriscus sylvestris,(L.) Hoffm.,hundekjeks
+135,100358,Pimpinella saxifraga,L.,gjeldkarve
+136,100360,Sanicula europaea,L.,sanikel
+137,100366,Seseli libanotis,(L.) W.D.J.Koch,hjorterot
+138,100392,Achillea millefolium,L.,ryllik
+139,100396,Achillea ptarmica,L.,nyseryllik
+140,100411,Antennaria dioica,(L.) Gaertn.,kattefot
+141,100437,Artemisia campestris,L.,markmalurt
+142,100466,Carduus crispus,L.,krusetistel
+143,100474,Carlina vulgaris,L.,stjernetistel
+144,100488,Centaurea jacea,L.,engknoppurt
+145,100499,Centaurea scabiosa,L.,fagerknoppurt
+146,100504,Cicerbita alpina,(L.) Wallr.,turt
+147,100515,Cirsium heterophyllum,(L.) Hill,hvitbladtistel
+148,100517,Cirsium palustre,(L.) Scop.,myrtistel
+149,100540,Crepis paludosa,(L.) Moench,sumphaukeskjegg
+150,100544,Crepis tectorum,L.,takhaukeskjegg
+151,100593,Gnaphalium uliginosum,L.,åkergråurt
+152,100651,Hieracium murorum agg.,,skogsvever
+153,100687,Hieracium umbellatum,L.,skjermsveve
+154,100708,Hypochaeris maculata,L.,flekkgrisøre
+155,100715,Inula salicina,L.,krattalant
+156,100722,Lapsana communis,L.,haremat
+157,100731,Leucanthemum vulgare,Lam.,prestekrage
+158,100754,Omalotheca norvegica,(Gunnerus) Sch.Bip. & F.W.Schultz,setergråurt
+159,100756,Omalotheca sylvatica,(L.) Sch.Bip. & F.W.Schultz,skoggråurt
+160,100783,Saussurea alpina,(L.) DC.,fjelltistel
+161,100788,Scorzoneroides autumnalis,(L.) Moench,føllblom
+162,100820,Solidago virgaurea,L.,gullris
+163,100848,Tanacetum vulgare,L.,reinfann
+164,100869,Taraxacum officinale agg.,,ugrasløvetenner
+165,100912,Tussilago farfara,L.,hestehov
+166,100929,Campanula cervicaria,L.,stavklokke
+167,100934,Campanula latifolia,L.,storklokke
+168,100939,Campanula persicifolia,L.,fagerklokke
+169,100944,Campanula rotundifolia,L.,blåklokke
+170,100948,Campanula trachelium,L.,nesleklokke
+171,101008,Lappula deflexa,(Wahlenb.) Garcke,hengepiggfrø
+172,101081,Arabidopsis thaliana,(L.) Heynh.,vårskrinneblom
+173,101088,Arabis hirsuta,(L.) Scop.,bergskrinneblom
+174,101103,Barbarea vulgaris,W.T.Aiton,vinterkarse
+175,101144,Cardamine amara,L.,bekkekarse
+176,101146,Cardamine bulbifera,(L.) Crantz,tannrot
+177,101147,Cardamine flexuosa,With.,skogkarse
+178,101198,Draba incana,L.,lodnerublom
+179,101323,Turritis glabra,L.,tårnurt
+180,101450,Arenaria serpyllifolia,L.,sandarve
+181,101455,Atocion rupestre,(L.) Oxelman,småsmelle
+182,101469,Cerastium fontanum,Baumg.,arve
+183,101524,Moehringia trinervia,(L.) Clairv.,maurarve
+184,101550,Scleranthus perennis,L.,flerårsknavel
+185,101557,Silene dioica,(L.) Clairv.,rød jonsokblom
+186,101565,Silene nutans,L.,nikkesmelle
+187,101580,Spergula morisonii,Boreau,vårbendel
+188,101589,Stellaria borealis,Bigelow,fjellstjerneblom
+189,101594,Stellaria graminea,L.,grasstjerneblom
+190,101598,Stellaria longifolia,Muhl. ex Willd.,rustjerneblom
+191,101601,Stellaria media,(L.) Vill.,vassarve
+192,101602,Stellaria nemorum,L.,skogstjerneblom
+193,101611,Viscaria vulgaris,Bernh.,engtjæreblom
+194,101658,Parnassia palustris,L.,jåblom
+195,101666,Chamaepericlymenum suecicum,(L.) Graebn.,skrubbær
+196,101700,Adoxa moschatellina,L.,moskusurt
+197,101703,Sambucus racemosa,L.,rødhyll
+198,101706,Viburnum opulus,L.,korsved
+199,101719,Lonicera xylosteum,L.,leddved
+200,101736,Knautia arvensis,(L.) Coult.,rødknapp
+201,101740,Succisa pratensis,Moench,blåknapp
+202,101743,Linnaea borealis,L.,linnea
+203,101748,Valeriana sambucifolia,Mikan f.,vendelrot
+204,101762,Impatiens noli-tangere,L.,springfrø
+205,101771,Arctostaphylos uva-ursi,(L.) Spreng.,melbær
+206,101775,Calluna vulgaris,(L.) Hull,røsslyng
+207,101781,Chimaphila umbellata,(L.) W.P.C.Barton,bittergrønn
+208,101783,Empetrum nigrum,L.,krekling
+209,101795,Moneses uniflora,(L.) A.Gray,olavsstake
+210,101798,Monotropa hypopitys hypophegea,(Wallr.) Holmboe,snau vaniljerot
+211,101799,Monotropa hypopitys hypopitys,,lodden vaniljerot
+212,101801,Orthilia secunda,(L.) House,nikkevintergrønn
+213,101808,Pyrola chlorantha,Sw.,furuvintergrønn
+214,101811,Pyrola media,Sw.,klokkevintergrønn
+215,101812,Pyrola minor,L.,perlevintergrønn
+216,101815,Pyrola rotundifolia,L.,storvintergrønn
+217,101825,Vaccinium myrtillus,L.,blåbær
+218,101826,Vaccinium uliginosum,L.,blokkebær
+219,101829,Vaccinium vitis-idaea,L.,tyttebær
+220,101869,Androsace septentrionalis,L.,smånøkkel
+221,101883,Primula veris,L.,marianøkleblom
+222,101891,Anthyllis vulneraria,L.,rundbelg
+223,101903,Astragalus glycyphyllos,L.,lakrismjelt
+224,101952,Lathyrus linifolius,(Reichard) Bässler,knollerteknapp
+225,101953,Lathyrus niger,(L.) Bernh.,svarterteknapp
+226,101960,Lathyrus pratensis,L.,gulflatbelg
+227,101962,Lathyrus sylvestris,L.,skogflatbelg
+228,101964,Lathyrus vernus,(L.) Bernh.,vårerteknapp
+229,101969,Lotus corniculatus,L.,tiriltunge
+230,102058,Trifolium medium,L.,skogkløver
+231,102063,Trifolium pratense,L.,rødkløver
+232,102064,Trifolium repens,L.,hvitkløver
+233,102091,Vicia cracca,L.,fuglevikke
+234,102108,Vicia pisiformis,L.,ertevikke
+235,102113,Vicia sepium,L.,gjerdevikke
+236,102116,Vicia sylvatica,L.,skogvikke
+237,102124,Polygala amarella,Crantz,bitterblåfjær
+238,102126,Polygala vulgaris,L.,storblåfjær
+239,102131,Alnus glutinosa,(L.) Gaertn.,svartor
+240,102132,Alnus incana,(L.) Moench,gråor
+241,102139,Betula pendula,Roth,hengebjørk
+242,102142,Betula pubescens,Ehrh.,bjørk
+243,102150,Corylus avellana,L.,hassel
+244,102156,Quercus robur,L.,sommereik
+245,102206,Galium boreale,L.,hvitmaure
+246,102208,Galium mollugo,L.,sørlig stormaure
+247,102212,Galium odoratum,(L.) Scop.,myske
+248,102213,Galium palustre,L.,myrmaure
+249,102224,Galium triflorum,Michx.,myskemaure
+250,102225,Galium uliginosum,L.,sumpmaure
+251,102226,Galium verum,L.,gulmaure
+252,102245,Geranium lucidum,L.,blankstorkenebb
+253,102256,Geranium robertianum,L.,stankstorkenebb
+254,102258,Geranium sanguineum,L.,blodstorkenebb
+255,102260,Geranium sylvaticum,L.,skogstorkenebb
+256,102267,Acinos arvensis,(Lam.) Dandy,bakkemynte
+257,102273,Ajuga pyramidalis,L.,jonsokkoll
+258,102280,Clinopodium vulgare,L.,kransmynte
+259,102292,Galeopsis bifida,Boenn.,vrangdå
+260,102299,Glechoma hederacea,L.,korsknapp
+261,102349,Origanum vulgare,L.,bergmynte
+262,102353,Prunella vulgaris,L.,blåkoll
+263,102380,Stachys sylvatica,L.,skogsvinerot
+264,102387,Thymus pulegioides,L.,bakketimian
+265,102396,Pinguicula vulgaris,L.,tettegras
+266,102409,Fraxinus excelsior,L.,ask
+267,102428,Euphrasia stricta,J.P.Wolff ex J.F.Lehm.,kjerteløyentrøst
+268,102435,Lathraea squamaria,L.,skjellrot
+269,102439,Melampyrum pratense,L.,stormarimjelle
+270,102440,Melampyrum sylvaticum,L.,småmarimjelle
+271,102474,Rhinanthus minor,L.,småengkall
+272,102521,Linaria vulgaris,Mill.,lintorskemunn
+273,102533,Plantago major,L.,groblad
+274,102539,Plantago media,L.,dunkjempe
+275,102554,Veronica chamaedrys,L.,tveskjeggveronika
+276,102563,Veronica officinalis,L.,legeveronika
+277,102572,Veronica serpyllifolia,L.,bleikveronika
+278,102575,Veronica spicata,L.,aksveronika
+279,102585,Scrophularia nodosa,L.,brunrot
+280,102595,Verbascum nigrum,L.,mørkkongslys
+281,102602,Verbascum thapsus,L.,filtkongslys
+282,102622,Hypericum hirsutum,L.,lodneperikum
+283,102624,Hypericum maculatum,Crantz,firkantperikum
+284,102626,Hypericum perforatum,L.,prikkperikum
+285,102641,Populus tremula,L.,osp
+286,102655,Salix aurita,L.,ørevier
+287,102659,Salix caprea,L.,selje
+288,102684,Salix myrsinifolia,Salisb.,storvier
+289,102698,Salix repens,L.,heivier
+290,102706,Salix starkeana,Willd.,blåvier
+291,102750,Tilia cordata,Mill.,lind
+292,102756,Daphne mezereum,L.,tysbast
+293,102778,Mercurialis perennis,L.,skogbingel
+294,102785,Linum catharticum,L.,vill-lin
+295,102794,Viola biflora,L.,fjellfiol
+296,102795,Viola canina,L.,engfiol
+297,102796,Viola collina,Besser,bakkefiol
+298,102800,Viola mirabilis,L.,krattfiol
+299,102802,Viola palustris,L.,myrfiol
+300,102804,Viola riviniana,Rchb.,skogfiol
+301,102805,Viola rupestris,F.W.Schmidt,grusfiol
+302,102808,Viola selkirkii,Pursh ex Goldie,dalfiol
+303,102810,Viola tricolor,L.,stemorsblom
+304,102822,Chamerion angustifolium,(L.) Holub,geitrams
+305,102824,Circaea alpina,L.,trollurt
+306,102839,Epilobium collinum,C.C.Gmel.,bergmjølke
+307,102846,Epilobium montanum,L.,krattmjølke
+308,102880,Oxalis acetosella,L.,gjøkesyre
+309,102902,Bistorta vivipara,(L.) Delarbre,harerug
+310,102912,Fallopia dumetorum,(L.) Holub,krattslirekne
+311,102953,Rumex acetosa,L.,engsyre
+312,102958,Rumex acetosella,L.,småsyre
+313,102972,Rumex longifolius,DC.,høymol
+314,102996,Berberis vulgaris,L.,berberis
+315,103013,Corydalis intermedia,(L.) Mérat,lerkespore
+316,103073,Aconitum lycoctonum,L.,
+317,103081,Actaea spicata,L.,trollbær
+318,103087,Anemone nemorosa,L.,hvitveis
+319,103088,Anemone ranunculoides,L.,gulveis
+320,103093,Aquilegia vulgaris,L.,akeleie
+321,103123,Ficaria verna,Huds.,vårkål
+322,103127,Hepatica nobilis,Mill.,blåveis
+323,103134,Pulsatilla vernalis,(L.) Mill.,mogop
+324,103138,Ranunculus acris,L.,bakkesoleie
+325,103144,Ranunculus auricomus,L.,lundnyresoleie
+326,103161,Ranunculus platanifolius,L.,hvitsoleie
+327,103162,Ranunculus polyanthemos,L.,krattsoleie
+328,103168,Ranunculus repens,L.,krypsoleie
+329,103193,Trollius europaeus,L.,ballblom
+330,103199,Humulus lupulus,L.,humle
+331,103212,Frangula alnus,Mill.,trollhegg
+332,103225,Alchemilla filicaulis,Buser,grannmarikåpe
+333,103276,Cotoneaster integerrimus,Medik.,dvergmispel
+334,103282,Cotoneaster niger,(Wahlb.) Fr.,svartmispel
+335,103303,Dryas octopetala,L.,reinrose
+336,103310,Filipendula ulmaria,(L.) Maxim.,mjødurt
+337,103311,Filipendula vulgaris,Moench,knollmjødurt
+338,103316,Fragaria vesca,L.,markjordbær
+339,103323,Geum rivale,L.,enghumleblom
+340,103324,Geum urbanum,L.,kratthumleblom
+341,103342,Potentilla argentea,L.,sølvmure
+342,103345,Potentilla crantzii,(Crantz) Beck ex Fritsch,flekkmure
+343,103347,Potentilla erecta,(L.) Raeusch.,tepperot
+344,103368,Prunus avium,(L.) L.,morell
+345,103375,Prunus padus,L.,hegg
+346,103380,Prunus spinosa,L.,slåpetorn
+347,103387,Rosa canina,L.,steinnype
+348,103393,Rosa majalis,Herrm.,kanelrose
+349,103396,Rosa mollis,Sm.,bustnype
+350,103427,Rubus idaeus,L.,bringebær
+351,103450,Rubus saxatilis,L.,teiebær
+352,103483,Sorbus aucuparia,L.,rogn
+353,103486,Sorbus hybrida,L.,rognasal
+354,103527,Ulmus glabra,Huds.,alm
+355,103538,Urtica dioica,L.,stornesle
+356,103559,Acer platanoides,L.,spisslønn
+357,103583,Hylotelephium maximum,(L.) Holub,smørbukk
+358,103595,Sedum acre,L.,bitterbergknapp
+359,103596,Sedum album,L.,hvitbergknapp
+360,103598,Sedum annuum,L.,småbergknapp
+361,103601,Sedum rupestre,L.,broddbergknapp
+362,103609,Ribes alpinum,L.,alperips
+363,103616,Ribes spicatum,E.Robson,villrips
+364,103620,Ribes uva-crispa,L.,stikkelsbær
+365,103632,Chrysosplenium alternifolium,L.,maigull
+366,103646,Saxifraga adscendens,L.,skåresildre
+367,103677,Saxifraga tridactylites,L.,trefingersildre
+368,103785,Juniperus communis,L.,einer
+369,103807,Picea abies,(L.) H.Karst.,gran
+370,103825,Pinus sylvestris,L.,furu
+371,103834,Taxus baccata,L.,barlind
+372,103842,Diphasiastrum complanatum,(L.) Holub,viftejamne
+373,103850,Huperzia selago,(L.) Bernh. ex Schrank & Mart.,lusegras
+374,103854,Lycopodium annotinum,L.,stri kråkefot
+375,103857,Lycopodium clavatum,L.,myk kråkefot
+376,103862,Selaginella selaginoides,(L.) P.Beauv. ex Mart. & Schrank,dvergjamne
+377,103879,Asplenium ruta-muraria,L.,murburkne
+378,103881,Asplenium septentrionale,(L.) Hoffm.,olavsskjegg
+379,103882,Asplenium trichomanes,L.,svartburkne
+380,103885,Asplenium viride,Huds.,grønnburkne
+381,103888,Blechnum spicant,(L.) Roth,bjørnekam
+382,103891,Pteridium aquilinum,(L.) Kuhn,einstape
+383,103901,Dryopteris carthusiana,(Vill.) H.P.Fuchs,broddtelg
+384,103903,Dryopteris dilatata,(Hoffm.) A.Gray,geittelg
+385,103904,Dryopteris expansa,(C.Presl) Fraser-Jenk. & Jermy,sauetelg
+386,103906,Dryopteris filix-mas,(L.) Schott,ormetelg
+387,103908,Polystichum aculeatum,(L.) Roth,falkbregne
+388,103909,Polystichum braunii,(Spenn.) Fée,junkerbregne
+389,103910,Polystichum lonchitis,(L.) Roth,taggbregne
+390,103914,Polypodium vulgare,L.,sisselrot
+391,103919,Phegopteris connectilis,(Michx.) Watt,hengeving
+392,103924,Athyrium distentifolium,Tausch ex Opiz,fjellburkne
+393,103925,Athyrium filix-femina,(L.) Roth,skogburkne
+394,103928,Cystopteris fragilis,(L.) Bernh.,skjørlok
+395,103929,Cystopteris montana,(Lam.) Bernh. ex Desv.,fjell-lok
+396,103935,Gymnocarpium dryopteris,(L.) Newman,fugletelg
+397,103937,Gymnocarpium robertianum,(Hoffm.) Newman,kalktelg
+398,103939,Matteuccia struthiopteris,(L.) Tod.,strutseving
+399,103943,Woodsia ilvensis,(L.) R.Br.,lodnebregne
+400,103954,Equisetum arvense,L.,åkersnelle
+401,103958,Equisetum hyemale,L.,skavgras
+402,103961,Equisetum pratense,Ehrh.,engsnelle
+403,103963,Equisetum sylvaticum,L.,skogsnelle
+404,103998,Archidium alternifolium,(Hedw.) Mitt.,sporemose
+405,104002,Aulacomnium palustre,(Hedw.) Schwägr.,myrfiltmose
+406,104032,Bryum argenteum,Hedw.,sølvvrangmose
+407,104037,Bryum capillare,Hedw.,skruevrangmose
+408,104056,Bryum pseudotriquetrum,(Hedw.) P.Gaertn. et al.,bekkevrangmose
+409,104087,Rhizomnium magnifolium,(Horik.) T.J.Kop.,storrundmose
+410,104088,Rhizomnium pseudopunctatum,(Bruch & Schimp.) T.J.Kop.,fjellrundmose
+411,104089,Rhizomnium punctatum,(Hedw.) T.J.Kop.,bekkerundmose
+412,104091,Rhodobryum roseum,(Hedw.) Limpr.,rosettmose
+413,104099,Pohlia annotina,(Hedw.) Lindb.,taggknoppnikke
+414,104103,Pohlia cruda,(Hedw.) Lindb.,opalnikke
+415,104114,Pohlia nutans,(Hedw.) Lindb.,vegnikke
+416,104125,Mnium hornum,Hedw.,kysttornemose
+417,104128,Mnium spinosum,(Voit) Schwägr.,strøtornemose
+418,104129,Mnium stellare,Hedw.,stjernetornemose
+419,104133,Plagiomnium affine,(Blandow ex Funck) T.J.Kop.,skogfagermose
+420,104135,Plagiomnium cuspidatum,(Hedw.) T.J.Kop.,broddfagermose
+421,104136,Plagiomnium elatum,(Bruch & Schimp.) T.J.Kop.,kalkfagermose
+422,104137,Plagiomnium ellipticum,(Brid.) T.J.Kop.,sumpfagermose
+423,104138,Plagiomnium medium,(Bruch & Schimp.) T.J.Kop.,krattfagermose
+424,104139,Plagiomnium rostratum,(Schrad.) T.J.Kop.,nebbfagermose
+425,104140,Plagiomnium undulatum,(Hedw.) T.J.Kop.,krusfagermose
+426,104145,Buxbaumia aphylla,Hedw.,brunsko
+427,104159,Dicranella heteromalla,(Hedw.) Schimp.,smaragdgrøftemose
+428,104164,Dicranella subulata,(Hedw.) Schimp.,faksgrøftemose
+429,104165,Dicranella varia,(Hedw.) Schimp.,kantgrøftemose
+430,104171,Dicranum drummondii,Müll.Hal.,kjempesigd
+431,104177,Dicranum fuscescens,Sm.,bergsigd
+432,104181,Dicranum majus,Sm.,blanksigd
+433,104182,Dicranum montanum,Hedw.,stubbesigd
+434,104183,Dicranum polysetum,Sw. ex anon.,krussigd
+435,104184,Dicranum scoparium,Hedw.,ribbesigd
+436,104187,Dicranum spurium,Hedw.,rabbesigd
+437,104196,Ceratodon purpureus,(Hedw.) Brid.,ugrasvegmose
+438,104200,Distichium capillaceum,(Hedw.) Bruch & Schimp.,puteplanmose
+439,104204,Ditrichum flexicaule,(Schwägr.) Hampe,storbust
+440,104206,Ditrichum heteromallum,(Hedw.) E.Britton,rødbust
+441,104208,Ditrichum pusillum,(Hedw.) Hampe,falsbust
+442,104218,Trichodon cylindricus,(Hedw.) Schimp.,rubust
+443,104221,Fissidens adianthoides,Hedw.,saglommemose
+444,104223,Fissidens bryoides,Hedw.,dverglommemose
+445,104225,Fissidens dubius,P.Beauv.,kystlommemose
+446,104226,Fissidens exilis,Hedw.,grøftelommemose
+447,104232,Fissidens taxifolius,Hedw.,kalklommemose
+448,104233,Fissidens viridulus,(Sw. ex anon.) Wahlenb.,leirlommemose
+449,104252,Leucobryum glaucum,(Hedw.) Ångstr.,blåmose
+450,104303,Schistostega pennata,(Hedw.) F.Weber & D.Mohr,lysmose
+451,104306,Diphyscium foliosum,(Hedw.) D.Mohr,nøttemose
+452,104324,Encalypta streptocarpa,Hedw.,storklokkemose
+453,104328,Discelium nudum,(Dicks.) Brid.,flaggmose
+454,104335,Funaria hygrometrica,Hedw.,pestbråtemose
+455,104374,Racomitrium canescens,(Hedw.) Brid.,sandgråmose
+456,104382,Racomitrium lanuginosum,(Hedw.) Brid.,heigråmose
+457,104468,Amblystegium serpens,(Hedw.) Schimp.,trådkrypmose
+458,104477,Campylium stellatum,(Hedw.) Lange & C.E.O.Jensen,myrstjernemose
+459,104522,Sanionia uncinata,(Hedw.) Loeske,klobleikmose
+460,104528,Tomentypnum nitens,(Hedw.) Loeske,gullmose
+461,104539,Brachytheciastrum velutinum,(Hedw.) Ignatov & Huttunen,fløyelslundmose
+462,104547,Brachythecium glareosum,(Bruch ex Spruce) Schimp.,gull-lundmose
+463,104549,Brachythecium rivulare,Schimp.,sumplundmose
+464,104550,Brachythecium rutabulum,(Hedw.) Schimp.,storlundmose
+465,104551,Brachythecium salebrosum,(Hoffm. ex F.Weber & D.Mohr) Schimp.,lilundmose
+466,104558,Cirriphyllum piliferum,(Hedw.) Grout,lundveikmose
+467,104560,Eurhynchiastrum pulchellum,(Hedw.) Ignatov & Huttunen,krypmoldmose
+468,104562,Eurhynchium angustirete,(Broth.) T.J.Kop.,hasselmoldmose
+469,104566,Homalothecium sericeum,(Hedw.) Schimp.,krypsilkemose
+470,104568,Kindbergia praelonga,(Hedw.) Ochyra,sprikemoldmose
+471,104570,Oxyrrhynchium hians,(Hedw.) Loeske,oremoldmose
+472,104572,Oxyrrhynchium schleicheri,(R.Hedw.) Röll,spordmoldmose
+473,104593,Sciuro-hypnum populeum,(Hedw.) Ignatov & Huttunen,ospelundmose
+474,104594,Sciuro-hypnum reflexum,(Starke) Ignatov & Huttunen,sprikelundmose
+475,104595,Sciuro-hypnum starkei,(Brid.) Ignatov & Huttunen,strølundmose
+476,104614,Straminergon stramineum,(Dicks. ex Brid.) Hedenäs,grasmose
+477,104620,Climacium dendroides,(Hedw.) F.Weber & D.Mohr,palmemose
+478,104639,Hylocomiastrum pyrenaicum,(Spruce) M.Fleisch.,seterhusmose
+479,104640,Hylocomiastrum umbratum,(Hedw.) M.Fleisch.,skyggehusmose
+480,104642,Hylocomium splendens,(Hedw.) Schimp.,etasjemose
+481,104646,Pleurozium schreberi,(Willd. ex Brid.) Mitt.,furumose
+482,104648,Rhytidiadelphus loreus,(Hedw.) Warnst.,kystkransmose
+483,104649,Rhytidiadelphus squarrosus,(Hedw.) Warnst.,engkransmose
+484,104650,Rhytidiadelphus subpinnatus,(Lindb.) T.J.Kop.,fjærkransmose
+485,104651,Rhytidiadelphus triquetrus,(Hedw.) Warnst.,storkransmose
+486,104658,Calliergonella cuspidata,(Hedw.) Loeske,sumpbroddmose
+487,104659,Calliergonella lindbergii,(Mitt.) Hedenäs,engbroddmose
+488,104665,Ctenidium molluscum,(Hedw.) Mitt.,kammose
+489,104674,Hypnum cupressiforme,Hedw.,matteflette
+490,104685,Ptilium crista-castrensis,(Hedw.) De Not.,fjærmose
+491,104692,Isothecium alopecuroides,(Lam. ex Dubois) Isov.,rottehalemose
+492,104694,Isothecium myosuroides,Brid.,musehalemose
+493,104701,Pseudoleskea incurvata,(Hedw.) Loeske,krokraspmose
+494,104703,Pseudoleskea radicosa,(Mitt.) Macoun & Kindb.,seterraspmose
+495,104724,Homalia trichomanoides,(Hedw.) Schimp.,glansmose
+496,104736,Herzogiella seligeri,(Brid.) Z.Iwats.,stubbefauskmose
+497,104737,Herzogiella striatella,(Brid.) Z.Iwats.,stridfauskmose
+498,104754,Plagiothecium cavifolium,(Brid.) Z.Iwats.,skeijamnemose
+499,104756,Plagiothecium denticulatum,(Hedw.) Schimp.,flakjamnemose
+500,104757,Plagiothecium laetum,Schimp.,glansjamnemose
+501,104758,Plagiothecium latebricola,Schimp.,orejamnemose
+502,104759,Plagiothecium nemorale,(Mitt.) A.Jaeger,skrumpjamnemose
+503,104764,Plagiothecium undulatum,(Hedw.) Schimp.,kystjamnemose
+504,104768,Pseudotaxiphyllum elegans,(Brid.) Z.Iwats.,skimmermose
+505,104783,Rhytidium rugosum,(Hedw.) Kindb.,labbmose
+506,104789,Abietinella abietina,(Hedw.) M.Fleisch.,granmose
+507,104794,Thuidium delicatulum,(Hedw.) Schimp.,bleiktujamose
+508,104796,Thuidium tamariscinum,(Hedw.) Schimp.,stortujamose
+509,104846,Atrichum undulatum,(Hedw.) P.Beauv.,stortaggmose
+510,104853,Pogonatum urnigerum,(Hedw.) P.Beauv.,vegkrukkemose
+511,104855,Polytrichastrum alpinum,(Hedw.) G.L.Sm.,fjellbinnemose
+512,104856,Polytrichastrum formosum,(Hedw.) G.L.Sm.,kystbinnemose
+513,104861,Polytrichum commune,Hedw.,storbjørnemose
+514,104864,Polytrichum juniperinum,Hedw.,einerbjørnemose
+515,104865,Polytrichum piliferum,Hedw.,rabbebjørnemose
+516,104885,Aloina brevirostris,(Hook. & Grev.) Kindb.,småtøffelmose
+517,104886,Aloina rigida,(Hedw.) Limpr.,ranktøffelmose
+518,104890,Barbula convoluta,Hedw.,slireskruemose
+519,104892,Barbula unguiculata,Hedw.,vegskruemose
+520,104896,Bryoerythrophyllum recurvirostrum,(Hedw.) P.C.Chen,rødfotmose
+521,104900,Didymodon fallax,(Hedw.) R.H.Zander,vegkurlemose
+522,104944,Syntrichia ruralis,(Hedw.) F.Weber & D.Mohr,putehårstjerne
+523,104950,Tortella tortuosa,(Hedw.) Limpr.,putevrimose
+524,104982,Sphagnum angustifolium,(C.E.O.Jensen ex Russow) C.E.O.Jensen,klubbetorvmose
+525,104989,Sphagnum capillifolium,(Ehrh.) Hedw.,furutorvmose
+526,104991,Sphagnum compactum,Lam. & DC.,stivtorvmose
+527,104999,Sphagnum girgensohnii,Russow,grantorvmose
+528,105014,Sphagnum quinquefarium,(Braithw.) Warnst.,lyngtorvmose
+529,105018,Sphagnum russowii,Warnst.,tvaretorvmose
+530,105019,Sphagnum squarrosum,Crome,spriketorvmose
+531,105038,Leptobryum pyriforme,(Hedw.) Wilson,pæremose
+532,105073,Tetraphis pellucida,Hedw.,firtannmose
+533,105098,Calypogeia azurea,Stotler & Crotz,blåflak
+534,105100,Calypogeia integristipula,Steph.,skogflak
+535,105101,Calypogeia muelleriana,(Schiffn.) Müll.Frib.,sumpflak
+536,105102,Calypogeia neesiana,(C.Massal. & Carestia) Müll.Frib.,torvflak
+537,105109,Cephalozia bicuspidata,(L.) Dumort.,broddglefsemose
+538,105114,Cephalozia lunulifolia,(Dumort.) Dumort.,myrglefsemose
+539,105116,Cephalozia pleniceps,(Austin) Lindb.,storglefsemose
+540,105132,Cephaloziella,(Spruce) Schiffn.,pistremoseslekta
+541,105158,Frullania tamarisci,(L.) Dumort.,matteblæremose
+542,105161,Chiloscyphus pallescens,(Ehrh. ex Hoffm.) Dumort.,bleikblonde
+543,105162,Chiloscyphus polyanthos,(L.) Corda,bekkeblonde
+544,105166,Harpanthus flotovianus,(Nees) Nees,kildesalmose
+545,105173,Lophocolea heterophylla,(Schrad.) Dumort.,stubbeblonde
+546,105174,Lophocolea minor,Nees,grynblonde
+547,105237,Nardia scalaris,Gray,oljetrappemose
+548,105252,Bazzania trilobata,(L.) Gray,storstylte
+549,105260,Lepidozia reptans,(L.) Dumort.,skogkrekmose
+550,105275,Barbilophozia attenuata,(Mart.) Loeske,piskskjeggmose
+551,105276,Barbilophozia barbata,(Schmidel ex Schreb.) Loeske,skogskjeggmose
+552,105278,Barbilophozia floerkei,(F.Weber & D.Mohr) Loeske,lyngskjeggmose
+553,105279,Barbilophozia hatcheri,(A.Evans) Loeske,grynskjeggmose
+554,105280,Barbilophozia kunzeana,(Huebener) Müll.Frib.,myrskjeggmose
+555,105281,Barbilophozia lycopodioides,(Wallr.) Loeske,gåsefotskjeggmose
+556,105297,Leiocolea heterocolpos,(Thed. ex Hartm.) H.Buch,piskflik
+557,105311,Lophozia incisa,(Schrad.) Dumort.,lurvflik
+558,105318,Lophozia obtusa,(Lindb.) A.Evans,buttflik
+559,105328,Lophozia ventricosa,(Dicks.) Dumort.,grokornflik
+560,105342,Tritomaria quinquedentata,(Huds.) H.Buch,storhoggtann
+561,105352,Plagiochila asplenioides,(L.) Dumort.,prakthinnemose
+562,105355,Plagiochila porelloides,(Torr. ex Nees) Lindenb.,berghinnemose
+563,105369,Blepharostoma trichophyllum,(L.) Dumort.,piggtrådmose
+564,105374,Ptilidium ciliare,(L.) Hampe,bakkefrynse
+565,105375,Ptilidium pulcherrimum,(Weber) Vain.,barkfrynse
+566,105383,Diplophyllum albicans,(L.) Dumort.,stripefoldmose
+567,105385,Diplophyllum taxifolium,(Wahlenb.) Dumort.,bergfoldmose
+568,105403,Scapania irrigua,(Nees) Nees,sumptvebladmose
+569,105417,Scapania scandica,(Arnell & H.Buch) Macvicar,butt-tvebladmose
+570,105440,Conocephalum conicum,(L.) Dumort.,sumpkrokodillemose
+571,105446,Marchantia polymorpha,L.,tvaremose
+572,105467,Riccia sorocarpa,Bisch.,rosettgaffelmose
+573,105486,Blasia pusilla,L.,flekkmose
+574,105497,Metzgeria furcata,(L.) Dumort.,gulband
+575,105503,Pellia,Raddi,vårmoseslekta
+576,127757,Oxystegus tenuirostris,(Hook. & Taylor) A.J.E.Sm.,kaursvamose
+577,141635,Rhamnus cathartica,L.,geitved
+578,143502,Lysimachia europaea,(L.) U.Manns & Anderb.,skogstjerne
+579,143537,Pilosella officinarum,Vaill.,hårsveve
+580,143584,Dactylorhiza maculata fuchsii,(Druce) Hyl.,skogmarihand
+581,145690,Drymochloa sylvatica,(Pollich) Holub,skogsvingel
+582,156958,Erysimum virgatum,Roth,berggull
+583,157722,Helictotrichon pratense,(L.) Pilg.,enghavre
+584,157723,Helictotrichon pubescens,(Huds.) Schult. & Schult. f.,dunhavre
+585,160988,Rubus fruticosus coll.,auct.,bjørnebær
+586,186494,Carex pediformis,C.A.Mey.,
+587,204250,Sciuro-hypnum curtum,(Lindb.) Ignatov,bregnelundmose
