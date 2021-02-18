@@ -888,7 +888,7 @@ pid,_id,majorTypeLEC_id,order,detail_id
 886,M14-SA.abc,M14-SA,0.0,
 887,M14-SA.def,M14-SA,1.0,
 888,T5-GS.a,T5-GS,0.0,
-889,T5-GS.bc,T5-GS,1.0,
+889,T5-GS.bcd,T5-GS,1.0,
 890,T5-GS.¤,T5-GS,2.0,
 891,T5-KA.abc,T5-KA,0.0,
 892,T5-KA.defg,T5-KA,1.0,

@@ -1921,8 +1921,9 @@ pid,standardSegment_id,elementarySegment_id
 1919,M14-SA.def,SA.e
 1920,M14-SA.def,SA.f
 1921,T5-GS.a,GS.a
-1922,T5-GS.bc,GS.b
-1923,T5-GS.bc,GS.c
+1922,T5-GS.bcd,GS.b
+1923,T5-GS.bcd,GS.c
+2100,T5-GS.bcd,GS.d
 1924,T5-GS.¤,GS.¤
 1925,T5-KA.abc,KA.a
 1926,T5-KA.abc,KA.b
