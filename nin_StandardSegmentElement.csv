@@ -534,8 +534,8 @@ pid,standardSegment_id,elementarySegment_id
 532,L3-KA.fghi,KA.i
 533,L3-IO.0a,IO.0
 534,L3-IO.0a,IO.a
-535,L3-IO.bc,IO.b
-536,L3-IO.bc,IO.c
+535,L3-IO.b¤,IO.b
+536,L3-IO.b¤,IO.¤
 537,L5-KT.a,KT.a
 538,L5-KT.b,KT.b
 539,L5-KT.c,KT.c
@@ -564,10 +564,10 @@ pid,standardSegment_id,elementarySegment_id
 562,L5-VF.0abcde,VF.c
 563,L5-VF.0abcde,VF.d
 564,L5-VF.0abcde,VF.e
-565,L5-VF.fghi,VF.f
-566,L5-VF.fghi,VF.g
-567,L5-VF.fghi,VF.h
-568,L5-VF.fghi,VF.i
+565,L5-VF.fgh¤,VF.f
+566,L5-VF.fgh¤,VF.g
+567,L5-VF.fgh¤,VF.h
+568,L5-VF.fgh¤,VF.¤
 569,T20-KA.cde,KA.c
 570,T20-KA.cde,KA.d
 571,T20-KA.cde,KA.e
