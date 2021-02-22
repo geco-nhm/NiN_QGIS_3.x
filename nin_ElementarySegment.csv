@@ -97,7 +97,7 @@ pid,_id,lec_id,value,order
 95,KI.b,KI,b,3
 96,KI.c,KI,c,4
 97,KO.0,KO,0,0
-98,KO.¤,KO,¤,1
+98,KO.+,KO,+,1
 99,KT.a,KT,a,0
 100,KT.b,KT,b,1
 101,KT.c,KT,c,2
