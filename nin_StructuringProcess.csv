@@ -1,5 +1,5 @@
-pid,_id,detail_id
-0,D,structuring_process_D
-1,L,structuring_process_L
-2,R,structuring_process_R
-3,S,structuring_process_S
+,pid,_id,detail_id
+0,1,D,structuring_process_D
+1,2,L,structuring_process_L
+2,3,R,structuring_process_R
+3,4,S,structuring_process_S
