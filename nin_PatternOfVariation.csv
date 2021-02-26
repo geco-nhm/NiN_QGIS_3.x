@@ -1,7 +1,7 @@
-,pid,_id,detail_id
-0,1,f,pattern_of_variation_f
-1,2,g,pattern_of_variation_g
-2,3,ga,pattern_of_variation_ga
-3,4,gs,pattern_of_variation_gs
-4,5,t,pattern_of_variation_t
-5,6,mf,pattern_of_variation_mf
+pid,_id,detail_id
+1,f,pattern_of_variation_f
+2,g,pattern_of_variation_g
+3,ga,pattern_of_variation_ga
+4,gs,pattern_of_variation_gs
+5,t,pattern_of_variation_t
+6,mf,pattern_of_variation_mf
