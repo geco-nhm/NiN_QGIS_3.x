@@ -621,8 +621,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 620,T1-OR.0,T1-OR,0.0,,OR,T-1,1.0
 621,T1-OR.ab,T1-OR,1.0,,OR,T-1,0.0
 622,T1-OR.c,T1-OR,2.0,,OR,T-1,0.0
-623,T1-HF.0ab,T1-HF,0.0,,HF,T-1,1.0
-624,T1-HF.+,T1-HF,1.0,,HF,T-1,0.0
+623,T1-HF.0ab,T1-HF,0.0,,HF,T-1,0.0
+624,T1-HF.+,T1-HF,1.0,,HF,T-1,1.0
 625,T1-VF.a,T1-VF,0.0,,VF,T-1,1.0
 626,T1-VF.bcdef,T1-VF,1.0,,VF,T-1,0.0
 627,T1-VS.0abcd,T1-VS,0.0,,VS,T-1,1.0
