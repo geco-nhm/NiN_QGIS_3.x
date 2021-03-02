@@ -107,9 +107,9 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 106,M1-DL.a,M1-DL,0.0,,DL,M-1,1.0
 107,M1-DL.bc,M1-DL,1.0,,DL,M-1,0.0
 108,M1-DL.d,M1-DL,2.0,,DL,M-1,0.0
-109,M1-SA.a,M1-SA,0.0,,SA,M-1,1.0
+109,M1-SA.a,M1-SA,0.0,,SA,M-1,0.0
 110,M1-SA.bc,M1-SA,1.0,,SA,M-1,0.0
-111,M1-SA.def,M1-SA,2.0,,SA,M-1,0.0
+111,M1-SA.def,M1-SA,2.0,,SA,M-1,1.0
 112,M1-HF.0ab,M1-HF,0.0,,HF,M-1,1.0
 113,M1-HF.+,M1-HF,1.0,,HF,M-1,0.0
 114,M1-S1.a,M1-S1,0.0,,S1,M-1,1.0
