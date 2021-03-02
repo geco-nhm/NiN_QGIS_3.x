@@ -366,8 +366,10 @@ pid,minorType_id,standardSegment_id
 361,M3-18,M3-TV.fgh
 362,M3-19,M3-VF.0ab
 363,M3-19,M3-VF.cd
+363,M3-19,M3-VF.efg
 364,M3-19,M3-TV.ab
 365,M3-19,M3-TV.cde
+365,M3-19,M3-TV.fgh
 366,M3-19,M3-IF.¤
 367,M4-1,M4-DL.abc
 368,M4-1,M4-SA.de
