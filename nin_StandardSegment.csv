@@ -498,8 +498,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 497,M4-S3S.b,M4-S3S,2.0,,S3S,M-4,0.0
 498,M4-DL.abc,M4-DL,0.0,,DL,M-4,1.0
 499,M4-DL.d,M4-DL,1.0,,DL,M-4,0.0
-500,M4-SA.abc,M4-SA,0.0,,SA,M-4,1.0
-501,M4-SA.de,M4-SA,1.0,,SA,M-4,0.0
+500,M4-SA.abc,M4-SA,0.0,,SA,M-4,0.0
+501,M4-SA.de,M4-SA,1.0,,SA,M-4,1.0
 502,M4-TV.0,M4-TV,0.0,,TV,M-4,1.0
 503,M4-TV.ab,M4-TV,1.0,,TV,M-4,0.0
 504,M4-IO.0ab,M4-IO,0.0,,IO,M-4,1.0
