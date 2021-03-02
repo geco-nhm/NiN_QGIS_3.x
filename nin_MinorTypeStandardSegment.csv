@@ -865,10 +865,10 @@ pid,minorType_id,standardSegment_id
 864,L2-4,L2-S3F.c¤
 865,L2-4,L2-IO.b¤
 866,L2-5,L2-KA.ab
-867,L2-5,L2-S3S.0
+867,L2-5,L2-S3S.e
 868,L2-5,L2-S3F.c¤
 869,L2-6,L2-KA.ab
-870,L2-6,L2-S3S.0
+870,L2-6,L2-S3S.e
 871,L2-6,L2-S3F.c¤
 872,L2-6,L2-VT.c
 873,L2-7,L2-KA.cde
@@ -889,7 +889,7 @@ pid,minorType_id,standardSegment_id
 888,L2-11,L2-S3F.c¤
 889,L2-11,L2-IO.b¤
 890,L2-12,L2-KA.cde
-891,L2-12,L2-S3S.0
+891,L2-12,L2-S3S.e
 892,L2-12,L2-S3F.c¤
 893,L2-13,L2-KA.fghi
 894,L2-13,L2-S3E.0abc
@@ -914,7 +914,7 @@ pid,minorType_id,standardSegment_id
 913,L2-18,L2-S3F.c¤
 914,L2-18,L2-IO.b¤
 915,L2-19,L2-KA.fghi
-916,L2-19,L2-S3S.0
+916,L2-19,L2-S3S.e
 917,L2-19,L2-S3F.c¤
 918,L3-1,L3-KA.abcde
 919,L3-2,L3-KA.fghi
