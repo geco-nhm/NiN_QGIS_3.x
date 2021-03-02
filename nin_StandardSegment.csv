@@ -715,9 +715,9 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 714,M3-TV.ab,M3-TV,0.0,,TV,M-3,1.0
 715,M3-TV.cde,M3-TV,1.0,,TV,M-3,0.0
 716,M3-TV.fgh,M3-TV,2.0,,TV,M-3,0.0
-717,M3-SA.a,M3-SA,0.0,,SA,M-3,1.0
+717,M3-SA.a,M3-SA,0.0,,SA,M-3,0.0
 718,M3-SA.bc,M3-SA,1.0,,SA,M-3,0.0
-719,M3-SA.def,M3-SA,2.0,,SA,M-3,0.0
+719,M3-SA.def,M3-SA,2.0,,SA,M-3,1.0
 720,M3-HF.0ab,M3-HF,0.0,,HF,M-3,1.0
 721,M3-HF.+,M3-HF,1.0,,HF,M-3,0.0
 722,M3-IF.0ab,M3-IF,0.0,,IF,M-3,1.0
