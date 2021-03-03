@@ -423,8 +423,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 422,T13-S1.b,T13-S1,0.0,,S1,T-13,1.0
 423,T13-S1.c,T13-S1,1.0,,S1,T-13,0.0
 424,T13-S1.def,T13-S1,2.0,,S1,T-13,0.0
-425,T13-UE.abc,T13-UE,0.0,,UE,T-13,1.0
-426,T13-UE.defg,T13-UE,1.0,,UE,T-13,0.0
+425,T13-UE.abc,T13-UE,0.0,,UE,T-13,0.0
+426,T13-UE.defg,T13-UE,1.0,,UE,T-13,1.0
 427,T13-RU.bcde,T13-RU,0.0,,RU,T-13,1.0
 428,T13-RU.¤,T13-RU,1.0,,RU,T-13,0.0
 429,T13-BK.0,T13-BK,0.0,,BK,T-13,1.0
