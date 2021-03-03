@@ -3033,6 +3033,7 @@ pid,_id,minorType_id,mappingScale_id,detail_id,is_implemented
 3015,T27-C-5,T27-5,5000,minor_type_scaled_T27-C-5,1
 3016,T27-C-6,T27-6,5000,minor_type_scaled_T27-C-6,1
 3017,T27-C-7,T27-7,5000,minor_type_scaled_T27-C-7,1
+3017,T27-C-8,T27-7,5000,minor_type_scaled_T27-C-7,1
 3018,T27-D-1,T27-1,10000,minor_type_scaled_T27-C-1,1
 3019,T27-D-1,T27-1,10000,minor_type_scaled_T27-C-2,1
 3020,T27-D-1,T27-1,10000,minor_type_scaled_T27-C-6,1

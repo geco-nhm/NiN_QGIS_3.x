@@ -236,8 +236,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 235,T27-KA.fghi,T27-KA,1.0,,KA,T-27,0.0
 236,T27-VI.0a,T27-VI,0.0,,VI,T-27,1.0
 237,T27-VI.bc,T27-VI,1.0,,VI,T-27,0.0
-238,T27-LA.0abcd,T27-LA,0.0,,LA,T-27,1.0
-239,T27-LA.ef+,T27-LA,1.0,,LA,T-27,0.0
+238,T27-LA.0abcd,T27-LA,0.0,,LA,T-27,0.0
+239,T27-LA.ef+,T27-LA,1.0,,LA,T-27,1.0
 240,T27-BK.0,T27-BK,0.0,,BK,T-27,1.0
 241,T27-BK.a,T27-BK,1.0,,BK,T-27,0.0
 242,T27-BK.b,T27-BK,2.0,,BK,T-27,0.0
@@ -603,8 +603,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 602,T29-S1.j,T29-S1,2.0,,S1,T-29,0.0
 603,T29-LA.0ab,T29-LA,0.0,,LA,T-29,1.0
 604,T29-LA.cdef,T29-LA,1.0,,LA,T-29,0.0
-605,T29-TV.ijk,T29-TV,0.0,,TV,T-29,1.0
-606,T29-TV.l+,T29-TV,1.0,,TV,T-29,0.0
+605,T29-TV.ijk,T29-TV,0.0,,TV,T-29,0.0
+606,T29-TV.l+,T29-TV,1.0,,TV,T-29,1.0
 607,T29-VI.abc,T29-VI,0.0,,VI,T-29,1.0
 608,T29-VI.¤,T29-VI,1.0,,VI,T-29,0.0
 609,T29-HI.0,T29-HI,0.0,,HI,T-29,1.0
