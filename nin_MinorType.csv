@@ -454,6 +454,9 @@ pid,_id,majorType_id,detail_id
 453,T18-2,T-18,minor_type_T18-2
 454,T18-3,T-18,minor_type_T18-3
 455,T18-4,T-18,minor_type_T18-4
+455,T18-4-1,T-18,
+455,T18-4-2,T-18,
+455,T18-4-3,T-18,
 456,T18-5,T-18,minor_type_T18-5
 457,T18-6,T-18,minor_type_T18-6
 458,T19-1,T-19,minor_type_T19-1
