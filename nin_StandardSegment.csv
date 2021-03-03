@@ -796,8 +796,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 795,T26-SV.abcd,T26-SV,1.0,,SV,T-26,0.0
 796,T26-VM.0a,T26-VM,0.0,,VM,T-26,1.0
 797,T26-VM.b,T26-VM,1.0,,VM,T-26,0.0
-798,T26-LA.0ab,T26-LA,0.0,,LA,T-26,1.0
-799,T26-LA.cdef,T26-LA,1.0,,LA,T-26,0.0
+798,T26-LA.0ab,T26-LA,0.0,,LA,T-26,0.0
+799,T26-LA.cdef,T26-LA,1.0,,LA,T-26,1.0
 800,T26-S1.cd,T26-S1,0.0,,S1,T-26,1.0
 801,T26-S1.efg,T26-S1,1.0,,S1,T-26,0.0
 802,T26-S1.hi,T26-S1,2.0,,S1,T-26,0.0
