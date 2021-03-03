@@ -437,6 +437,8 @@ pid,_id,majorType_id,detail_id
 436,T14-1,T-14,minor_type_T14-1
 437,T14-2,T-14,minor_type_T14-2
 438,T14-3,T-14,minor_type_T14-3
+438,T14-3-1,T-14,
+438,T14-3-2,T-14,
 439,T15-1,T-15,minor_type_T15-1
 440,T15-2,T-15,minor_type_T15-2
 441,T16-1,T-16,minor_type_T16-1

@@ -1568,6 +1568,10 @@ pid,minorType_id,standardSegment_id
 1557,T14-3,T14-VI.¤
 1558,T14-3,T14-KA.abcde
 1559,T14-3,T14-KA.fghi
+1557,T14-3-1,T14-VI.¤
+1558,T14-3-1,T14-KA.abcde
+1557,T14-3-2,T14-VI.¤
+1559,T14-3-2,T14-KA.fghi
 1560,T15-1,T15-KA.cde
 1561,T15-2,T15-KA.fgh
 1562,T16-1,T16-KA.abc
