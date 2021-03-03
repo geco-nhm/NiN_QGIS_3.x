@@ -2190,8 +2190,8 @@ pid,_id,elementarySegment_id,majorType_id,lec_id,standardSegment_id
 2194,VF.0,VF.0,T-30,VF,
 2195,VF.a,VF.a,T-30,VF,
 2196,VF.b,VF.b,T-30,VF,T30-VF.bc
-2197,VF.cd,VF.c,T-30,VF,T30-VF.bc
-2198,VF.cd,VF.d,T-30,VF,T30-VF.de
+2197,VF.c,VF.c,T-30,VF,T30-VF.bc
+2198,VF.d,VF.d,T-30,VF,T30-VF.de
 2199,VF.e,VF.e,T-30,VF,T30-VF.de
 2200,VF.f,VF.f,T-30,VF,
 2201,VF.g,VF.g,T-30,VF,
