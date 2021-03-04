@@ -850,8 +850,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 849,V3-TV.gh,V3-TV,2.0,,TV,V-3,0.0
 850,V3-TV.ij,V3-TV,3.0,,TV,V-3,0.0
 851,V3-TV.k,V3-TV,4.0,,TV,V-3,0.0
-852,V3-MF.cd,V3-MF,0.0,,MF,V-3,1.0
-853,V3-MF.ef,V3-MF,1.0,,MF,V-3,0.0
+852,V3-MF.cd,V3-MF,0.0,,MF,V-3,0.0
+853,V3-MF.ef,V3-MF,1.0,,MF,V-3,1.0
 854,V3-VI.0,V3-VI,0.0,,VI,V-3,1.0
 855,V3-VI.ab,V3-VI,1.0,,VI,V-3,0.0
 856,V3-TE.0,V3-TE,0.0,,TE,V-3,1.0
