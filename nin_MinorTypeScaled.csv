@@ -1696,6 +1696,7 @@ pid,_id,minorType_id,mappingScale_id,detail_id,is_implemented
 1695,T1-B-7,T1-53,2500,minor_type_scaled_T1-C-7,1
 1696,T1-B-7,T1-54,2500,minor_type_scaled_T1-C-7,1
 1697,T1-B-7,T1-57,2500,minor_type_scaled_T1-C-7,1
+1697,T1-B-7,T1-58,2500,minor_type_scaled_T1-C-7,1
 1698,T1-B-7,T1-67,2500,minor_type_scaled_T1-C-7,1
 1699,T1-B-7,T1-68,2500,minor_type_scaled_T1-C-7,1
 1700,T1-B-7,T1-75,2500,minor_type_scaled_T1-C-7,1
@@ -1783,6 +1784,7 @@ pid,_id,minorType_id,mappingScale_id,detail_id,is_implemented
 1782,T1-C-7,T1-53,5000,minor_type_scaled_T1-C-7,1
 1783,T1-C-7,T1-54,5000,minor_type_scaled_T1-C-7,1
 1784,T1-C-7,T1-57,5000,minor_type_scaled_T1-C-7,1
+1784,T1-C-7,T1-58,5000,minor_type_scaled_T1-C-7,1
 1785,T1-C-7,T1-67,5000,minor_type_scaled_T1-C-7,1
 1786,T1-C-7,T1-68,5000,minor_type_scaled_T1-C-7,1
 1787,T1-C-7,T1-75,5000,minor_type_scaled_T1-C-7,1
@@ -1861,6 +1863,7 @@ pid,_id,minorType_id,mappingScale_id,detail_id,is_implemented
 1860,T1-D-7,T1-53,10000,minor_type_scaled_T1-C-7,1
 1861,T1-D-7,T1-54,10000,minor_type_scaled_T1-C-7,1
 1862,T1-D-7,T1-57,10000,minor_type_scaled_T1-C-7,1
+1862,T1-D-7,T1-58,10000,minor_type_scaled_T1-C-7,1
 1863,T1-D-7,T1-67,10000,minor_type_scaled_T1-C-7,1
 1864,T1-D-7,T1-68,10000,minor_type_scaled_T1-C-7,1
 1865,T1-D-7,T1-75,10000,minor_type_scaled_T1-C-7,1
