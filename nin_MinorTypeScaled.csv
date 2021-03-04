@@ -3541,7 +3541,7 @@ pid,_id,minorType_id,mappingScale_id,detail_id,is_implemented
 3522,T32-B-9,T32-9,2500,minor_type_scaled_T32-C-7,1
 3523,T32-C-1,T32-1,5000,minor_type_scaled_T32-C-1,1
 3524,T32-C-10,T32-12,5000,minor_type_scaled_T32-C-10,1
-3525,T32-C-11,T32-1,5000,minor_type_scaled_T32-C-11,1
+3525,T32-C-11,T32-13,5000,minor_type_scaled_T32-C-11,1
 3526,T32-C-12,T32-14,5000,minor_type_scaled_T32-C-12,1
 3527,T32-C-13,T32-15,5000,minor_type_scaled_T32-C-13,1
 3528,T32-C-14,T32-16,5000,minor_type_scaled_T32-C-14,1
@@ -3557,6 +3557,7 @@ pid,_id,minorType_id,mappingScale_id,detail_id,is_implemented
 3538,T32-C-4,T32-4,5000,minor_type_scaled_T32-C-6,1
 3539,T32-C-4,T32-5,5000,minor_type_scaled_T32-C-6,1
 3540,T32-C-5,T32-6,5000,minor_type_scaled_T32-C-5,1
+3540,T32-C-6,T32-7,5000,minor_type_scaled_T32-C-5,1
 3541,T32-C-7,T32-9,5000,minor_type_scaled_T32-C-7,1
 3542,T32-C-8,T32-10,5000,minor_type_scaled_T32-C-8,1
 3543,T32-C-8,T32-20,5000,minor_type_scaled_T32-C-18,1

@@ -347,8 +347,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 346,T32-KI.bc,T32-KI,1.0,,KI,T-32,0.0
 347,T32-UF.ab,T32-UF,0.0,,UF,T-32,1.0
 348,T32-UF.cde,T32-UF,1.0,,UF,T-32,0.0
-349,T32-SS.fghi,T32-SS,0.0,,SS,T-32,1.0
-350,T32-SS.jk+,T32-SS,1.0,,SS,T-32,0.0
+349,T32-SS.fghi,T32-SS,0.0,,SS,T-32,0.0
+350,T32-SS.jk+,T32-SS,1.0,,SS,T-32,1.0
 351,T32-SP.0,T32-SP,0.0,,SP,T-32,1.0
 352,T32-SP.a,T32-SP,1.0,,SP,T-32,0.0
 353,T32-VM.0a,T32-VM,0.0,,VM,T-32,1.0
