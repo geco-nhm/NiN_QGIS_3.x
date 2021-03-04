@@ -387,8 +387,8 @@ pid,_id,majorTypeLEC_id,order,detail_id,lec_id,majorType_id,selected
 386,V1-TV.gh,V1-TV,2.0,,TV,V-1,0.0
 387,V1-TV.ij,V1-TV,3.0,,TV,V-1,0.0
 388,V1-TV.k,V1-TV,4.0,,TV,V-1,0.0
-389,V1-MF.cd,V1-MF,0.0,,MF,V-1,1.0
-390,V1-MF.ef,V1-MF,1.0,,MF,V-1,0.0
+389,V1-MF.cd,V1-MF,0.0,,MF,V-1,0.0
+390,V1-MF.ef,V1-MF,1.0,,MF,V-1,1.0
 391,V1-KI.0,V1-KI,0.0,,KI,V-1,1.0
 392,V1-KI.bc,V1-KI,1.0,,KI,V-1,0.0
 393,V1-SA.0a,V1-SA,0.0,,SA,V-1,1.0
