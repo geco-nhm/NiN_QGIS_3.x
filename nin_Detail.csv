@@ -1,893 +1,893 @@
 pid,_id,language_id,key,value
-1,elementary_segment_AS.0,en,<class>,not the salt enrichment
+1,elementary_segment_AS.0,en,__class__,not the salt enrichment
 2,elementary_segment_AS.0,en,__description__,soil without salt enrichment in the upper layers; dominant water flow downwards (or soil that is too coarse and sand-dominated for the capillary forces to be able to pull salts up to the surface)
 3,elementary_segment_AS.0,en,pH,"< 8,5"
-4,elementary_segment_AS.0,nb,<class>,ikke­ sal­tan­ri­ket
+4,elementary_segment_AS.0,nb,__class__,ikke­ sal­tan­ri­ket
 5,elementary_segment_AS.0,nb,__description__,jords­monn u­ten sal­tan­ri­king i øv­re ­sjik­t; ­do­mi­ne­ren­de ­vann­strøm nedad­gå­en­de (el­ler jord som er ­for ­grov og sand­do­mi­ner­t ­til at ka­pil­lær­kref­te­ne kla­rer å trek­ke sal­ter opp ­mot ­over­fla­ta)
 6,elementary_segment_AS.0,nb,pH,"< 8,5"
-7,elementary_segment_AS.a,en,<class>,salt enrichment
+7,elementary_segment_AS.a,en,__class__,salt enrichment
 8,elementary_segment_AS.a,en,__description__,soil with salt enrichment in the upper layer as a result of an upward dominant water flow.
 9,elementary_segment_AS.a,en,pH,8.5–10.5
-10,elementary_segment_AS.a,nb,<class>,sal­tan­ri­ket
+10,elementary_segment_AS.a,nb,__class__,sal­tan­ri­ket
 11,elementary_segment_AS.a,nb,__description__,jords­monn ­med sal­tan­ri­king i øv­re ­sjik­t som ­føl­ge av en oppad­gå­en­de ­do­mi­ne­ren­de ­vann­strøm.
 12,elementary_segment_AS.a,nb,pH,"8,5–10,5"
-13,elementary_segment_BK.0,en,<class>,normal
+13,elementary_segment_BK.0,en,__class__,normal
 14,elementary_segment_BK.0,en,__description__,rocks that do not fall into any of the classes below
-15,elementary_segment_BK.0,nb,<class>,nor­mal
+15,elementary_segment_BK.0,nb,__class__,nor­mal
 16,elementary_segment_BK.0,nb,__description__,berg­ar­ter som ik­ke ­fal­ler inn i ­no­en av ­klas­se­ne ­neden­for
-17,elementary_segment_BK.a,en,<class>,ultramafic
+17,elementary_segment_BK.a,en,__class__,ultramafic
 18,elementary_segment_BK.a,en,__description__,"ultramafic bedrock (peridotites; dunites, olivine rocks), including new seabed formed by solidification of effluent from hot ocean sources"
-19,elementary_segment_BK.a,nb,<class>,ul­trama­fisk
+19,elementary_segment_BK.a,nb,__class__,ul­trama­fisk
 20,elementary_segment_BK.a,nb,__description__,"ul­trama­fisk ­berg­grunn (­peri­do­tit­ter; d­u­nit­ter, o­li­v­in­stein), in­klu­der­t ­ny hav­bunn ­dan­net ved­ størk­ning av ­ut­strøm­mings­ma­te­ria­le ­fra var­me hav­kil­der"
-21,elementary_segment_BK.b,en,<class>,iron-rich
+21,elementary_segment_BK.b,en,__class__,iron-rich
 22,elementary_segment_BK.b,en,__description__,"acidic bedrock rich in sulphide minerals, typically with a high content of iron"
-23,elementary_segment_BK.b,nb,<class>,jern-rikt
+23,elementary_segment_BK.b,nb,__class__,jern-rikt
 24,elementary_segment_BK.b,nb,__description__,"sur ­berg­grunn rik på kis­berg­ar­ter (­sul­fid­mi­ne­ra­ler), ­ty­pisk ­med høyt ­inn­hold av jern"
-25,elementary_segment_BK.c,en,<class>,copper-rich
+25,elementary_segment_BK.c,en,__class__,copper-rich
 26,elementary_segment_BK.c,en,__description__,"less acidic bedrock rich in sulfide minerals, typically with a high content of copper"
-27,elementary_segment_BK.c,nb,<class>,kob­ber-rikt
+27,elementary_segment_BK.c,nb,__class__,kob­ber-rikt
 28,elementary_segment_BK.c,nb,__description__,"mindre sur ­berg­grunn rik på kis­berg­ar­ter (­sul­fid­mi­ne­ra­ler), ­ty­pisk ­med høyt ­inn­hold av kob­ber"
-29,elementary_segment_BK.d,en,<class>,lava
+29,elementary_segment_BK.d,en,__class__,lava
 30,elementary_segment_BK.d,en,__description__,"lava field more or less intact deposits of lava, tephra and slag"
-31,elementary_segment_BK.d,nb,<class>,lava
+31,elementary_segment_BK.d,nb,__class__,lava
 32,elementary_segment_BK.d,nb,__description__,"lava­mar­k ­mer el­ler ­mindre in­tak­te av­set­nin­ger av la­va, te­fra og slagg"
-33,elementary_segment_DD.0,en,<class>,lower sublitoral
+33,elementary_segment_DD.0,en,__class__,lower sublitoral
 34,elementary_segment_DD.0,en,__description__,Atlantic water in the lower sublitoral
 35,elementary_segment_DD.0,en,Depth,<700m
-36,elementary_segment_DD.0,nb,<class>,ned­re ­sub­li­to­ral
+36,elementary_segment_DD.0,nb,__class__,ned­re ­sub­li­to­ral
 37,elementary_segment_DD.0,nb,__description__,at­lan­tisk ­vann i ­ned­re ­sub­li­to­ral
 38,elementary_segment_DD.0,nb,Dyb­de,<700m
-39,elementary_segment_DD.a,en,<class>,bathypelagic
+39,elementary_segment_DD.a,en,__class__,bathypelagic
 40,elementary_segment_DD.a,en,__description__,Atlantic waters in bathypelagic and bathyal
 41,elementary_segment_DD.a,en,Depth,>700m
-42,elementary_segment_DD.a,nb,<class>,bat­hype­la­gial
+42,elementary_segment_DD.a,nb,__class__,bat­hype­la­gial
 43,elementary_segment_DD.a,nb,__description__,at­lan­tisk ­vann i ­bat­hype­la­gial og ­bat­hyal
 44,elementary_segment_DD.a,nb,Dyb­de,>700m
-45,elementary_segment_DL.+,en,<class>,lower aphotic belts
+45,elementary_segment_DL.+,en,__class__,lower aphotic belts
 46,elementary_segment_DL.+,en,__description__,the light attenuation is so strong that plants are missing [‘depth gradient’ continues as DM]
 47,elementary_segment_DL.+,en,Depth,>80m
 48,elementary_segment_DL.+,en,The Marine Life Information Network,offshore circalitoral
-49,elementary_segment_DL.+,nb,<class>,ned­re a­fo­tis­ke ­bel­ter
+49,elementary_segment_DL.+,nb,__class__,ned­re a­fo­tis­ke ­bel­ter
 50,elementary_segment_DL.+,nb,__description__,lys­svek­kin­gen er så s­ter­k at plan­ter ­mang­ler [‘­dybde­gra­di­en­ten’ ­fort­set­ter som D­M]
 51,elementary_segment_DL.+,nb,Dyb­de,>80m
 52,elementary_segment_DL.+,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,off­shore­ cir­ca­li­to­ral
-53,elementary_segment_DL.0,en,<class>,the tidal belt
+53,elementary_segment_DL.0,en,__class__,the tidal belt
 54,elementary_segment_DL.0,en,__description__,in periods exposed to direct light
 55,elementary_segment_DL.0,en,Depth,-
 56,elementary_segment_DL.0,en,The Marine Life Information Network,eulitoral
-57,elementary_segment_DL.0,nb,<class>,tide­vanns­bel­tet
+57,elementary_segment_DL.0,nb,__class__,tide­vanns­bel­tet
 58,elementary_segment_DL.0,nb,__description__,i ­pe­rio­der ­eks­po­ner­t ­for ­di­rek­te lys
 59,elementary_segment_DL.0,nb,Dyb­de,-
 60,elementary_segment_DL.0,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,eu­li­to­ral
-61,elementary_segment_DL.a,en,<class>,seafront belt
+61,elementary_segment_DL.a,en,__class__,seafront belt
 62,elementary_segment_DL.a,en,__description__,"around and just below lower astronomical spring targets, light not production limiting"
 63,elementary_segment_DL.a,en,Depth,0-3m
 64,elementary_segment_DL.a,en,The Marine Life Information Network,sublitoral fringe
-65,elementary_segment_DL.a,nb,<class>,sjø­kan­t-­bel­tet
+65,elementary_segment_DL.a,nb,__class__,sjø­kan­t-­bel­tet
 66,elementary_segment_DL.a,nb,__description__,"om­kring og ­li­ke un­der ­ned­re ast­ro­no­mis­ke ­fjære­mål, lys ik­ke ­pro­duk­sjons­be­gren­sen­de"
 67,elementary_segment_DL.a,nb,Dyb­de,0-3m
 68,elementary_segment_DL.a,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,sub­li­to­ral f­rin­ge
-69,elementary_segment_DL.b,en,<class>,vascular plant and kelp forest belt
+69,elementary_segment_DL.b,en,__class__,vascular plant and kelp forest belt
 70,elementary_segment_DL.b,en,__description__,production of organic matter greater than decomposition (respiration); the light also contains long-wave red rays that are absorbed in relatively shallow water; long-wave light occurs in such large quantities that even vascular plants can live upper infralitoral
 71,elementary_segment_DL.b,en,Depth,3-8m
 72,elementary_segment_DL.b,en,The Marine Life Information Network,upper infralitoral
-73,elementary_segment_DL.b,nb,<class>,kar­plan­te- og tare­skogs­bel­tet
+73,elementary_segment_DL.b,nb,__class__,kar­plan­te- og tare­skogs­bel­tet
 74,elementary_segment_DL.b,nb,__description__,pro­duk­sjon av ­or­ga­nisk ­ma­te­ria­le ­stør­re enn ­ned­bryt­nin­gen (re­spi­ra­sjo­nen); ly­set inne­hol­der ogs­å lang­bølge­te rø­de strå­ler som ab­sor­be­res på re­la­tiv­t ­grun­t ­vann; lang­bøl­get lys ­fore­kom­mer i så sto­re ­meng­der at ogs­å kar­plan­ter kan ­le­ve
 75,elementary_segment_DL.b,nb,Dyb­de,3-8m
 76,elementary_segment_DL.b,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,up­per in­fra­li­to­ral
-77,elementary_segment_DL.c,en,<class>,the kelp forest belt
+77,elementary_segment_DL.c,en,__class__,the kelp forest belt
 78,elementary_segment_DL.c,en,__description__,"production still greater than decomposition, but long-wave radiation is limited; brown and green algae (in freshwater also bogs) can still dominate"
 79,elementary_segment_DL.c,en,Depth,8-13m
 80,elementary_segment_DL.c,en,The Marine Life Information Network,lower infralitoral
-81,elementary_segment_DL.c,nb,<class>,tare­skog­bel­tet
+81,elementary_segment_DL.c,nb,__class__,tare­skog­bel­tet
 82,elementary_segment_DL.c,nb,__description__,"pro­duk­sjon ­fort­satt ­stør­re enn ­ned­bryt­nin­gen, ­men lang­bøl­get strå­ling er ­be­gren­set; ­brun- og ­grønn­al­ger (i ­fersk­vann ogs­å ­mo­ser) kan ­fort­satt ­do­mi­ne­re"
 83,elementary_segment_DL.c,nb,Depth,8-13m
 84,elementary_segment_DL.c,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,low­er in­fra­li­to­ral
-85,elementary_segment_DL.d,en,<class>,the red algae belt
+85,elementary_segment_DL.d,en,__class__,the red algae belt
 86,elementary_segment_DL.d,en,__description__,"production still greater than the decomposition, but the light is dominated by short-wave rays (including green) and the algae vegetation is therefore limited to red algae but leaf-shaped red algae can dominate"
 87,elementary_segment_DL.d,en,Depth,13-30m
 88,elementary_segment_DL.d,en,The Marine Life Information Network,upper circalitoral
-89,elementary_segment_DL.d,nb,<class>,rø­dalge­bel­tet
+89,elementary_segment_DL.d,nb,__class__,rø­dalge­bel­tet
 90,elementary_segment_DL.d,nb,__description__,"pro­duk­sjon ­fort­satt ­stør­re enn ­ned­bryt­nin­gen, ­men ly­set er ­do­mi­ner­t av kort­bølge­te strå­ler (bl.a. ­grøn­ne) og alge­ve­ge­ta­sjo­nen ­be­gren­ser ­seg ­der­for ­til rø­dal­ger ­men ­blad­for­me­te rø­dal­ger kan ­do­mi­ne­re"
 91,elementary_segment_DL.d,nb,Dyb­de,13-30m
 92,elementary_segment_DL.d,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,up­per cir­ca­li­to­ral
-93,elementary_segment_DL.e,en,<class>,upper aphotic belt
+93,elementary_segment_DL.e,en,__class__,upper aphotic belt
 94,elementary_segment_DL.e,en,__description__,"production of organic material less than decomposition (respiration), light radiation <0.3–1 (–10)% of the radiation at the water surface; only scattered occurrence of algae"
 95,elementary_segment_DL.e,en,Depth,30-80m
 96,elementary_segment_DL.e,en,The Marine Life Information Network,lower circalitoral
-97,elementary_segment_DL.e,nb,<class>,up­per ap­ho­tic ­belt
+97,elementary_segment_DL.e,nb,__class__,up­per ap­ho­tic ­belt
 98,elementary_segment_DL.e,nb,__description__,"pro­duk­sjon av ­or­ga­nisk ­ma­te­ria­le ­mindre enn ­ned­bryt­nin­gen (re­spi­ra­sjo­nen), lysinn­strå­ling < 0.3–1(–10) % av strå­lin­gen ved­ ­vann­over­fla­ta­; ­ba­re spred­t ­fore­komst av al­ger"
 99,elementary_segment_DL.e,nb,Dyb­de,30-80m
 100,elementary_segment_DL.e,nb,The ­Ma­ri­ne ­Li­fe In­for­ma­tion ­Network,low­er cir­ca­li­to­ral
-101,elementary_segment_DM.0,en,<class>,upper sublitoral (epipelagial)
+101,elementary_segment_DM.0,en,__class__,upper sublitoral (epipelagial)
 102,elementary_segment_DM.0,en,__description__,"great environmental variability; euphotic and upper aphotic belt, typically connected to the coast and coastal bodies of water [sublitoral belt; down to approx. 200 m]"
 103,elementary_segment_DM.0,en,Depth,<200m
 104,elementary_segment_DM.0,en,Temperature,variable
-105,elementary_segment_DM.0,nb,<class>,øv­re ­sub­li­to­ral (e­pipe­la­gial)
+105,elementary_segment_DM.0,nb,__class__,øv­re ­sub­li­to­ral (e­pipe­la­gial)
 106,elementary_segment_DM.0,nb,__description__,"stor ­miljø­va­ria­bi­li­tet; eu­fo­tisk og øv­re a­fo­tisk ­bel­te, ­ty­pisk kob­let ­til ­kys­ten og ­kyst­vann­mas­ser [­sub­li­to­ral ­bel­te; ­ned ­til ­ca. 200 m]"
 107,elementary_segment_DM.0,nb,Dyb­de,<200m
 108,elementary_segment_DM.0,nb,Tem­pe­ra­tur,va­ria­bel
-109,elementary_segment_DM.a,en,<class>,"Atlantic waters, typically in the lower sublitoral (mesopelagial)"
+109,elementary_segment_DM.a,en,__class__,"Atlantic waters, typically in the lower sublitoral (mesopelagial)"
 110,elementary_segment_DM.a,en,__description__,fairly high environmental variability; atlantic waters and mesopelagic belt
 111,elementary_segment_DM.a,en,Depth,200m-(500m)-700m
 112,elementary_segment_DM.a,en,Temperature,2-8
-113,elementary_segment_DM.a,nb,<class>,"at­lan­tisk ­vann, ­ty­pisk i ­ned­re ­sub­li­to­ral (me­s­ope­la­gial)"
+113,elementary_segment_DM.a,nb,__class__,"at­lan­tisk ­vann, ­ty­pisk i ­ned­re ­sub­li­to­ral (me­s­ope­la­gial)"
 114,elementary_segment_DM.a,nb,__description__,noks­å stor ­miljø­va­ria­bi­li­tet; ­at­lan­tis­ke ­vann­mas­ser og me­s­ope­la­gisk ­bel­te
 115,elementary_segment_DM.a,nb,Dyb­de,200m-(500m)-700m
 116,elementary_segment_DM.a,nb,Tem­pe­ra­tur,2-8
-117,elementary_segment_DM.b,en,<class>,"intermediate water, typically in the upper bathyal (bathypelagial)"
+117,elementary_segment_DM.b,en,__class__,"intermediate water, typically in the upper bathyal (bathypelagial)"
 118,elementary_segment_DM.b,en,__description__,intermediate bodies of water and the upper part of the bathypelagic belt
 119,elementary_segment_DM.b,en,Depth,700m-1000m(-1100m)
 120,elementary_segment_DM.b,en,Temperature,0-2
-121,elementary_segment_DM.b,nb,<class>,"in­ter­me­diær­t ­vann, ­ty­pisk i øv­re ­bat­hya­l (­bat­hype­la­gial)"
+121,elementary_segment_DM.b,nb,__class__,"in­ter­me­diær­t ­vann, ­ty­pisk i øv­re ­bat­hya­l (­bat­hype­la­gial)"
 122,elementary_segment_DM.b,nb,__description__,in­ter­me­diæ­re ­vann­mas­ser og øv­re ­del av ­bat­hype­la­gisk ­bel­te
 123,elementary_segment_DM.b,nb,Dyb­de,700m-1000m(-1100m)
 124,elementary_segment_DM.b,nb,Tem­pe­ra­tur,0-2
-125,elementary_segment_DM.cd,en,<class>,"deep sea water, typically in the lower bathyal (bathypelagial)"
+125,elementary_segment_DM.cd,en,__class__,"deep sea water, typically in the lower bathyal (bathypelagial)"
 126,elementary_segment_DM.cd,en,__description__,fairly stable environment; deep-sea bodies of water and bathypelagic belt
 127,elementary_segment_DM.cd,en,Depth,1000m-2000m
 128,elementary_segment_DM.cd,en,Temperature,<0
-129,elementary_segment_DM.cd,nb,<class>,"dyp­havs­vann, ­ty­pisk i ­ned­re ­bat­hya­l (­bat­hype­la­gial)"
+129,elementary_segment_DM.cd,nb,__class__,"dyp­havs­vann, ­ty­pisk i ­ned­re ­bat­hya­l (­bat­hype­la­gial)"
 130,elementary_segment_DM.cd,nb,__description__,noks­å sta­bil­t ­miljø­; ­dyp­havs­-­vann­mas­ser og ­bat­hype­la­gisk ­bel­te
 131,elementary_segment_DM.cd,nb,Dyb­de,1000m-2000m
 132,elementary_segment_DM.cd,nb,Tem­pe­ra­tur,<0
-133,elementary_segment_DM.ef,en,<class>,"deep-sea water, typically in the abyssal (abysso-pelagial)"
+133,elementary_segment_DM.ef,en,__class__,"deep-sea water, typically in the abyssal (abysso-pelagial)"
 134,elementary_segment_DM.ef,en,__description__,"stable environment; deep-water bodies and abyssopelagic belt, upper part"
 135,elementary_segment_DM.ef,en,Depth,>2000m
 136,elementary_segment_DM.ef,en,Temperature,<-0.5
-137,elementary_segment_DM.ef,nb,<class>,"dyp­havs­vann, ­ty­pisk i a­bys­sal (a­bysso-pe­la­gial)"
+137,elementary_segment_DM.ef,nb,__class__,"dyp­havs­vann, ­ty­pisk i a­bys­sal (a­bysso-pe­la­gial)"
 138,elementary_segment_DM.ef,nb,__description__,"sta­bil­t ­miljø­; ­dyp­havs­-­vann­mas­ser og a­byss­ope­la­gisk ­bel­te, øv­re ­del"
 139,elementary_segment_DM.ef,nb,Dyb­de,>2000m
 140,elementary_segment_DM.ef,nb,Tem­pe­ra­tur,<-0.5
-141,elementary_segment_ER.0,en,<class>,without erosion
+141,elementary_segment_ER.0,en,__class__,without erosion
 142,elementary_segment_ER.0,en,__description__,"apparently good mass balance, ie balance between supply (sedimentation) and removal (erosion) of material"
-143,elementary_segment_ER.0,nb,<class>,uten ­ero­sjons­preg
+143,elementary_segment_ER.0,nb,__class__,uten ­ero­sjons­preg
 144,elementary_segment_ER.0,nb,__description__,"til­syne­la­ten­de ­go­d ­masse­ba­lan­se, dvs. ­ba­lan­se ­mel­lom­ ­til­før­sel (­se­di­men­ta­sjon) og ­fjer­ning (­ero­sjon) av ­ma­te­ria­le"
-145,elementary_segment_ER.a,en,<class>,slightly erosive
+145,elementary_segment_ER.a,en,__class__,slightly erosive
 146,elementary_segment_ER.a,en,__description__,"slightly negative mass balance, but with a species composition that bears an observable sign of erosion"
-147,elementary_segment_ER.a,nb,<class>,litt ­ero­sjons­pre­get
+147,elementary_segment_ER.a,nb,__class__,litt ­ero­sjons­pre­get
 148,elementary_segment_ER.a,nb,__description__,"svak­t ­ne­ga­tiv ­masse­ba­lan­se, ­men ­med arts­sam­men­set­ning som bæ­rer ­ob­ser­ver­bar­t preg av ­ero­sjon"
-149,elementary_segment_ER.b,en,<class>,clearly erosive
+149,elementary_segment_ER.b,en,__class__,clearly erosive
 150,elementary_segment_ER.b,en,__description__,clearly negative mass balance; the substrate is supplied with clearly less new material by sedimentation than the amount of material eroded away; the species composition consists primarily of erosion-tolerant species
-151,elementary_segment_ER.b,nb,<class>,klar­t ­ero­sjons­pre­get
+151,elementary_segment_ER.b,nb,__class__,klar­t ­ero­sjons­pre­get
 152,elementary_segment_ER.b,nb,__description__,klar­t ­ne­ga­tiv ­masse­ba­lan­se; ­sub­stra­tet ­til­fø­re­s klar­t ­mindre ­nytt ­ma­te­ria­le ved­ ­se­di­men­ta­sjon enn ­meng­den ­ma­te­ria­le som ero­de­res vekk; arts­sam­men­set­nin­gen ­be­står ­først og frem­st av ­ero­sjons­to­le­ran­te ar­ter
-153,elementary_segment_ER.¤,en,<class>,characterized by disruptive erosion
+153,elementary_segment_ER.¤,en,__class__,characterized by disruptive erosion
 154,elementary_segment_ER.¤,en,__description__,erosion with such a high intensity (combination of strong disturbance and high disturbance frequency) that the establishment and maintenance of permanent populations of site-associated organisms is prevented
-155,elementary_segment_ER.¤,nb,<class>,pre­get av ­dis­rup­tiv ­ero­sjon
+155,elementary_segment_ER.¤,nb,__class__,pre­get av ­dis­rup­tiv ­ero­sjon
 156,elementary_segment_ER.¤,nb,__description__,ero­sjon ­med så høy in­ten­si­tet (­kom­bi­na­sjon av s­ter­k ­for­styr­rel­ses­grad og høy ­for­styr­rel­ses­fre­kvens) at e­tab­le­ring og opp­rett­hol­del­se av ­per­ma­nen­te ­po­pu­la­sjo­ner av stedstil­knytte­te ­or­ga­nis­mer ­for­hind­res
-157,elementary_segment_FK.0,en,<class>,normally circulating water
+157,elementary_segment_FK.0,en,__class__,normally circulating water
 158,elementary_segment_FK.0,en,__description__,encompasses the full range of variation within circulating bodies of water; circulating bottom water with normal chemical composition
-159,elementary_segment_FK.0,nb,<class>,nor­mal­t ­sir­ku­le­ren­de ­vann
+159,elementary_segment_FK.0,nb,__class__,nor­mal­t ­sir­ku­le­ren­de ­vann
 160,elementary_segment_FK.0,nb,__description__,om­fat­ter he­le spek­te­ret av va­ria­sjon in­nen­for ­sir­ku­le­ren­de ­vann­mas­ser; ­sir­ku­le­ren­de ­bunn­vann ­med ­nor­mal kje­misk ­sam­men­set­ning
-161,elementary_segment_FK.a,en,<class>,old seawater
+161,elementary_segment_FK.a,en,__class__,old seawater
 162,elementary_segment_FK.a,en,__description__,ectogenic meromixis; bottom water containing 'fossil' salt water (from before the water body was separated from the sea)
-163,elementary_segment_FK.a,nb,<class>,gam­mel­t hav­vann
+163,elementary_segment_FK.a,nb,__class__,gam­mel­t hav­vann
 164,elementary_segment_FK.a,nb,__description__,ek­to­gen ­me­ro­mik­sis; ­bunn­vann som inne­hol­der ­med '­fos­sil­t' salt­vann (­fra ­før ­vann­fore­koms­ten b­le ­skil­t ­fra ha­vet)
-165,elementary_segment_FK.b,en,<class>,saline spring water
+165,elementary_segment_FK.b,en,__class__,saline spring water
 166,elementary_segment_FK.b,en,__description__,crenogenic meromixis; bottom water supplied with saline spring water
-167,elementary_segment_FK.b,nb,<class>,salt­hol­dig ­kilde­vann
+167,elementary_segment_FK.b,nb,__class__,salt­hol­dig ­kilde­vann
 168,elementary_segment_FK.b,nb,__description__,kre­n­o­gen ­me­ro­mik­sis; ­bunn­vann som ­til­fø­re­s salt­hol­dig ­kilde­vann
-169,elementary_segment_FK.c,en,<class>,ferrous groundwater
+169,elementary_segment_FK.c,en,__class__,ferrous groundwater
 170,elementary_segment_FK.c,en,__description__,biogenic / endogenous meromixis; bottom water with reducing conditions and high concentrations of dissolved iron salts
-171,elementary_segment_FK.c,nb,<class>,jern­hol­dig ­bunn­vann
+171,elementary_segment_FK.c,nb,__class__,jern­hol­dig ­bunn­vann
 172,elementary_segment_FK.c,nb,__description__,bio­gen/en­do­gen ­me­ro­mik­sis; ­bunn­vann ­med re­du­se­ren­de ­for­hold og høy­e kon­sen­tra­sjo­ner av opp­løs­te jernsal­ter
-173,elementary_segment_FK.d,en,<class>,bottom water with a high lime content
+173,elementary_segment_FK.d,en,__class__,bottom water with a high lime content
 174,elementary_segment_FK.d,en,__description__,biogenic / endogenous meromixis; high salt concentrations and CO2- and CH4-rich groundwater after precipitation of lime
-175,elementary_segment_FK.d,nb,<class>,bunn­vann ­med høyt kalk­inn­hold
+175,elementary_segment_FK.d,nb,__class__,bunn­vann ­med høyt kalk­inn­hold
 176,elementary_segment_FK.d,nb,__description__,bio­gen/en­do­gen ­me­ro­mik­sis; høy­e salt­kon­sen­tra­sjo­ner og CO2- og CH4-rik­t ­bunn­vann et­ter ­ut­fel­ling av kalk
-177,elementary_segment_FK.e,en,<class>,humus-rich bottom water
+177,elementary_segment_FK.e,en,__class__,humus-rich bottom water
 178,elementary_segment_FK.e,en,__description__,biogenic / endogenous meromixis; high salt concentrations and CO2- and CH4-rich groundwater due to large supply of humus
-179,elementary_segment_FK.e,nb,<class>,hu­mus­rik­t ­bunn­vann
+179,elementary_segment_FK.e,nb,__class__,hu­mus­rik­t ­bunn­vann
 180,elementary_segment_FK.e,nb,__description__,bio­gen/en­do­gen ­me­ro­mik­sis; høy­e salt­kon­sen­tra­sjo­ner og CO2- og CH4-rik­t ­bunn­vann p­ga. stor ­til­før­sel av hu­mus
-181,elementary_segment_FR.0,en,<class>,normal
+181,elementary_segment_FR.0,en,__class__,normal
 182,elementary_segment_FR.0,en,__description__,"flood regime characterized by a clear flood peak in the spring during the snowmelt, with a duration of up to a few weeks, and smaller and / or more short-term flood peaks after heavy and / or prolonged rainy episodes"
-183,elementary_segment_FR.0,nb,<class>,nor­malt
+183,elementary_segment_FR.0,nb,__class__,nor­malt
 184,elementary_segment_FR.0,nb,__description__,"flom­re­gi­me som kjenne­teg­ne­s ved­ en ­ty­de­lig ­flom­topp om vå­ren un­der s­nø­smel­tin­gen, ­med ­inn­til ­no­en u­kers va­rig­het, og ­mindre og/el­ler ­mer kort­va­ri­ge ­flom­top­per et­ter ­kraf­ti­ge og/el­ler lang­va­ri­ge regn­værs­epi­so­der"
-185,elementary_segment_FR.a,en,<class>,prolonged flooding
+185,elementary_segment_FR.a,en,__class__,prolonged flooding
 186,elementary_segment_FR.a,en,__description__,"flood regime characterized by flooding through late winter and spring lasting several months and drying throughout the summer, often also severe dehydration of the field"
-187,elementary_segment_FR.a,nb,<class>,lang­va­rig over­svøm­mel­se
+187,elementary_segment_FR.a,nb,__class__,lang­va­rig over­svøm­mel­se
 188,elementary_segment_FR.a,nb,__description__,"flom­re­gi­me som kjenne­teg­ne­s ved­ over­svøm­ming ­gjen­nom­ se­in­vin­te­ren og vå­ren som va­rer fle­re ­må­ne­der og tørr­leg­ging ­gjen­nom­ he­le ­som­mer­en, of­te ogs­å s­ter­k ut­tør­king av ­mar­ka"
-189,elementary_segment_GS.0,en,<class>,outside the cave
+189,elementary_segment_GS.0,en,__class__,outside the cave
 190,elementary_segment_GS.0,en,__description__,no shielding; habitat without protection against precipitation and other precipitation from above
-191,elementary_segment_GS.0,nb,<class>,uten­for ­grot­te
+191,elementary_segment_GS.0,nb,__class__,uten­for ­grot­te
 192,elementary_segment_GS.0,nb,__description__,in­gen ­skjerm­ing; ­le­ve­sted u­ten ­skjerm­ing ­mot ­ned­bør og an­net ­ned­fal­l o­ven­fra
-193,elementary_segment_GS.a,en,<class>,overhang
+193,elementary_segment_GS.a,en,__class__,overhang
 194,elementary_segment_GS.a,en,__description__,"overhangs under rocks, slopes etc. (slope> 90 °; cavities extending 0–5 m inwards); strongly affected by the environment outside the cave but not directly affected by precipitation and other precipitation from above"
-195,elementary_segment_GS.a,nb,<class>,over­heng
+195,elementary_segment_GS.a,nb,__class__,over­heng
 196,elementary_segment_GS.a,nb,__description__,"over­heng un­der ­ber­g, hel­le­re et­c. (hel­ning > 90 °; hul­rom som strek­ker ­seg 0–5 m inn­over); sterk­t ­på­vir­ket av ­mil­jø­et u­ten­for ­grot­ta ­men ik­ke ­di­rek­te ­på­vir­ket av ­ned­bør og an­net ­ned­fal­l o­ven­fra"
-197,elementary_segment_GS.b,en,<class>,outer parts of deep cave
+197,elementary_segment_GS.b,en,__class__,outer parts of deep cave
 198,elementary_segment_GS.b,en,__description__,fairly strong shielding; significantly affected by fluctuations in the environment outside the cave and usable illuminated
-199,elementary_segment_GS.b,nb,<class>,ytre ­de­ler av ­dyp ­grot­te
+199,elementary_segment_GS.b,nb,__class__,ytre ­de­ler av ­dyp ­grot­te
 200,elementary_segment_GS.b,nb,__description__,noks­å s­ter­k ­skjerm­ing; i ­be­ty­de­lig ­grad ­på­vir­ket av sving­nin­ger i ­mil­jø­et u­ten­for ­grot­ta og ­bruk­bar­t ­opp­lyst
-201,elementary_segment_GS.cd,en,<class>,middle parts of deep cave
+201,elementary_segment_GS.cd,en,__class__,middle parts of deep cave
 202,elementary_segment_GS.cd,en,__description__,strong shielding; middle part of deep cave or inner part of shallow cave; to some extent affected by fluctuations in the environment outside the cave and dimly lit; An important limit (towards step ¤) is where there is no longer enough light for mosses to grow
-203,elementary_segment_GS.cd,nb,<class>,midt­re ­de­ler av ­dyp ­grot­te
+203,elementary_segment_GS.cd,nb,__class__,midt­re ­de­ler av ­dyp ­grot­te
 204,elementary_segment_GS.cd,nb,__description__,ster­k ­skjerm­ing; ­midt­re ­del av ­dyp ­grot­te el­ler indre ­del av ­grunn ­grot­te; i ­no­en ­grad ­på­vir­ket av sving­nin­ger i ­mil­jø­et u­ten­for ­grot­ta og s­vak­t ­opp­lyst; ei ­vik­tig ­gren­se (­mot ­trinn ¤) er ­der ­det ik­ke ­len­ger er lys nok ­til at ­mo­ser kan ­vokse
-205,elementary_segment_GS.¤,en,<class>,inner parts of deep cave
+205,elementary_segment_GS.¤,en,__class__,inner parts of deep cave
 206,elementary_segment_GS.¤,en,__description__,very strong shielding; where the environment is not affected by fluctuations in the environment outside the cave
-207,elementary_segment_GS.¤,nb,<class>,indre ­de­ler av ­dyp ­grot­te
+207,elementary_segment_GS.¤,nb,__class__,indre ­de­ler av ­dyp ­grot­te
 208,elementary_segment_GS.¤,nb,__description__,svær­t s­ter­k ­skjerm­ing; ­der ­mil­jø­et ik­ke ­på­vir­ke­s av sving­nin­ger i ­mil­jø­et u­ten­for ­grot­ta
-209,elementary_segment_HF.+,en,<class>,rock wall
+209,elementary_segment_HF.+,en,__class__,rock wall
 210,elementary_segment_HF.+,en,__description__,Berg med stor fare for helningsbetinget forstyrrelse
 211,elementary_segment_HF.+,en,Slope,80°-90°
-212,elementary_segment_HF.+,nb,<class>,berg­vegg
+212,elementary_segment_HF.+,nb,__class__,berg­vegg
 213,elementary_segment_HF.+,nb,__description__,Ber­g ­med stor ­fa­re ­for hel­nings­be­tin­get ­for­styr­rel­se
 214,elementary_segment_HF.+,nb,Hel­ning,80°-90°
-215,elementary_segment_HF.0,en,<class>,flat rock
+215,elementary_segment_HF.0,en,__class__,flat rock
 216,elementary_segment_HF.0,en,__description__,Rocks with such a small slope that there is a risk of litter and water accumulating and resulting in 'reverse slope disturbance'
 217,elementary_segment_HF.0,en,Slope,<4°
-218,elementary_segment_HF.0,nb,<class>,flat­berg
+218,elementary_segment_HF.0,nb,__class__,flat­berg
 219,elementary_segment_HF.0,nb,__description__,Ber­g ­med så ­li­ten hel­ning at ­det ­fa­re ­for at ­strø og ­vann ­sam­ler ­seg opp og ­re­sul­te­rer i ‘om­vend­t hel­nings­be­tin­get ­for­styr­rel­se’
 220,elementary_segment_HF.0,nb,Hel­ning,<4°
-221,elementary_segment_HF.a,en,<class>,slightly sloping rock
+221,elementary_segment_HF.a,en,__class__,slightly sloping rock
 222,elementary_segment_HF.a,en,__description__,"Rocks with little slope-related disturbance, ie little danger both for the accumulation of litter and water and for the loss of biomass as a result of downward forces acting on the organisms"
 223,elementary_segment_HF.a,en,Slope,4°-60°
-224,elementary_segment_HF.a,nb,<class>,svak­t hel­len­de ­berg­knaus
+224,elementary_segment_HF.a,nb,__class__,svak­t hel­len­de ­berg­knaus
 225,elementary_segment_HF.a,nb,__description__,"Ber­g ­med ­li­ten hel­nings­be­tin­get ­for­styr­rel­se, dvs. ­li­ten ­fa­re ­både ­for opp­sam­ling av ­strø og ­vann og ­for tap av ­bio­mas­se som ­føl­ge av nedad­rette­te kref­ter som ­vir­ker på ­or­ga­nis­me­ne"
 226,elementary_segment_HF.a,nb,Hel­ning,4°-60°
-227,elementary_segment_HF.b,en,<class>,strongly sloping rock
+227,elementary_segment_HF.b,en,__class__,strongly sloping rock
 228,elementary_segment_HF.b,en,__description__,Rocks with a strong slope and a significant risk of slope-related disturbance
 229,elementary_segment_HF.b,en,Slope,60°-80°
-230,elementary_segment_HF.b,nb,<class>,sterk­t hel­len­de ­berg­knaus
+230,elementary_segment_HF.b,nb,__class__,sterk­t hel­len­de ­berg­knaus
 231,elementary_segment_HF.b,nb,__description__,Ber­g ­med s­ter­k hel­ning og ­be­ty­de­lig ­fa­re ­for hel­nings­be­tin­get ­for­styr­rel­se
 232,elementary_segment_HF.b,nb,Hel­ning,60°-80°
-233,elementary_segment_HI.0,en,<class>,without management
+233,elementary_segment_HI.0,en,__class__,without management
 234,elementary_segment_HI.0,en,__description__,natural soil without grazing
-235,elementary_segment_HI.0,nb,<class>,uten hevd­preg
+235,elementary_segment_HI.0,nb,__class__,uten hevd­preg
 236,elementary_segment_HI.0,nb,__description__,na­tur­lig ­mar­k u­ten hevd­preg
-237,elementary_segment_HI.a,en,<class>,clearly managed
+237,elementary_segment_HI.a,en,__class__,clearly managed
 238,elementary_segment_HI.a,en,__description__,"natural land with clear traces of grazing, but which is not normally cleared¸ grazing forest in forest land"
-239,elementary_segment_HI.a,nb,<class>,ty­de­lig ­beite­pre­get
+239,elementary_segment_HI.a,nb,__class__,ty­de­lig ­beite­pre­get
 240,elementary_segment_HI.a,nb,__description__,"na­tur­lig ­mar­k ­med ­ty­de­lig s­por et­ter ­bei­ting, ­men som ­nor­mal­t ik­ke ryd­de­s¸ ­beite­skog i ­skogs­mark"
-241,elementary_segment_HI.b,en,<class>,very extensive management
+241,elementary_segment_HI.b,en,__class__,very extensive management
 242,elementary_segment_HI.b,en,__description__,"semi-natural land which is cleared relatively regularly, at least in part, and which bears the mark of long-term grazing, mowing and / or burning, but with moderate intensity"
-243,elementary_segment_HI.b,nb,<class>,svær­t eks­ten­siv­t hevd­preg
+243,elementary_segment_HI.b,nb,__class__,svær­t eks­ten­siv­t hevd­preg
 244,elementary_segment_HI.b,nb,__description__,"se­mi-­na­tur­lig ­mar­k som re­la­tiv­t re­gel­mes­sig ryd­de­s, i hver­t ­fal­l ­del­vis, og som bæ­rer preg av lang ­tids­ ­bei­ting, ­slåt­t og/el­ler bren­ning, ­men ­med ­mo­de­rat in­ten­si­tet"
-245,elementary_segment_HI.cd,en,<class>,typically extensive management
+245,elementary_segment_HI.cd,en,__class__,typically extensive management
 246,elementary_segment_HI.cd,en,__description__,"semi-natural soil without traces of fertilization, which bears the mark of long-term grazing, mowing and / or burning [c = slightly typical extensive claim; d = strongly typical extensive character]"
-247,elementary_segment_HI.cd,nb,<class>,ty­pisk eks­ten­siv­t hevd­preg
+247,elementary_segment_HI.cd,nb,__class__,ty­pisk eks­ten­siv­t hevd­preg
 248,elementary_segment_HI.cd,nb,__description__,"se­mi-­na­tur­lig ­mar­k u­ten s­por et­ter ­gjøds­ling, som bæ­rer preg av lang ­tids­ ­bei­ting, ­slåt­t og/el­ler bren­ning [c = s­vak­t ­ty­pisk eks­ten­siv­t hevd­preg; d = sterk­t ­ty­pisk eks­ten­siv­t hevd­preg]"
-249,elementary_segment_HI.e,en,<class>,extensive character with a weak touch of fertilization
+249,elementary_segment_HI.e,en,__class__,extensive character with a weak touch of fertilization
 250,elementary_segment_HI.e,en,__description__,"semi-natural soil with traces of fertilization, but which nevertheless has a strong element of species with little or moderate tolerance to fertilization"
-251,elementary_segment_HI.e,nb,<class>,eks­ten­siv­t hevd­preg ­med s­vak­t preg av ­gjøds­ling
+251,elementary_segment_HI.e,nb,__class__,eks­ten­siv­t hevd­preg ­med s­vak­t preg av ­gjøds­ling
 252,elementary_segment_HI.e,nb,__description__,"se­mi-­na­tur­lig ­mar­k ­med s­por et­ter ­gjøds­ling, ­men som ­li­ke­vel har et sterk­t inn­slag av ar­ter ­med ­li­ten el­ler ­mo­de­rat ­to­le­ran­se ­over­for ­gjøds­ling"
-253,elementary_segment_HI.fg,en,<class>,slightly intense management
+253,elementary_segment_HI.fg,en,__class__,slightly intense management
 254,elementary_segment_HI.fg,en,__description__,"heavily altered land which is often fertilized regularly, which may have sown agricultural crops, which may be sprayed and which may have traces of plowing"
-255,elementary_segment_HI.fg,nb,<class>,litt in­ten­siv­t hevd­preg
+255,elementary_segment_HI.fg,nb,__class__,litt in­ten­siv­t hevd­preg
 256,elementary_segment_HI.fg,nb,__description__,"sterk­t ­endret ­mar­k som ­gjer­ne b­lir ­gjøds­let re­gel­mes­sig, som kan ha inn­såd­de jord­bruks­veks­ter, som kan b­li ­sprøytet og som kan ha s­por et­ter p­løy­ing"
-257,elementary_segment_HI.hi,en,<class>,rather intense management
+257,elementary_segment_HI.hi,en,__class__,rather intense management
 258,elementary_segment_HI.hi,en,__description__,"heavily altered land that has been cleared, plowed and adapted for mechanical harvesting"
-259,elementary_segment_HI.hi,nb,<class>,tem­me­lig in­ten­siv­t hevd­preg
+259,elementary_segment_HI.hi,nb,__class__,tem­me­lig in­ten­siv­t hevd­preg
 260,elementary_segment_HI.hi,nb,__description__,"sterk­t ­endret ­mar­k som er ryd­det, pløyd og ­til­rette­lag­t ­for ­ma­ski­nel­l høs­ting"
-261,elementary_segment_HI.j,en,<class>,very intense management
+261,elementary_segment_HI.j,en,__class__,very intense management
 262,elementary_segment_HI.j,en,__description__,"heavily altered, fully cultivated land"
-263,elementary_segment_HI.j,nb,<class>,svær­t in­ten­siv­t hevd­preg
+263,elementary_segment_HI.j,nb,__class__,svær­t in­ten­siv­t hevd­preg
 264,elementary_segment_HI.j,nb,__description__,"sterk­t ­endret, ­full­dyr­ket ­mark"
-265,elementary_segment_HR.0,en,<class>,grazing and / or mowing
+265,elementary_segment_HR.0,en,__class__,grazing and / or mowing
 266,elementary_segment_HR.0,en,__description__,"livestock grazing or mowing or, most often, a combination of these"
-267,elementary_segment_HR.0,nb,<class>,lyng­bren­ning
+267,elementary_segment_HR.0,nb,__class__,lyng­bren­ning
 268,elementary_segment_HR.0,nb,__description__,"re­gel­mes­sig ­for­yn­gel­se av ­det lyng­do­mi­ner­te ­felt­sjik­tet ­gjen­nom­ kon­trol­ler­t av­svi­ing, i ­kom­bi­na­sjon ­med ­bei­ting he­le el­ler sto­re ­de­ler av året og e­ven­tu­el­t ogs­å ­slått"
-269,elementary_segment_HR.a,en,<class>,heather burning
+269,elementary_segment_HR.a,en,__class__,heather burning
 270,elementary_segment_HR.a,en,__description__,"regular rejuvenation of the heather-dominated field layer through controlled weaning, in combination with grazing all or large parts of the year and possibly also mowing"
-271,elementary_segment_HR.a,nb,<class>,lyng­bren­ning
+271,elementary_segment_HR.a,nb,__class__,lyng­bren­ning
 272,elementary_segment_HR.a,nb,__description__,"re­gel­mes­sig ­for­yn­gel­se av ­det lyng­do­mi­ner­te ­felt­sjik­tet ­gjen­nom­ kon­trol­ler­t av­svi­ing, i ­kom­bi­na­sjon ­med ­bei­ting he­le el­ler sto­re ­de­ler av året og e­ven­tu­el­t ogs­å ­slått"
-273,elementary_segment_HU.0,en,<class>,very clear
+273,elementary_segment_HU.0,en,__class__,very clear
 274,elementary_segment_HU.0,en,__description__,oligohumous
 275,elementary_segment_HU.0,en,Pt/L,<10mg
 276,elementary_segment_HU.0,en,total content of organic material per litre,<2mg
-277,elementary_segment_HU.0,nb,<class>,svær­t k­lar
+277,elementary_segment_HU.0,nb,__class__,svær­t k­lar
 278,elementary_segment_HU.0,nb,__description__,oli­go­hu­møs
 279,elementary_segment_HU.0,nb,Pt/L,<10mg
 280,elementary_segment_HU.0,nb,to­tal­inn­hold av ­or­ga­nisk ­ma­te­ria­le ­per ­li­ter,<2mg
-281,elementary_segment_HU.a,en,<class>,clear
+281,elementary_segment_HU.a,en,__class__,clear
 282,elementary_segment_HU.a,en,__description__,mesohumous
 283,elementary_segment_HU.a,en,Pt/L,10mg-30mg
 284,elementary_segment_HU.a,en,total content of organic material per litre,2mg-5mg
-285,elementary_segment_HU.a,nb,<class>,klar
+285,elementary_segment_HU.a,nb,__class__,klar
 286,elementary_segment_HU.a,nb,__description__,"meso­hu­møs, pp."
 287,elementary_segment_HU.a,nb,Pt/L,10m­g-30mg
 288,elementary_segment_HU.a,nb,to­tal­inn­hold av ­or­ga­nisk ­ma­te­ria­le ­per ­li­ter,2m­g-5mg
-289,elementary_segment_HU.b,en,<class>,intermediate
+289,elementary_segment_HU.b,en,__class__,intermediate
 290,elementary_segment_HU.b,en,__description__,mesohumous
 291,elementary_segment_HU.b,en,Pt/L,30mg-45mg
 292,elementary_segment_HU.b,en,total content of organic material per litre,5mg-10mg
-293,elementary_segment_HU.b,nb,<class>,in­ter­me­diær
+293,elementary_segment_HU.b,nb,__class__,in­ter­me­diær
 294,elementary_segment_HU.b,nb,__description__,"meso­hu­møs, pp."
 295,elementary_segment_HU.b,nb,Pt/L,30m­g-45mg
 296,elementary_segment_HU.b,nb,to­tal­inn­hold av ­or­ga­nisk ­ma­te­ria­le ­per ­li­ter,5m­g-10mg
-297,elementary_segment_HU.c,en,<class>,humus
+297,elementary_segment_HU.c,en,__class__,humus
 298,elementary_segment_HU.c,en,__description__,polyhumous
 299,elementary_segment_HU.c,en,Pt/L,45mg-90mg
 300,elementary_segment_HU.c,en,total content of organic material per litre,10mg-15mg
-301,elementary_segment_HU.c,nb,<class>,hu­møs
+301,elementary_segment_HU.c,nb,__class__,hu­møs
 302,elementary_segment_HU.c,nb,__description__,"po­ly­hu­møs, pp."
 303,elementary_segment_HU.c,nb,Pt/L,45m­g-90mg
 304,elementary_segment_HU.c,nb,to­tal­inn­hold av ­or­ga­nisk ­ma­te­ria­le ­per ­li­ter,10m­g-15mg
-305,elementary_segment_HU.d,en,<class>,very humorous
+305,elementary_segment_HU.d,en,__class__,very humorous
 306,elementary_segment_HU.d,en,__description__,polyhumous
 307,elementary_segment_HU.d,en,Pt/L,>90mg
 308,elementary_segment_HU.d,en,total content of organic material per litre,>15mg
-309,elementary_segment_HU.d,nb,<class>,svær­t hu­møs
+309,elementary_segment_HU.d,nb,__class__,svær­t hu­møs
 310,elementary_segment_HU.d,nb,__description__,"po­ly­hu­møs, pp."
 311,elementary_segment_HU.d,nb,Pt/L,>90mg
 312,elementary_segment_HU.d,nb,to­tal­inn­hold av ­or­ga­nisk ­ma­te­ria­le ­per ­li­ter,>15mg
-313,elementary_segment_IF.0,en,<class>,without ice disturbance
+313,elementary_segment_IF.0,en,__class__,without ice disturbance
 314,elementary_segment_IF.0,en,__description__,without visible traces of ice erosion (on species composition)
-315,elementary_segment_IF.0,nb,<class>,uten is­for­styr­rel­ses­preg
+315,elementary_segment_IF.0,nb,__class__,uten is­for­styr­rel­ses­preg
 316,elementary_segment_IF.0,nb,__description__,uten ­syn­li­ge s­por et­ter is­ero­sjon (på arts­sam­men­set­nin­gen)
-317,elementary_segment_IF.a,en,<class>,slightly ice-disturbing
+317,elementary_segment_IF.a,en,__class__,slightly ice-disturbing
 318,elementary_segment_IF.a,en,__description__,weak but observable sign of ice erosion
-319,elementary_segment_IF.a,nb,<class>,litt is­for­styr­rel­ses­pre­get
+319,elementary_segment_IF.a,nb,__class__,litt is­for­styr­rel­ses­pre­get
 320,elementary_segment_IF.a,nb,__description__,"svak­t, ­men ­ob­ser­ver­bar­t preg av is­ero­sjon"
-321,elementary_segment_IF.b,en,<class>,clearly ice disturbance
+321,elementary_segment_IF.b,en,__class__,clearly ice disturbance
 322,elementary_segment_IF.b,en,__description__,"clear signs of ice erosion and / or other ice-related disturbance (ice freezing); in ice erosion, less substrate material is added to the substrate by sedimentation than the amount of material eroded away; species composition without or with sparse elements of perennial species"
-323,elementary_segment_IF.b,nb,<class>,klar­t is­for­styr­rel­ses­pre­get
+323,elementary_segment_IF.b,nb,__class__,klar­t is­for­styr­rel­ses­pre­get
 324,elementary_segment_IF.b,nb,__description__,klar­t preg av is­ero­sjon og/el­ler an­nen is­be­tin­get ­for­styr­rel­se (isinn­fry­sing); ved­ is­ero­sjon ­til­fø­re­s ­sub­stra­tet ­mindre ­nytt ­ma­te­ria­le ved­ ­se­di­men­ta­sjon enn ­meng­den ­ma­te­ria­le som ero­de­res vekk; arts­sam­men­set­ning u­ten el­ler ­med s­par­som­t inn­slag av fler­åri­ge ar­ter
-325,elementary_segment_IF.¤,en,<class>,characterized by disruptive ice disturbance
+325,elementary_segment_IF.¤,en,__class__,characterized by disruptive ice disturbance
 326,elementary_segment_IF.¤,en,__description__,without stable species composition
-327,elementary_segment_IF.¤,nb,<class>,pre­get av ­dis­rup­tiv is­for­styr­rel­se
+327,elementary_segment_IF.¤,nb,__class__,pre­get av ­dis­rup­tiv is­for­styr­rel­se
 328,elementary_segment_IF.¤,nb,__description__,uten sta­bil arts­sam­men­set­ning
 329,elementary_segment_IO.0,en,% organic matter,< 10
-330,elementary_segment_IO.0,en,<class>,predominantly inorganic soil / ground
+330,elementary_segment_IO.0,en,__class__,predominantly inorganic soil / ground
 331,elementary_segment_IO.0,en,__description__,soil / ground which consists almost exclusively of inorganic material; bedrock and sediments
 332,elementary_segment_IO.0,en,dead weight (g/cm3),> 2.0
 333,elementary_segment_IO.0,nb,% ­or­ga­nisk ­ma­te­ria­le,< 10
-334,elementary_segment_IO.0,nb,<class>,over­vei­en­de u­or­ga­nisk ­mar­k/­bunn
+334,elementary_segment_IO.0,nb,__class__,over­vei­en­de u­or­ga­nisk ­mar­k/­bunn
 335,elementary_segment_IO.0,nb,__description__,mar­k/­bunn som ­nes­ten ute­luk­ken­de ­be­står av u­or­ga­nisk ­ma­te­ria­le; ­berg­grunn og ­se­di­men­ter
 336,elementary_segment_IO.0,nb,egen­vek­t (g/c­m3),"> 2,0"
 337,elementary_segment_IO.a,en,% organic matter,10 - 30
-338,elementary_segment_IO.a,en,<class>,soil / ground with some organic material
+338,elementary_segment_IO.a,en,__class__,soil / ground with some organic material
 339,elementary_segment_IO.a,en,__description__,soil / bottom with some admixture of organic material
 340,elementary_segment_IO.a,en,dead weight (g/cm3),1.2 - 2.0
 341,elementary_segment_IO.a,nb,% ­or­ga­nisk ­ma­te­ria­le,10 - 30
-342,elementary_segment_IO.a,nb,<class>,mar­k/­bunn ­med ­litt ­or­ga­nisk ­ma­te­ria­le
+342,elementary_segment_IO.a,nb,__class__,mar­k/­bunn ­med ­litt ­or­ga­nisk ­ma­te­ria­le
 343,elementary_segment_IO.a,nb,__description__,mar­k/­bunn ­med en vis­s inn­blan­ding av ­or­ga­nisk ­ma­te­ria­le
 344,elementary_segment_IO.a,nb,egen­vek­t (g/c­m3),"1,2 - 2,0"
 345,elementary_segment_IO.b,en,% organic matter,30 - 90
-346,elementary_segment_IO.b,en,<class>,soil / ground with a lot of organic material
+346,elementary_segment_IO.b,en,__class__,soil / ground with a lot of organic material
 347,elementary_segment_IO.b,en,__description__,soil / ground with a high content of organic material
 348,elementary_segment_IO.b,en,dead weight (g/cm3),< 1.2
 349,elementary_segment_IO.b,nb,% ­or­ga­nisk ­ma­te­ria­le,30 - 90
-350,elementary_segment_IO.b,nb,<class>,mar­k/­bunn ­med ­my­e ­or­ga­nisk ­ma­te­ria­le
+350,elementary_segment_IO.b,nb,__class__,mar­k/­bunn ­med ­my­e ­or­ga­nisk ­ma­te­ria­le
 351,elementary_segment_IO.b,nb,__description__,mar­k/­bunn ­med høyt ­inn­hold av ­or­ga­nisk ­ma­te­ria­le
 352,elementary_segment_IO.b,nb,egen­vek­t (g/c­m3),"< 1,2"
 353,elementary_segment_IO.¤,en,% organic matter,> 90
-354,elementary_segment_IO.¤,en,<class>,predominantly organic soil / ground
+354,elementary_segment_IO.¤,en,__class__,predominantly organic soil / ground
 355,elementary_segment_IO.¤,en,__description__,soil / ground that contains almost exclusively organic material
 356,elementary_segment_IO.¤,en,dead weight (g/cm3),-
 357,elementary_segment_IO.¤,nb,% ­or­ga­nisk ­ma­te­ria­le,> 90
-358,elementary_segment_IO.¤,nb,<class>,over­vei­en­de ­or­ga­nisk ­mar­k/­bunn
+358,elementary_segment_IO.¤,nb,__class__,over­vei­en­de ­or­ga­nisk ­mar­k/­bunn
 359,elementary_segment_IO.¤,nb,__description__,mar­k/­bunn som ­nes­ten ute­luk­ken­de inne­hol­der ­or­ga­nisk ­ma­te­ria­le
 360,elementary_segment_IO.¤,nb,egen­vek­t (g/c­m3),-
-361,elementary_segment_JF.0,en,<class>,stable soil
+361,elementary_segment_JF.0,en,__class__,stable soil
 362,elementary_segment_JF.0,en,__description__,without visible traces of soil flow (on species composition)
-363,elementary_segment_JF.0,nb,<class>,sta­bil jord
+363,elementary_segment_JF.0,nb,__class__,sta­bil jord
 364,elementary_segment_JF.0,nb,__description__,uten ­syn­li­ge s­por et­ter jord­flyt (på arts­sam­men­set­nin­gen)
-365,elementary_segment_JF.a,en,<class>,observable sign of soil flow
+365,elementary_segment_JF.a,en,__class__,observable sign of soil flow
 366,elementary_segment_JF.a,en,__description__,faint but observable sign of soil flow; is primarily reflected in a reduced amount of woody plants and other species with low tolerance to soil flow
-367,elementary_segment_JF.a,nb,<class>,ob­ser­ver­bar­t preg av jord­flyt
+367,elementary_segment_JF.a,nb,__class__,ob­ser­ver­bar­t preg av jord­flyt
 368,elementary_segment_JF.a,nb,__description__,"svak­t, ­men ­ob­ser­ver­bar­t preg av jord­flyt; ­gir ­seg ­først og frem­st ­ut­slag i re­du­ser­t ­meng­de av ved­veks­ter og andre ar­ter ­med lav ­to­le­ran­se ­over­for jord­flyt"
-369,elementary_segment_JF.b,en,<class>,floating ground
+369,elementary_segment_JF.b,en,__class__,floating ground
 370,elementary_segment_JF.b,en,__description__,"floating soil with dominance of species that have a high tolerance to soil flow (small liverworts, some leaf bogs and lichen), while woody plants and species with low tolerance to soil flow more or less lack"
-371,elementary_segment_JF.b,nb,<class>,flyt­jord
+371,elementary_segment_JF.b,nb,__class__,flyt­jord
 372,elementary_segment_JF.b,nb,__description__,"flyt­jord­s­mar­k ­med ­do­mi­nans av ar­ter som har stor ­to­le­ran­se ­over­for jord­flyt (s­må ­le­ver­mo­ser, ­no­en ­blad­moser og lav), ­mens ved­veks­ter og ar­ter ­med lav ­to­le­ran­se ­over­for jord­flyt ­mer el­ler ­mindre ­mang­ler"
-373,elementary_segment_JV.0,en,<class>,no geothermal influence
+373,elementary_segment_JV.0,en,__class__,no geothermal influence
 374,elementary_segment_JV.0,en,__description__,substrate and / or water temperature not significantly higher than normal for similar locations
 375,elementary_segment_JV.0,en,Temperature increase (ΔflC),< 2
-376,elementary_segment_JV.0,nb,<class>,in­gen jord­var­me­inn­fly­tel­se
+376,elementary_segment_JV.0,nb,__class__,in­gen jord­var­me­inn­fly­tel­se
 377,elementary_segment_JV.0,nb,__description__,sub­strat- og el­ler ­vann­tem­pe­ra­tur ik­ke ­sig­ni­fi­kan­t høy­ere enn ­nor­mal­t ­for ­til­sva­ren­de ste­der
 378,elementary_segment_JV.0,nb,Tem­pe­ra­tur­øk­ning (ΔflC),< 2
-379,elementary_segment_JV.a,en,<class>,observable geothermal influence
+379,elementary_segment_JV.a,en,__class__,observable geothermal influence
 380,elementary_segment_JV.a,en,__description__,observable geothermal influence
 381,elementary_segment_JV.a,en,Temperature increase (ΔflC),2 - ~10
-382,elementary_segment_JV.a,nb,<class>,ob­ser­ver­bar­t jord­var­mein­flu­ert
+382,elementary_segment_JV.a,nb,__class__,ob­ser­ver­bar­t jord­var­mein­flu­ert
 383,elementary_segment_JV.a,nb,__description__,tem­pe­ra­tur ­til­strek­ke­lig ­my­e høy­ere enn om­gi­vel­se­ne ­til at ­for­skjel­len i arts­sam­men­set­ning er ­ob­ser­ver­bar el­ler ­be­ty­de­lig
 384,elementary_segment_JV.a,nb,Tem­pe­ra­tur­øk­ning (ΔflC),2 - ~10
-385,elementary_segment_JV.b,en,<class>,slightly geothermal influenced
+385,elementary_segment_JV.b,en,__class__,slightly geothermal influenced
 386,elementary_segment_JV.b,en,__description__,temperature sufficiently much higher than the environment for the difference in species composition to be significant
 387,elementary_segment_JV.b,en,Temperature increase (ΔflC),~10 - 25
-388,elementary_segment_JV.b,nb,<class>,litt jord­var­mein­flu­ert
+388,elementary_segment_JV.b,nb,__class__,litt jord­var­mein­flu­ert
 389,elementary_segment_JV.b,nb,__description__,tem­pe­ra­tur ­til­strek­ke­lig ­my­e høy­ere enn om­gi­vel­se­ne ­til at ­for­skjel­len i arts­sam­men­set­ning er ve­sent­lig
 390,elementary_segment_JV.b,nb,Tem­pe­ra­tur­øk­ning (ΔflC),~10 - 25
-391,elementary_segment_JV.c,en,<class>,rather strong geothermal influence
+391,elementary_segment_JV.c,en,__class__,rather strong geothermal influence
 392,elementary_segment_JV.c,en,__description__,temperature so much higher than the environment that specially adapted species (bacteria) reach their optimum
 393,elementary_segment_JV.c,en,Temperature increase (ΔflC),25 - 50
-394,elementary_segment_JV.c,nb,<class>,de­sc_nb­tem­me­lig sterk­t jord­var­mein­flu­ert
+394,elementary_segment_JV.c,nb,__class__,de­sc_nb­tem­me­lig sterk­t jord­var­mein­flu­ert
 395,elementary_segment_JV.c,nb,__description__,tem­pe­ra­tur så ­my­e høy­ere enn om­gi­vel­se­ne ­til at ­spe­sial­til­pas­se­te ar­ter (­bak­te­ri­er) n­år ­sitt op­ti­mum
 396,elementary_segment_JV.c,nb,Tem­pe­ra­tur­øk­ning (ΔflC),25 - 50
-397,elementary_segment_JV.de,en,<class>,very strong geothermal influence
+397,elementary_segment_JV.de,en,__class__,very strong geothermal influence
 398,elementary_segment_JV.de,en,__description__,"proteins are denatured; significant species thinning, but substrates up to 100 flC may have communities of specially adapted bacteria"
 399,elementary_segment_JV.de,en,Temperature increase (ΔflC),50 - 100
-400,elementary_segment_JV.de,nb,<class>,svær­t sterk­t jord­var­mein­flu­ert
+400,elementary_segment_JV.de,nb,__class__,svær­t sterk­t jord­var­mein­flu­ert
 401,elementary_segment_JV.de,nb,__description__,"pro­tei­ner de­na­tu­re­res; ­be­ty­de­lig arts­ut­tyn­ning, ­men ­sub­stra­ter opp ­til 100 flC kan ha ­sam­funn av ­spe­sial­til­pas­se­te ­bak­te­ri­er"
 402,elementary_segment_JV.de,nb,Tem­pe­ra­tur­øk­ning (ΔflC),50 - 100
-403,elementary_segment_JV.¤,en,<class>,disruptive geothermal influence
+403,elementary_segment_JV.¤,en,__class__,disruptive geothermal influence
 404,elementary_segment_JV.¤,en,__description__,without adhering organisms
 405,elementary_segment_JV.¤,en,Temperature increase (ΔflC),> 100
-406,elementary_segment_JV.¤,nb,<class>,dis­rup­tiv jord-var­me­inn­fly­tel­se
+406,elementary_segment_JV.¤,nb,__class__,dis­rup­tiv jord-var­me­inn­fly­tel­se
 407,elementary_segment_JV.¤,nb,__description__,uten ­fast­sit­ten­de ­or­ga­nis­mer
 408,elementary_segment_JV.¤,nb,Tem­pe­ra­tur­øk­ning (ΔflC),> 100
-409,elementary_segment_KA.a,en,<class>,very low in calcium
+409,elementary_segment_KA.a,en,__class__,very low in calcium
 410,elementary_segment_KA.a,en,__description__,"in woodland characterized by a small species pool with common, frugal and widespread species and occurrence of typical podsol profiles; soil typically formed by quartzite and sparagmite (and gneiss and granite; anorthosite in southwestern Norway)"
-411,elementary_segment_KA.a,nb,<class>,svær­t kalk­fat­tig
+411,elementary_segment_KA.a,nb,__class__,svær­t kalk­fat­tig
 412,elementary_segment_KA.a,nb,__description__,"i ­skogs­mar­k ­ka­rak­te­ri­ser­t ved­ ­li­ten arts­pool ­med van­li­ge, nøy­som­me og ­vidt­ ­ut­bred­te ar­ter og ­fore­komst av ­ty­pis­ke ­pods­ol­pro­fi­ler; jord ­ty­pisk ­dan­net av ­kvart­sitt og s­pa­rag­mitt (og gneis og ­gra­nitt; a­nort­ositt på ­Sør­vest­lan­det)"
-413,elementary_segment_KA.b,en,<class>,rather low in calcium
-414,elementary_segment_KA.b,nb,<class>,tem­me­lig kalk­fat­tig
-415,elementary_segment_KA.bc,en,<class>,fairly / slightly low in calcium
+413,elementary_segment_KA.b,en,__class__,rather low in calcium
+414,elementary_segment_KA.b,nb,__class__,tem­me­lig kalk­fat­tig
+415,elementary_segment_KA.bc,en,__class__,fairly / slightly low in calcium
 416,elementary_segment_KA.bc,en,__description__,in woodland characterized by the presence of typical podsol profiles; soil typically formed by gneiss and granite (bedrock)
-417,elementary_segment_KA.bc,nb,<class>,tem­me­lig/­litt kalk­fat­tig
+417,elementary_segment_KA.bc,nb,__class__,tem­me­lig/­litt kalk­fat­tig
 418,elementary_segment_KA.bc,nb,__description__,i ­skogs­mar­k ­ka­rak­te­ri­ser­t ved­ ­fore­komst av ­ty­pis­ke ­pods­ol­pro­fi­ler; jord ­ty­pisk ­dan­net av gneis og ­gra­nitt (­grunn­fjells­berg­ar­ter)
-419,elementary_segment_KA.c,en,<class>,slightly low in calcium
-420,elementary_segment_KA.c,nb,<class>,litt kalk­fat­tig
-421,elementary_segment_KA.d,en,<class>,weak intermediate
-422,elementary_segment_KA.d,nb,<class>,svak in­ter­me­diær
-423,elementary_segment_KA.de,en,<class>,weak / strong intermediate
+419,elementary_segment_KA.c,en,__class__,slightly low in calcium
+420,elementary_segment_KA.c,nb,__class__,litt kalk­fat­tig
+421,elementary_segment_KA.d,en,__class__,weak intermediate
+422,elementary_segment_KA.d,nb,__class__,svak in­ter­me­diær
+423,elementary_segment_KA.de,en,__class__,weak / strong intermediate
 424,elementary_segment_KA.de,en,__description__,"in woodland characterized by the presence of podsol-like soil profiles; soil typically formed by poorer shale rocks, amphibolite and sandstone"
-425,elementary_segment_KA.de,nb,<class>,svak/s­ter­k in­ter­me­diær
+425,elementary_segment_KA.de,nb,__class__,svak/s­ter­k in­ter­me­diær
 426,elementary_segment_KA.de,nb,__description__,"i ­skogs­mar­k ­ka­rak­te­ri­ser­t ved­ ­fore­komst av ­pods­ol-­lik­nen­de jord­pro­fi­ler; jord ­ty­pisk ­dan­net av ­fat­ti­ge­re ­ski­fer­berg­ar­ter, am­fi­bo­litt og sand­stein"
-427,elementary_segment_KA.e,en,<class>,strong intermediate
-428,elementary_segment_KA.e,nb,<class>,ster­k in­ter­me­diær
-429,elementary_segment_KA.f,en,<class>,a little calcareous
-430,elementary_segment_KA.f,nb,<class>,litt kalk­rik
-431,elementary_segment_KA.fg,en,<class>,slightly / rather calcareous
+427,elementary_segment_KA.e,en,__class__,strong intermediate
+428,elementary_segment_KA.e,nb,__class__,ster­k in­ter­me­diær
+429,elementary_segment_KA.f,en,__class__,a little calcareous
+430,elementary_segment_KA.f,nb,__class__,litt kalk­rik
+431,elementary_segment_KA.fg,en,__class__,slightly / rather calcareous
 432,elementary_segment_KA.fg,en,__description__,in forest land characterized by the presence of real brown soil profiles; soil typically formed by mica shale and fillites
-433,elementary_segment_KA.fg,nb,<class>,litt/tem­me­lig kalk­rik
+433,elementary_segment_KA.fg,nb,__class__,litt/tem­me­lig kalk­rik
 434,elementary_segment_KA.fg,nb,__description__,i ­skogs­mar­k ­ka­rak­te­ri­ser­t ved­ ­fore­komst av ek­te ­brun­jords­pro­fi­ler; jord ­ty­pisk ­dan­net av ­glim­mer­ski­fer og ­fyl­lit­ter
-435,elementary_segment_KA.g,en,<class>,rather calcareous
-436,elementary_segment_KA.g,nb,<class>,tem­me­lig kalk­rik
-437,elementary_segment_KA.h,en,<class>,very calcareous
-438,elementary_segment_KA.h,nb,<class>,svær­t kalk­rik
-439,elementary_segment_KA.hi,en,<class>,very / extremely calcareous
+435,elementary_segment_KA.g,en,__class__,rather calcareous
+436,elementary_segment_KA.g,nb,__class__,tem­me­lig kalk­rik
+437,elementary_segment_KA.h,en,__class__,very calcareous
+438,elementary_segment_KA.h,nb,__class__,svær­t kalk­rik
+439,elementary_segment_KA.hi,en,__class__,very / extremely calcareous
 440,elementary_segment_KA.hi,en,__description__,"characterized by the occurrence of a very large species pool with many less common species; soils typically formed of pure carbonate rocks such as limestone, dolomite and marble; the extreme step (i) comprises sites with direct influence from carbonate rocks, e.g. naked limestone mountain"
-441,elementary_segment_KA.hi,nb,<class>,svær­t/eks­trem­t kalk­rik
+441,elementary_segment_KA.hi,nb,__class__,svær­t/eks­trem­t kalk­rik
 442,elementary_segment_KA.hi,nb,__description__,"ka­rak­te­ri­ser­t ved­ ­fore­komst s­vær­t stor arts­pool ­med ­man­ge ­mindre van­li­ge ar­ter; jord ­ty­pisk ­dan­net av rei­ne ­kar­bo­nat­berg­ar­ter som kal­k­stein, ­do­lo­mitt og ­mar­mor; eks­trem­trin­net (i) om­fat­ter ste­der ­med ­di­rek­te inn­fly­tel­se ­fra ­kar­bo­nat­berg­ar­ter, f.eks. na­ken­t kalk­berg"
-443,elementary_segment_KA.i,en,<class>,extremely calcareous
-444,elementary_segment_KA.i,nb,<class>,eks­trem­t kalk­rik
-445,elementary_segment_KI.0,en,<class>,no source water impact
+443,elementary_segment_KA.i,en,__class__,extremely calcareous
+444,elementary_segment_KA.i,nb,__class__,eks­trem­t kalk­rik
+445,elementary_segment_KI.0,en,__class__,no source water impact
 446,elementary_segment_KI.0,en,__description__,stagnant groundwater (topogenic or topo-limnogenic water supply in wetland systems) or no regular supply of groundwater or moving surface water (normal solid state systems)
-447,elementary_segment_KI.0,nb,<class>,in­gen ­kilde­vanns­på­virk­ning
+447,elementary_segment_KI.0,nb,__class__,in­gen ­kilde­vanns­på­virk­ning
 448,elementary_segment_KI.0,nb,__description__,stag­ne­ren­de ­grunn­vann (to­po­gen el­ler to­po-­lim­no­gen ­vann­til­før­sel i våt­marks­sys­te­mer) el­ler in­gen re­gel­mes­sig ­til­før­sel av ­grunn­vann el­ler ­be­ve­ge­lig ­over­flate­vann (­nor­ma­le ­fast­marks­sys­te­mer)
-449,elementary_segment_KI.a,en,<class>,observable spring water impact
+449,elementary_segment_KI.a,en,__class__,observable spring water impact
 450,elementary_segment_KI.a,en,__description__,"supply of moving groundwater without spring water properties (sunny water supply to wetland systems) or regular supply of moving surface water (solid ground systems), but not sufficient for the spring water impact of the species composition to be observable"
-451,elementary_segment_KI.a,nb,<class>,ob­ser­ver­bar ­kilde­vanns­på­virk­ning
+451,elementary_segment_KI.a,nb,__class__,ob­ser­ver­bar ­kilde­vanns­på­virk­ning
 452,elementary_segment_KI.a,nb,__description__,"til­før­sel av ­be­ve­ge­lig ­grunn­vann u­ten ­kilde­vann­s­egen­ska­per (­so­li­gen ­vann­til­før­sel ­til våt­marks­sys­te­mer) el­ler re­gel­mes­sig ­til­før­sel av ­be­ve­ge­lig ­over­flate­vann (­fast­marks­sys­te­mer), ­men ik­ke ­til­strek­ke­lig ­til at ­kilde­vanns­på­virk­nin­gen av arts­sam­men­set­nin­gen er ­ob­ser­ver­bar"
-453,elementary_segment_KI.bc,en,<class>,weak spring water impact
+453,elementary_segment_KI.bc,en,__class__,weak spring water impact
 454,elementary_segment_KI.bc,en,__description__,"weak spring water impact, but sufficient to give, but sufficient to have an observable effect on the species composition (marked flush effect indicating supply of moving groundwater with spring water properties in mainland systems; spring bogs in wetland systems); = slightly rheogenic soil moisture; in woodland and meadow systems large fern and perennial forest / meadow"
-455,elementary_segment_KI.bc,nb,<class>,svak ­kilde­vanns-­på­virk­ning
+455,elementary_segment_KI.bc,nb,__class__,svak ­kilde­vanns-­på­virk­ning
 456,elementary_segment_KI.bc,nb,__description__,"svak ­kilde­vanns­på­virk­ning, ­men ­til­strek­ke­lig ­til å ­gi, ­men ­til­strek­ke­lig ­til å ha ­ob­ser­ver­bar ­ef­fek­t på arts­sam­men­-­set­nin­gen (­mar­ker­t flush-­ef­fek­t som in­di­ke­rer ­til­før­sel av ­be­ve­ge­lig ­grunn­vann ­med ­kilde­vann­s­egen­ska­per i ­fast­marks­sys­te­mer; ­kil­de­myr i våt­marks­sys­te­mer); = s­vak­t r­he­ogen ­mark­fuk­ting; i ­skogs­marks- og eng­sys­te­mer stor­breg­ne- og høg­staude­skog/-eng"
-457,elementary_segment_KI.d,en,<class>,clear spring water impact (weak source)
+457,elementary_segment_KI.d,en,__class__,clear spring water impact (weak source)
 458,elementary_segment_KI.d,en,__description__,"clear spring water impact, but strong enough to give rise to a wetland system to be typified as a source, but the source is diffuse and weak; = rather weak rheogenic soil moisture"
-459,elementary_segment_KI.d,nb,<class>,klar ­kilde­vanns­på­virk­ning (svak ­kil­de)
+459,elementary_segment_KI.d,nb,__class__,klar ­kilde­vanns­på­virk­ning (svak ­kil­de)
 460,elementary_segment_KI.d,nb,__description__,"klar ­kilde­vanns­på­virk­ning, ­men s­ter­k nok ­til å ­gi opp­hav ­til et våt­marks­sys­tem som ­skal ­typi­fi­se­res som ­kil­de, ­men ­kil­den er ­dif­fus og svak; = noks­å svak r­he­ogen ­mark­fuk­ting "
-461,elementary_segment_KI.e,en,<class>,rather strong spring water impact [unstable (astatic) source]
+461,elementary_segment_KI.e,en,__class__,rather strong spring water impact [unstable (astatic) source]
 462,elementary_segment_KI.e,en,__description__,"very clear spring water impact, strong enough to give rise to a wetland system to be typified as a source; the source is marked as a clear emergence, but without a stable water supply and / or stable temperature; = astatic source, fairly strong rheogenic soil moisture"
-463,elementary_segment_KI.e,nb,<class>,tem­me­lig s­ter­k ­kilde­vanns­på­virk­ning [usta­bil (a­s­ta­ti­sk) ­kil­de]
+463,elementary_segment_KI.e,nb,__class__,tem­me­lig s­ter­k ­kilde­vanns­på­virk­ning [usta­bil (a­s­ta­ti­sk) ­kil­de]
 464,elementary_segment_KI.e,nb,__description__,"me­get klar ­kilde­vanns­på­virk­ning, s­ter­k nok ­til å ­gi opp­hav ­til et våt­marks­sys­tem som ­skal ­typi­fi­se­res som ­kil­de; ­kil­den er ­mar­ker­t som et ­ty­de­lig opp­kom­me, ­men u­ten sta­bil ­vann­til­før­sel og/el­ler sta­bil tem­pe­ra­tur; = a­s­ta­ti­sk ­kil­de, noks­å s­ter­k r­he­ogen ­mark­fuk­ting"
-465,elementary_segment_KI.¤,en,<class>,very strong spring water impact [stable (eustatic) source]
+465,elementary_segment_KI.¤,en,__class__,very strong spring water impact [stable (eustatic) source]
 466,elementary_segment_KI.¤,en,__description__,strong (eustatic) source; continuous flow of spring water with almost constant temperature (close to the annual average temperature in the area; = strong rheogenic soil moisture
-467,elementary_segment_KI.¤,nb,<class>,svær­t s­ter­k ­kilde­vanns­på­virk­ning [sta­bil (eusta­ti­sk) ­kil­de]
+467,elementary_segment_KI.¤,nb,__class__,svær­t s­ter­k ­kilde­vanns­på­virk­ning [sta­bil (eusta­ti­sk) ­kil­de]
 468,elementary_segment_KI.¤,nb,__description__,ster­k (eusta­ti­sk) ­kil­de; kon­ti­nu­er­lig ­fram­spring av ­kilde­vann ­med ­til­nær­met kon­stan­t tem­pe­ra­tur (­næ­r års­mid­del­tem­pe­ra­tu­ren i ­om­rå­det; = s­ter­k r­he­ogen ­mark­fuk­ting
-469,elementary_segment_KO.0,en,<class>,isolated
+469,elementary_segment_KO.0,en,__class__,isolated
 470,elementary_segment_KO.0,en,__description__,water body that is not connected to a major watercourse through an outlet stream or river
-471,elementary_segment_KO.0,nb,<class>,iso­lert
+471,elementary_segment_KO.0,nb,__class__,iso­lert
 472,elementary_segment_KO.0,nb,__description__,vann­fore­komst som ik­ke er ­for­bun­det ­med et ­stør­re vass­drag ­gjen­nom­ en ut­løps­bekk el­ler -elv
-473,elementary_segment_KO.¤,en,<class>,part of a larger water system
+473,elementary_segment_KO.¤,en,__class__,part of a larger water system
 474,elementary_segment_KO.¤,en,__description__,water body connected to a larger watercourse through an outlet stream or river
-475,elementary_segment_KO.¤,nb,<class>,del av ­stør­re ­vann­sys­tem
+475,elementary_segment_KO.¤,nb,__class__,del av ­stør­re ­vann­sys­tem
 476,elementary_segment_KO.¤,nb,__description__,vann­fore­komst som er ­for­bun­det ­med et ­stør­re vass­drag ­gjen­nom­ en ut­løps­bekk el­ler -elv
-477,elementary_segment_KT.a,en,<class>,basic source
+477,elementary_segment_KT.a,en,__class__,basic source
 478,elementary_segment_KT.a,en,__description__,"concentrated water projection (emergence) surrounded by solid ground (= power source, rheokren)"
-479,elementary_segment_KT.a,nb,<class>,grunn­kil­de
+479,elementary_segment_KT.a,nb,__class__,grunn­kil­de
 480,elementary_segment_KT.a,nb,__description__,"kon­sen­trer­t ­vann­fram­spring (opp­kom­me) om­gitt av ­fast­mar­k (= ­strøm­kil­de, r­he­okren)"
-481,elementary_segment_KT.b,en,<class>,peatland source
+481,elementary_segment_KT.b,en,__class__,peatland source
 482,elementary_segment_KT.b,en,__description__,"concentrated or diffuse spring water projection surrounded by peatland (= deep spring, swamp spring, helocene)"
-483,elementary_segment_KT.b,nb,<class>,torv­mark­s­kil­de
+483,elementary_segment_KT.b,nb,__class__,torv­mark­s­kil­de
 484,elementary_segment_KT.b,nb,__description__,"kon­sen­trer­t el­ler ­dif­fus­t ­kilde­vanns­fram­spring om­gitt av torv­mar­k (= ­djup­kil­de, ­sump­kil­de, he­l­o­kren)"
-485,elementary_segment_KT.c,en,<class>,fresh water source
+485,elementary_segment_KT.c,en,__class__,fresh water source
 486,elementary_segment_KT.c,en,__description__,"concentrated groundwater projection below the surface in stagnant or flowing water bodies (often visible as sand or gravel moves) (dam, river and lake source, limnokren)"
-487,elementary_segment_KT.c,nb,<class>,fersk­vann­s­kil­de
+487,elementary_segment_KT.c,nb,__class__,fersk­vann­s­kil­de
 488,elementary_segment_KT.c,nb,__description__,"kon­sen­trer­t ­grunn­vanns­fram­spring un­der ­over­fla­ta­ i s­tille­stå­en­de el­ler ren­nen­de ­vann­fore­komst (of­te ­syn­lig ved­ at sand el­ler ­grus ­be­ve­ger ­seg) (­dam, elve- og inn­sjø­kil­de, ­limno­kren)"
-489,elementary_segment_KT.d,en,<class>,water- and gas-bearing cold sea source
+489,elementary_segment_KT.d,en,__class__,water- and gas-bearing cold sea source
 490,elementary_segment_KT.d,en,__description__,"outflow of water and / or gas (CH4, H2S, H2, CO2) on saline bottoms, with an intensity that is not sufficient to carry large amounts of sediment material"
-491,elementary_segment_KT.d,nb,<class>,vann­- og ­gass­fø­ren­de kald hav­kil­de
+491,elementary_segment_KT.d,nb,__class__,vann­- og ­gass­fø­ren­de kald hav­kil­de
 492,elementary_segment_KT.d,nb,__description__,"ut­strøm­ming av ­vann og/el­ler ­gas­s (CH4, H2S, H2, CO2) på salt­vanns­bunn, ­med en in­ten­si­tet som ik­ke er ­til­strek­ke­lig ­til å ­fø­re ­med ­seg ­stør­re ­meng­der ­se­di­ment­ma­te­ria­le"
-493,elementary_segment_KT.e,en,<class>,mud-bearing cold sea source
+493,elementary_segment_KT.e,en,__class__,mud-bearing cold sea source
 494,elementary_segment_KT.e,en,__description__,"concentrated outflow of water, gas (mostly CH4) and gas-filled clay which causes strong sedimentation of the area around the outflow point"
-495,elementary_segment_KT.e,nb,<class>,mud­der­fø­ren­de kald hav­kil­de
+495,elementary_segment_KT.e,nb,__class__,mud­der­fø­ren­de kald hav­kil­de
 496,elementary_segment_KT.e,nb,__description__,"kon­sen­trer­t ­ut­strøm­ming av ­vann, ­gas­s (­mest CH4) og ­gass­fyl­t ­lei­re som med­fø­rer s­ter­k ­se­di­men­ta­sjon av ­om­rå­det om­kring ­ut­strøm­mings­punk­tet"
-497,elementary_segment_KT.f,en,<class>,magmatic sea source
+497,elementary_segment_KT.f,en,__class__,magmatic sea source
 498,elementary_segment_KT.f,en,__description__,"concentrated outflow of gas, water and / or magma (liquid rock) from the earth's interior, leading to the formation of a new seabed"
-499,elementary_segment_KT.f,nb,<class>,magma­føren­de hav­kil­de
+499,elementary_segment_KT.f,nb,__class__,magma­føren­de hav­kil­de
 500,elementary_segment_KT.f,nb,__description__,"kon­sen­trer­t ­ut­strøm­ming av ­gas­s, ­vann og/el­ler ­mag­ma (­fly­ten­de stein) ­fra jor­das indre, som ­fø­rer ­til ­dan­nel­se av ­ny hav­bunn"
-501,elementary_segment_KY.0,en,<class>,sea-connected
+501,elementary_segment_KY.0,en,__class__,sea-connected
 502,elementary_segment_KY.0,en,__description__,oceanic; which has its main residence in the seawater masses
-503,elementary_segment_KY.0,nb,<class>,hav­til­knyt­tet
+503,elementary_segment_KY.0,nb,__class__,hav­til­knyt­tet
 504,elementary_segment_KY.0,nb,__description__,osea­nisk; som har ho­ved­opp­holds­sted i hav­vann­mas­se­ne
-505,elementary_segment_KY.a,en,<class>,coastal
+505,elementary_segment_KY.a,en,__class__,coastal
 506,elementary_segment_KY.a,en,__description__,neritic; which has its main residence in the coastal bodies of water
-507,elementary_segment_KY.a,nb,<class>,kyst­til­knyt­tet
+507,elementary_segment_KY.a,nb,__class__,kyst­til­knyt­tet
 508,elementary_segment_KY.a,nb,__description__,ne­rit­tisk; som har ho­ved­opp­holds­sted i ­kyst­vann­mas­se­ne
-509,elementary_segment_LA.+,en,<class>,post-succession phase
+509,elementary_segment_LA.+,en,__class__,post-succession phase
 510,elementary_segment_LA.+,en,__description__,without clear indications that changes that may be related to previous disturbance are still taking place; species composition more or less without species not typical of the post-succession condition; holistic system characterized by processes typical of natural soil
 511,elementary_segment_LA.+,en,Species accumulation index,>0.9
-512,elementary_segment_LA.+,nb,<class>,etter­suk­se­sjons­fase
+512,elementary_segment_LA.+,nb,__class__,etter­suk­se­sjons­fase
 513,elementary_segment_LA.+,nb,__description__,uten ­ty­de­li­ge in­di­ka­sjo­ner på at ­end­rin­ger som kan re­la­te­res ­til ­tid­li­ge­re ­for­styr­rel­se ­fort­satt ­fin­ner sted; arts­sam­men­set­ning ­mer el­ler ­mindre u­ten ar­ter som ik­ke er ­ty­pisk ­for et­ter­suk­se­sjons­¬­til­stan­den; hel­het­lig ­sys­tem kjenne­teg­net av ­pro­ses­ser som er ­ty­pisk ­for ­na­tur­lig ­mark
 514,elementary_segment_LA.+,nb,Artsak­ku­mu­le­rings­in­deks,">0,9"
-515,elementary_segment_LA.0,en,<class>,initial phase
+515,elementary_segment_LA.0,en,__class__,initial phase
 516,elementary_segment_LA.0,en,__description__,with intact signs of extensive disturbance
 517,elementary_segment_LA.0,en,Species accumulation index,<0.1
-518,elementary_segment_LA.0,nb,<class>,ini­tial­fase
+518,elementary_segment_LA.0,nb,__class__,ini­tial­fase
 519,elementary_segment_LA.0,nb,__description__,med­ in­tak­t preg av om­fat­ten­de ­for­styr­rel­se
 520,elementary_segment_LA.0,nb,Artsak­ku­mu­le­rings­in­deks,"<0,1"
-521,elementary_segment_LA.ab,en,<class>,colonization phase
+521,elementary_segment_LA.ab,en,__class__,colonization phase
 522,elementary_segment_LA.ab,en,__description__,"colonization of the substrate in progress, no still no indications of establishment of processes typical of natural soil (the expected state of post-succession)"
 523,elementary_segment_LA.ab,en,Species accumulation index,0.1-0.25
-524,elementary_segment_LA.ab,nb,<class>,ko­lo­ni­se­rings­fase
+524,elementary_segment_LA.ab,nb,__class__,ko­lo­ni­se­rings­fase
 525,elementary_segment_LA.ab,nb,__description__,"ko­lo­ni­se­ring av ­sub­stra­tet på­går, in­gen ­fort­satt in­gen in­di­ka­sjo­ner på e­tab­le­ring av ­pro­ses­ser ­ty­pisk ­for ­na­tur­lig ­mar­k (­den ­for­vente­te et­ter­suk­se­sjons­til­stan­den)"
 526,elementary_segment_LA.ab,nb,Artsak­ku­mu­le­rings­in­deks,"0,1-0,25"
-527,elementary_segment_LA.cd,en,<class>,establishment phase
+527,elementary_segment_LA.cd,en,__class__,establishment phase
 528,elementary_segment_LA.cd,en,__description__,"incipient establishment of a system of natural soil, but most species typical of the post-succession state are missing; Some ecological processes that are typical of natural soil may be established"
 529,elementary_segment_LA.cd,en,Species accumulation index,0.25-0.5
-530,elementary_segment_LA.cd,nb,<class>,etab­le­rings­fase
+530,elementary_segment_LA.cd,nb,__class__,etab­le­rings­fase
 531,elementary_segment_LA.cd,nb,__description__,"be­gyn­nen­de e­tab­le­ring av et ­sys­tem ­med ­na­tur­lig ­mar­k, ­men ­de fles­te ar­te­ne som er ­ty­pisk ­for et­ter­suk­se­sjons­til­stan­den ­mang­ler; en­kelt­e ­øko­lo­gis­ke ­pro­ses­ser som er ­ty­pisk ­for ­na­tur­lig ­mar­k kan ­væ­re e­tab­lert"
 532,elementary_segment_LA.cd,nb,Artsak­ku­mu­le­rings­in­deks,"0,25-0,5"
-533,elementary_segment_LA.ef,en,<class>,consolidation phase
+533,elementary_segment_LA.ef,en,__class__,consolidation phase
 534,elementary_segment_LA.ef,en,__description__,"artssammensetning mer eller mindre dominert av arter typisk for ettersuksesjonstilstanden; prosesser som kjennetegner naturlig mark er tydelig observerbare og artssammensetningen er, eller begynner å bli, strukturert av lokale komplekse miljøvariabler; ett helhetlig økosystem kan være etablert, men dette vil over tid fortsette å endres, f.eks. ved jordsmonnsoppbygging"
 535,elementary_segment_LA.ef,en,Species accumulation index,0.5-0.9
-536,elementary_segment_LA.ef,nb,<class>,kon­so­li­de­rings­fase
+536,elementary_segment_LA.ef,nb,__class__,kon­so­li­de­rings­fase
 537,elementary_segment_LA.ef,nb,__description__,"arts­sam­men­set­ning ­mer el­ler ­mindre ­do­mi­ner­t av ar­ter ­ty­pisk ­for et­ter­suk­se­sjons­til­stan­den; ­pro­ses­ser som kjenne­teg­ner ­na­tur­lig ­mar­k er ­ty­de­lig ­ob­ser­ver­ba­re og arts­sam­men­set­nin­gen er, el­ler ­be­gyn­ner å b­li, ­struk­tu­rer­t av lo­ka­le ­kom­plek­se ­miljø­va­ri­ab­ler; ett hel­het­lig ­ø­ko­sys­tem kan ­væ­re e­tab­ler­t, ­men ­det­te vil over ­tid ­fort­set­te å ­endres, f.eks. ved­ jords­monns­opp­byg­ging"
 538,elementary_segment_LA.ef,nb,Artsak­ku­mu­le­rings­in­deks,"0,5-0,9"
-539,elementary_segment_LK.+,en,<class>,dead coral reef
+539,elementary_segment_LK.+,en,__class__,dead coral reef
 540,elementary_segment_LK.+,en,__description__,coral reefs dominated by dead rock corals
-541,elementary_segment_LK.+,nb,<class>,død­t ko­rall­rev
+541,elementary_segment_LK.+,nb,__class__,død­t ko­rall­rev
 542,elementary_segment_LK.+,nb,__description__,ko­rall­re­v ­do­mi­ner­t av ­dø­de stein­ko­ral­ler
-543,elementary_segment_LK.0,en,<class>,living coral reefs
+543,elementary_segment_LK.0,en,__class__,living coral reefs
 544,elementary_segment_LK.0,en,__description__,coral reefs dominated by living rock corals
-545,elementary_segment_LK.0,nb,<class>,le­ven­de ko­rall­rev
+545,elementary_segment_LK.0,nb,__class__,le­ven­de ko­rall­rev
 546,elementary_segment_LK.0,nb,__description__,ko­rall­re­v ­do­mi­ner­t av ­le­ven­de stein­ko­ral­ler
-547,elementary_segment_MB.+,en,<class>,regularly processed
+547,elementary_segment_MB.+,en,__class__,regularly processed
 548,elementary_segment_MB.+,en,__description__,"land that is cultivated (plowed, harrowed or similar) regularly (within heavily altered agricultural land: fields)"
-549,elementary_segment_MB.+,nb,<class>,re­gel­mes­sig ­be­ar­bei­det
+549,elementary_segment_MB.+,nb,__class__,re­gel­mes­sig ­be­ar­bei­det
 550,elementary_segment_MB.+,nb,__description__,"mar­k som ­be­ar­bei­de­s (pløy­es, harve­s el­ler ­lik­nen­de) re­gel­mes­sig (in­nen­for sterk­t ­endret jord­bruks­mar­k: å­ker)"
-551,elementary_segment_MB.0,en,<class>,not regularly processed
+551,elementary_segment_MB.0,en,__class__,not regularly processed
 552,elementary_segment_MB.0,en,__description__,"land that is not regularly plowed, harrowed or similar (within heavily altered agricultural land: permanent meadow)"
-553,elementary_segment_MB.0,nb,<class>,ikke­ re­gel­mes­sig ­be­ar­bei­det
+553,elementary_segment_MB.0,nb,__class__,ikke­ re­gel­mes­sig ­be­ar­bei­det
 554,elementary_segment_MB.0,nb,__description__,"mar­k som ik­ke re­gel­mes­sig pløy­es, harve­s el­ler ­lik­nen­de (in­nen­for sterk­t ­endret jord­bruks­mar­k: va­rig eng)"
-555,elementary_segment_MF.0,en,<class>,solid ground
+555,elementary_segment_MF.0,en,__class__,solid ground
 556,elementary_segment_MF.0,en,__description__,areas which by definition belong to mainland systems
-557,elementary_segment_MF.0,nb,<class>,fast­mark
+557,elementary_segment_MF.0,nb,__class__,fast­mark
 558,elementary_segment_MF.0,nb,__description__,om­rå­der som et­ter de­fi­ni­sjo­nen ­til­hø­rer ­fast­marks­sys­te­mer
-559,elementary_segment_MF.ab,en,<class>,bog and swamp forest land
+559,elementary_segment_MF.ab,en,__class__,bog and swamp forest land
 560,elementary_segment_MF.ab,en,__description__,woodland on peatland
-561,elementary_segment_MF.ab,nb,<class>,myr- og ­sump­skogs­mark
+561,elementary_segment_MF.ab,nb,__class__,myr- og ­sump­skogs­mark
 562,elementary_segment_MF.ab,nb,__description__,skogs­mar­k på torv­mark
-563,elementary_segment_MF.cd,en,<class>,open mire edge
+563,elementary_segment_MF.cd,en,__class__,open mire edge
 564,elementary_segment_MF.cd,en,__description__,open peatland (bog) with dominance of species that are also found on solid ground or that are often associated with parts of the bog close to the mainland (so-called ‘mire edge species’)
-565,elementary_segment_MF.cd,nb,<class>,åpen myr­kant
+565,elementary_segment_MF.cd,nb,__class__,åpen myr­kant
 566,elementary_segment_MF.cd,nb,__description__,åpen torv­mar­k (­myr) ­med ­do­mi­nans av ar­ter som ogs­å ­fin­nes på ­fast­mar­k el­ler som of­te er ­knyt­tet ­til ­fast­marks­næ­re ­de­ler av ­myra (så­kal­te ‘myr­kan­tar­ter’)
-567,elementary_segment_MF.ef,en,<class>,open mire expanse
+567,elementary_segment_MF.ef,en,__class__,open mire expanse
 568,elementary_segment_MF.ef,en,__description__,open peatland (bog) with dominance of species that are not found on solid ground and that shepherd near the mainland cover of the bog (so-called ‘bog expanse species’)
-569,elementary_segment_MF.ef,nb,<class>,åpen ­myr­fla­te
+569,elementary_segment_MF.ef,nb,__class__,åpen ­myr­fla­te
 570,elementary_segment_MF.ef,nb,__description__,åpen torv­mar­k (­myr) ­med ­do­mi­nans av ar­ter som ik­ke ­fin­nes på ­fast­mar­k og som s­kyr ­fast­marks­næ­re de­ker av ­myra (så­kal­te ‘­myr­flate­ar­ter’)
-571,elementary_segment_MX.0,en,<class>,natural soil / ground
+571,elementary_segment_MX.0,en,__class__,natural soil / ground
 572,elementary_segment_MX.0,en,__description__,natural soil / ground
-573,elementary_segment_MX.0,nb,<class>,na­tur­lig ­mar­k/­bunn
+573,elementary_segment_MX.0,nb,__class__,na­tur­lig ­mar­k/­bunn
 574,elementary_segment_MX.0,nb,__description__,na­tur­lig ­mar­k/­bunn
-575,elementary_segment_MX.a,en,<class>,boreal moor
+575,elementary_segment_MX.a,en,__class__,boreal moor
 576,elementary_segment_MX.a,en,__description__,solid forest land that has been deforested and kept open for a long enough time that the forest land ecosystem processes no longer apply
-577,elementary_segment_MX.a,nb,<class>,boreal hei
+577,elementary_segment_MX.a,nb,__class__,boreal hei
 578,elementary_segment_MX.a,nb,__description__,fast­marks­skogs­mar­k som er av­sko­get og hold­t å­pen i lang nok ­tid ­til at ­skogs­mar­kas ­ø­ko­sys­tem­pro­ses­ser ik­ke ­len­ger ­gjør ­seg ­gjel­den­de
-579,elementary_segment_NG.0,en,<class>,without natural fertilizer
+579,elementary_segment_NG.0,en,__class__,without natural fertilizer
 580,elementary_segment_NG.0,en,__description__,oligotrophic without observable effect of natural fertilization on the species composition
-581,elementary_segment_NG.0,nb,<class>,uten ­na­tur­lig ­gjøds­lings­preg
+581,elementary_segment_NG.0,nb,__class__,uten ­na­tur­lig ­gjøds­lings­preg
 582,elementary_segment_NG.0,nb,__description__,oli­go­trof u­ten ­ob­ser­ver­bar ­ef­fek­t av ­na­tur­lig ­gjøds­ling på arts­sam­men­set­nin­gen
-583,elementary_segment_NG.a,en,<class>,observable natural fertilizer character
+583,elementary_segment_NG.a,en,__class__,observable natural fertilizer character
 584,elementary_segment_NG.a,en,__description__,"oligotrophic, but with observable effect of natural fertilization on the species composition compared to nature not affected by natural fertilization"
-585,elementary_segment_NG.a,nb,<class>,ob­ser­ver­bar­t ­na­tur­lig ­gjøds­lings­pre­get
+585,elementary_segment_NG.a,nb,__class__,ob­ser­ver­bar­t ­na­tur­lig ­gjøds­lings­pre­get
 586,elementary_segment_NG.a,nb,__description__,"oli­go­trof, ­men ­med ­ob­ser­ver­bar (< 1 ØAE) ­ef­fek­t av ­na­tur­lig ­gjøds­ling på arts­sam­men­set­nin­gen ­sam­men­lik­net ­med ­na­tur som ik­ke er ­på­vir­ket av ­na­tur­lig ­gjøds­ling"
-587,elementary_segment_NG.b,en,<class>,slightly naturally fertilized
+587,elementary_segment_NG.b,en,__class__,slightly naturally fertilized
 588,elementary_segment_NG.b,en,__description__,mesotrophic; clear fertilizer character on the species composition; in contrast to the adjoining nature which lacks this character
-589,elementary_segment_NG.b,nb,<class>,litt ­na­tur­lig ­gjøds­lings­pre­get
+589,elementary_segment_NG.b,nb,__class__,litt ­na­tur­lig ­gjøds­lings­pre­get
 590,elementary_segment_NG.b,nb,__description__,me­so­trof; ­ty­de­lig ­gjøds­lings­preg på arts­sam­men­set­nin­gen; ­til ­for­skjel­l ­fra ­til­gren­sen­de ­na­tur som ­mang­ler ­det­te pre­get
-591,elementary_segment_NG.c,en,<class>,rather strongly naturally fertilized
+591,elementary_segment_NG.c,en,__class__,rather strongly naturally fertilized
 592,elementary_segment_NG.c,en,__description__,eutrophic; the fertilization effect is so strong that the plant density is reduced in relation to step NG.b
-593,elementary_segment_NG.c,nb,<class>,tem­me­lig sterk­t ­na­tur­lig ­gjøds­lings­pre­get
+593,elementary_segment_NG.c,nb,__class__,tem­me­lig sterk­t ­na­tur­lig ­gjøds­lings­pre­get
 594,elementary_segment_NG.c,nb,__description__,eutrof; ­gjøds­lings­på­virk­nin­gen er så s­ter­k at plante­arts­tett­he­ten re­du­se­res i ­for­hold ­til ­trinn NG∙b
-595,elementary_segment_NG.d,en,<class>,very strongly naturally fertilized
+595,elementary_segment_NG.d,en,__class__,very strongly naturally fertilized
 596,elementary_segment_NG.d,en,__description__,eutrophic; the fertilization effect is so strong that the vegetation is often dominated by a single species
-597,elementary_segment_NG.d,nb,<class>,svær­t sterk­t ­na­tur­lig ­gjøds­lings­pre­get
+597,elementary_segment_NG.d,nb,__class__,svær­t sterk­t ­na­tur­lig ­gjøds­lings­pre­get
 598,elementary_segment_NG.d,nb,__description__,eutrof; ­gjøds­lings­på­virk­nin­gen er så s­ter­k at ve­ge­ta­sjo­nen of­te er ­do­mi­ner­t av en en­kelt­ art
-599,elementary_segment_NG.¤,en,<class>,over-fertilized
+599,elementary_segment_NG.¤,en,__class__,over-fertilized
 600,elementary_segment_NG.¤,en,__description__,hypertrophyc; the effect of fertilization is so strong that plants occur only sporadically (more or less vegetation-free soil)
-601,elementary_segment_NG.¤,nb,<class>,over­gjøds­let
+601,elementary_segment_NG.¤,nb,__class__,over­gjøds­let
 602,elementary_segment_NG.¤,nb,__description__,hy­pertrof; ­gjøds­lings­på­virk­nin­gen er så s­ter­k at plan­ter ­ba­re spo­ra­disk ­fore­kom­mer (­mer el­ler ­mindre ve­ge­ta­sjons­fri ­mar­k)
-603,elementary_segment_OF.0,en,<class>,stable soil
+603,elementary_segment_OF.0,en,__class__,stable soil
 604,elementary_segment_OF.0,en,__description__,without visible traces of frost processes (on the species composition)
-605,elementary_segment_OF.0,nb,<class>,sta­bil jord
+605,elementary_segment_OF.0,nb,__class__,sta­bil jord
 606,elementary_segment_OF.0,nb,__description__,uten ­syn­li­ge s­por et­ter frost­pro­ses­ser (på arts­sam­men­set­nin­gen)
-607,elementary_segment_OF.a,en,<class>,slight freezing
+607,elementary_segment_OF.a,en,__class__,slight freezing
 608,elementary_segment_OF.a,en,__description__,observable signs of frost processes; is primarily reflected in a reduced number of species with a low tolerance to the effects of frost on the field
-609,elementary_segment_OF.a,nb,<class>,svak opp­fry­sing
+609,elementary_segment_OF.a,nb,__class__,svak opp­fry­sing
 610,elementary_segment_OF.a,nb,__description__,ob­ser­ver­bar­t preg av frost­pro­ses­ser; ­gir ­seg ­først og frem­st ­ut­slag i re­du­ser­t ­meng­de av ar­ter ­med lav ­to­le­ran­se ­over­for frost­virk­ning på ­mar­ka
-611,elementary_segment_OF.b,en,<class>,strong freezing
+611,elementary_segment_OF.b,en,__class__,strong freezing
 612,elementary_segment_OF.b,en,__description__,freezing land with dominance of species that have a high tolerance to soil agitation (small bogs on fine soil) or sparse species inventory (on rocks and blocks)
-613,elementary_segment_OF.b,nb,<class>,ster­k opp­fry­sing
+613,elementary_segment_OF.b,nb,__class__,ster­k opp­fry­sing
 614,elementary_segment_OF.b,nb,__description__,opp­fry­sings­mar­k ­med ­do­mi­nans av ar­ter som har stor ­to­le­ran­se ­over­for jord­om­rø­ring (s­må ­mo­ser på fin­jord) el­ler s­par­som­t arts­in­ven­tar (på stei­ner og ­blok­ker)
-615,elementary_segment_OM.0,en,<class>,oxic
+615,elementary_segment_OM.0,en,__class__,oxic
 616,elementary_segment_OM.0,en,__description__,episodes of low oxygen content (<2 ml O2 / L water) never occur
-617,elementary_segment_OM.0,nb,<class>,ok­sisk
+617,elementary_segment_OM.0,nb,__class__,ok­sisk
 618,elementary_segment_OM.0,nb,__description__,epi­so­der ­med l­av­t ok­sy­gen­inn­hold (< 2 m­l O2/L ­vann) ­inn­tref­fer ald­ri
-619,elementary_segment_OM.a,en,<class>,periodically hypoxic
+619,elementary_segment_OM.a,en,__class__,periodically hypoxic
 620,elementary_segment_OM.a,en,__description__,periodic low oxygen content (<2 ml O2 / L water) occurs at least once every 6 years; the species composition contains species with tolerance to anoxic conditions to an extent that makes it observably different from oxic environments
-621,elementary_segment_OM.a,nb,<class>,pe­rio­disk hy­pok­sisk
+621,elementary_segment_OM.a,nb,__class__,pe­rio­disk hy­pok­sisk
 622,elementary_segment_OM.a,nb,__description__,pe­rio­disk l­av­t ok­sy­gen­inn­hold (< 2 m­l O2/L ­vann) ­inn­tref­fer ­minst én ­gang hver­t 6. år; arts­sam­men­set­nin­gen inne­hol­der ar­ter ­med ­to­le­ran­se ­for an­ok­sis­ke ­for­hold i et ­om­fang som ­gjør ­den ­ob­ser­ver­bar­t ­for­skjel­lig ­fra ok­sis­ke ­mil­jø­er
-623,elementary_segment_OM.b,en,<class>,periodically anoxic
+623,elementary_segment_OM.b,en,__class__,periodically anoxic
 624,elementary_segment_OM.b,en,__description__,periodisk oksygenmangel (oksygenfrie forhold) inntreffer minst hvert 6. år; arter med stor toleranse for anoksiske forhold dominerer
-625,elementary_segment_OM.b,nb,<class>,pe­rio­disk an­ok­sisk
+625,elementary_segment_OM.b,nb,__class__,pe­rio­disk an­ok­sisk
 626,elementary_segment_OM.b,nb,__description__,pe­rio­disk ok­sy­gen­man­gel (ok­sy­gen­frie ­for­hold) ­inn­tref­fer ­minst hver­t 6. år; ar­ter ­med stor ­to­le­ran­se ­for an­ok­sis­ke ­for­hold ­do­mi­ne­rer
-627,elementary_segment_OM.¤,en,<class>,anoxic
+627,elementary_segment_OM.¤,en,__class__,anoxic
 628,elementary_segment_OM.¤,en,__description__,at least 6 years between each time the bottom is in contact with water with an oxygen content above the limit value of 2 ml O2 / L water; species that are sensitive to anoxic conditions are completely missing
-629,elementary_segment_OM.¤,nb,<class>,an­ok­sisk
+629,elementary_segment_OM.¤,nb,__class__,an­ok­sisk
 630,elementary_segment_OM.¤,nb,__description__,minst 6 år ­mel­lom­ hver ­gang ­bun­nen er i kon­tak­t ­med ­vann ­med ok­sy­gen­inn­hold over ­grense­ver­di­en 2 m­l O2/L ­vann; ar­ter som er ­føl­som­me ­for an­ok­sis­ke ­for­hold ­mang­ler ­full­sten­dig
-631,elementary_segment_OR.0,en,<class>,not irrigated
+631,elementary_segment_OR.0,en,__class__,not irrigated
 632,elementary_segment_OR.0,en,__description__,on rock that is not or only insignificantly irrigated by surface runoff after precipitation and / or snowmelt
-633,elementary_segment_OR.0,nb,<class>,ikke­ ­over­ris­let
+633,elementary_segment_OR.0,nb,__class__,ikke­ ­over­ris­let
 634,elementary_segment_OR.0,nb,__description__,på ­ber­g som ik­ke el­ler ­ba­re i u­be­ty­de­lig ­grad ­over­ris­les av ­over­flate­av­ren­ning et­ter ­ned­bør og/el­ler s­nø­smel­ting
-635,elementary_segment_OR.ab,en,<class>,leachate affected
+635,elementary_segment_OR.ab,en,__class__,leachate affected
 636,elementary_segment_OR.ab,en,__description__,"places on rock which, due to surface runoff in periods after prolonged and / or concentrated precipitation, have a species composition that is observable or significant, but not significantly different from the species composition on rock without such surface runoff"
-637,elementary_segment_OR.ab,nb,<class>,sige­vanns­på­vir­ket
+637,elementary_segment_OR.ab,nb,__class__,sige­vanns­på­vir­ket
 638,elementary_segment_OR.ab,nb,__description__,"ste­der på ­ber­g som på ­grunn av ­over­flate­av­ren­ning i ­pe­rio­der et­ter lang­va­rig og/el­ler kon­sen­trer­t ­ned­bør har en arts­sam­men­set­ning som er ­ob­ser­ver­bar­t el­ler ­be­ty­de­lig, ­men ik­ke ve­sent­lig ­for­skjel­lig ­fra arts­sam­men­set­nin­gen på ­ber­g u­ten s­lik ­over­flate­av­ren­ning"
-639,elementary_segment_OR.c,en,<class>,irrigated
+639,elementary_segment_OR.c,en,__class__,irrigated
 640,elementary_segment_OR.c,en,__description__,"on rocks which for long periods after precipitation, e.g. due to the supply of leachate from overlying bogs, springs and / or snowdrifts, has a species composition that is significantly different from the species composition on rock without irrigation"
-641,elementary_segment_OR.c,nb,<class>,over­ris­let
+641,elementary_segment_OR.c,nb,__class__,over­ris­let
 642,elementary_segment_OR.c,nb,__description__,"på ­ber­g som i lan­ge ­pe­rio­der et­ter ­ned­bør, f.eks. på ­grunn av ­til­før­sel av ­sige­vann ­fra o­ven­for­lig­gen­de ­my­rer, ­kil­der og/el­ler snø­fon­ner, har en arts­sam­men­set­ning som er ve­sent­lig ­for­skjel­lig ­fra arts­sam­men­set­nin­gen på ­ber­g u­ten ­over­ris­ling"
-643,elementary_segment_PF.0,en,<class>,without permafrost
+643,elementary_segment_PF.0,en,__class__,without permafrost
 644,elementary_segment_PF.0,en,__description__,soil without permafrost
-645,elementary_segment_PF.0,nb,<class>,uten ­per­ma­frost
+645,elementary_segment_PF.0,nb,__class__,uten ­per­ma­frost
 646,elementary_segment_PF.0,nb,__description__,mar­k u­ten ­per­ma­frost
-647,elementary_segment_PF.a,en,<class>,permafrost with thin active layer
+647,elementary_segment_PF.a,en,__class__,permafrost with thin active layer
 648,elementary_segment_PF.a,en,__description__,mark der det aktive laget (over permafrost) bare er noen desimeter tykt og økosystemet sterkt preges av fryse-tineprosesser
-649,elementary_segment_PF.a,nb,<class>,per­ma­frost ­med ­tyn­t ak­tiv­t lag
+649,elementary_segment_PF.a,nb,__class__,per­ma­frost ­med ­tyn­t ak­tiv­t lag
 650,elementary_segment_PF.a,nb,__description__,mar­k ­der ­det ak­ti­ve la­get (over ­per­ma­frost) ­ba­re er ­no­en ­desi­me­ter tyk­t og ­ø­ko­sys­te­met sterk­t pre­ges av fry­se-­tine­pro­ses­ser
-651,elementary_segment_RU.0,en,<class>,without rasp character
+651,elementary_segment_RU.0,en,__class__,without rasp character
 652,elementary_segment_RU.0,en,__description__,stable soil that is never affected by landslides and with a species composition that also does not indicate landslide exposure
-653,elementary_segment_RU.0,nb,<class>,uten ras­preg
+653,elementary_segment_RU.0,nb,__class__,uten ras­preg
 654,elementary_segment_RU.0,nb,__description__,sta­bil ­mar­k som ald­ri ­på­vir­ke­s av ras og ­med en arts­sam­men­set­ning som hel­ler ik­ke in­di­ke­rer ras­ut­satt­het
-655,elementary_segment_RU.a,en,<class>,observably raspy
+655,elementary_segment_RU.a,en,__class__,observably raspy
 656,elementary_segment_RU.a,en,__description__,"weak but observable (<1 ØAE) effect of landslide impact on species composition (compared to nature not affected by landslide); landslide-exposed forest land, mountain heath and leeward side with an observable sign of landslide impact"
-657,elementary_segment_RU.a,nb,<class>,ob­ser­ver­bar­t ras­pre­get
+657,elementary_segment_RU.a,nb,__class__,ob­ser­ver­bar­t ras­pre­get
 658,elementary_segment_RU.a,nb,__description__,"svak, ­men ­ob­ser­ver­bar (< 1 ØAE) ­ef­fek­t av ras­på­virk­ning på arts­sam­men­set­nin­gen (­sam­men­lik­net ­med ­na­tur som ik­ke ­på­vir­ke­s av ras); ras­ut­satt ­skogs­mar­k, ­fjell­hei og ­le­si­de ­med ­ob­ser­ver­bar­t preg av ras­på­virk­ning"
-659,elementary_segment_RU.b,en,<class>,a little raspy
+659,elementary_segment_RU.b,en,__class__,a little raspy
 660,elementary_segment_RU.b,en,__description__,clear effect of landslide on species composition; in contrast to the adjoining nature which lacks this character
-661,elementary_segment_RU.b,nb,<class>,litt ras­pre­get
+661,elementary_segment_RU.b,nb,__class__,litt ras­pre­get
 662,elementary_segment_RU.b,nb,__description__,klar ­ef­fek­t av ras på arts­sam­men­set­nin­gen; ­til ­for­skjel­l ­fra ­til­gren­sen­de ­na­tur som ­mang­ler ­det­te pre­get
-663,elementary_segment_RU.c,en,<class>,rather strongly raspy
+663,elementary_segment_RU.c,en,__class__,rather strongly raspy
 664,elementary_segment_RU.c,en,__description__,very clear effect of landslides on the species composition
-665,elementary_segment_RU.c,nb,<class>,tem­me­lig sterk­t ras­pre­get
+665,elementary_segment_RU.c,nb,__class__,tem­me­lig sterk­t ras­pre­get
 666,elementary_segment_RU.c,nb,__description__,me­get klar ­ef­fek­t av ras på arts­sam­men­set­nin­gen
-667,elementary_segment_RU.de,en,<class>,very strongly raspy
+667,elementary_segment_RU.de,en,__class__,very strongly raspy
 668,elementary_segment_RU.de,en,__description__,the effect of landslides is so strong that clear species thinning takes place and rastolerant species dominate
-669,elementary_segment_RU.de,nb,<class>,svær­t sterk­t ras­pre­get
+669,elementary_segment_RU.de,nb,__class__,svær­t sterk­t ras­pre­get
 670,elementary_segment_RU.de,nb,__description__,ef­fek­ten av ras så s­ter­k at ­ty­de­lig arts­ut­tyn­ning ­fin­ner sted og ras­to­le­ran­te ar­ter ­do­mi­ne­rer
-671,elementary_segment_RU.¤,en,<class>,disturbingly raspy
+671,elementary_segment_RU.¤,en,__class__,disturbingly raspy
 672,elementary_segment_RU.¤,en,__description__,area with such a strong landslide impact that permanent communities of perennial species are not maintained
-673,elementary_segment_RU.¤,nb,<class>,dis­rup­tiv­t ras­preg
+673,elementary_segment_RU.¤,nb,__class__,dis­rup­tiv­t ras­preg
 674,elementary_segment_RU.¤,nb,__description__,om­rå­de ­med så s­ter­k ras­på­virk­ning at ­per­ma­nen­te ­sam­funn av fler­åri­ge ar­ter ik­ke opp­rett­hol­des
-675,elementary_segment_SA.+,en,<class>,weakly salt-rich (weakly metahaline)
+675,elementary_segment_SA.+,en,__class__,weakly salt-rich (weakly metahaline)
 676,elementary_segment_SA.+,en,__description__,normal salt
 677,elementary_segment_SA.+,en,salt concentration (‰),34.8-35.5
-678,elementary_segment_SA.+,nb,<class>,svak­t sal­tan­ri­ket (s­vak­t ­meta­ha­lin)
+678,elementary_segment_SA.+,nb,__class__,svak­t sal­tan­ri­ket (s­vak­t ­meta­ha­lin)
 679,elementary_segment_SA.+,nb,__description__,nor­mal­salt
 680,elementary_segment_SA.+,nb,salt­kon­sen­tra­sjon (‰),"34,8-35,5"
-681,elementary_segment_SA.0,en,<class>,fresh (hypohaline)
+681,elementary_segment_SA.0,en,__class__,fresh (hypohaline)
 682,elementary_segment_SA.0,en,__description__,not salt affected
 683,elementary_segment_SA.0,en,salt concentration (‰),<0.5
-684,elementary_segment_SA.0,nb,<class>,fersk (hy­po­ha­lin)
+684,elementary_segment_SA.0,nb,__class__,fersk (hy­po­ha­lin)
 685,elementary_segment_SA.0,nb,__description__,ikke­ salt­på­vir­ket
 686,elementary_segment_SA.0,nb,salt­kon­sen­tra­sjon (‰),"<0,5"
-687,elementary_segment_SA.a,en,<class>,slightly brakish (oligohaline)
+687,elementary_segment_SA.a,en,__class__,slightly brakish (oligohaline)
 688,elementary_segment_SA.a,en,__description__,litt saltpåvirket
 689,elementary_segment_SA.a,en,salt concentration (‰),0.5-5
-690,elementary_segment_SA.a,nb,<class>,litt ­brakk (o­li­go­ha­lin)
+690,elementary_segment_SA.a,nb,__class__,litt ­brakk (o­li­go­ha­lin)
 691,elementary_segment_SA.a,nb,__description__,litt salt­på­vir­ket
 692,elementary_segment_SA.a,nb,salt­kon­sen­tra­sjon (‰),"0,5-5"
-693,elementary_segment_SA.bc,en,<class>,pretty brackish (mesohalin)
+693,elementary_segment_SA.bc,en,__class__,pretty brackish (mesohalin)
 694,elementary_segment_SA.bc,en,__description__,rather salty
 695,elementary_segment_SA.bc,en,salt concentration (‰),5-18
-696,elementary_segment_SA.bc,nb,<class>,tem­me­lig ­brakk (meso­ha­lin)
+696,elementary_segment_SA.bc,nb,__class__,tem­me­lig ­brakk (meso­ha­lin)
 697,elementary_segment_SA.bc,nb,__description__,tem­me­lig salt­på­vir­ket
 698,elementary_segment_SA.bc,nb,salt­kon­sen­tra­sjon (‰),5-18
-699,elementary_segment_SA.de,en,<class>,rather salty (polyhaline)
+699,elementary_segment_SA.de,en,__class__,rather salty (polyhaline)
 700,elementary_segment_SA.de,en,__description__,svært saltpåvirket
 701,elementary_segment_SA.de,en,salt concentration (‰),18-30
-702,elementary_segment_SA.de,nb,<class>,tem­me­lig sal­t (­po­ly­ha­lin)
+702,elementary_segment_SA.de,nb,__class__,tem­me­lig sal­t (­po­ly­ha­lin)
 703,elementary_segment_SA.de,nb,__description__,svær­t salt­på­vir­ket
 704,elementary_segment_SA.de,nb,salt­kon­sen­tra­sjon (‰),18-30
-705,elementary_segment_SA.f,en,<class>,normal salt (euhalin)
+705,elementary_segment_SA.f,en,__class__,normal salt (euhalin)
 706,elementary_segment_SA.f,en,__description__,very salty
 707,elementary_segment_SA.f,en,salt concentration (‰),30-34.8
-708,elementary_segment_SA.f,nb,<class>,nor­mal­sal­t (e­uha­lin)
+708,elementary_segment_SA.f,nb,__class__,nor­mal­sal­t (e­uha­lin)
 709,elementary_segment_SA.f,nb,__description__,svær­t salt­på­vir­ket
 710,elementary_segment_SA.f,nb,salt­kon­sen­tra­sjon (‰),"30-34,8"
-711,elementary_segment_SE.0,en,<class>,without sedimentation
+711,elementary_segment_SE.0,en,__class__,without sedimentation
 712,elementary_segment_SE.0,en,__description__,good mass balance; balance between supply (sedimentation) and removal (erosion) of material
-713,elementary_segment_SE.0,nb,<class>,uten ­se­di­men­ta­sjons­preg
+713,elementary_segment_SE.0,nb,__class__,uten ­se­di­men­ta­sjons­preg
 714,elementary_segment_SE.0,nb,__description__,go­d ­masse­ba­lan­se; ­ba­lan­se ­mel­lom­ ­til­før­sel (­se­di­men­ta­sjon) og ­fjer­ning (­ero­sjon) av ­ma­te­ria­le
-715,elementary_segment_SE.a,en,<class>,slightly sedimentary
+715,elementary_segment_SE.a,en,__class__,slightly sedimentary
 716,elementary_segment_SE.a,en,__description__,good mass balance; balance between supply (sedimentation) and removal (erosion) of material
-717,elementary_segment_SE.a,nb,<class>,litt ­se­di­men­ta­sjons­pre­get
+717,elementary_segment_SE.a,nb,__class__,litt ­se­di­men­ta­sjons­pre­get
 718,elementary_segment_SE.a,nb,__description__,"svak­t ­po­si­tiv ­masse­ba­lan­se, ­men ­med arts­sam­men­set­ning som bæ­rer ­ob­ser­ver­bar­t preg av ­se­di­men­ta­sjon"
-719,elementary_segment_SE.b,en,<class>,clearly sedimentation-characterized
+719,elementary_segment_SE.b,en,__class__,clearly sedimentation-characterized
 720,elementary_segment_SE.b,en,__description__,clearly positive mass balance; the substrate is supplied with clearly more new material by sedimentation than the amount of material eroded away; the species composition consists primarily of sedimentation-tolerant species
-721,elementary_segment_SE.b,nb,<class>,klar­t ­se­di­men­ta­sjons­-pre­get
+721,elementary_segment_SE.b,nb,__class__,klar­t ­se­di­men­ta­sjons­-pre­get
 722,elementary_segment_SE.b,nb,__description__,klar­t ­po­si­tiv ­masse­ba­lan­se; ­sub­stra­tet ­til­fø­re­s klar­t ­mer ­nytt ­ma­te­ria­le ved­ ­se­di­men­ta­sjon enn ­meng­den ­ma­te­ria­le som ero­de­res vekk; arts­sam­men­set­nin­gen ­be­står ­først og frem­st av ­se­di­men­ta­sjons­to­le­ran­te ar­ter
-723,elementary_segment_SE.¤,en,<class>,characterized by disruptive sedimentation
+723,elementary_segment_SE.¤,en,__class__,characterized by disruptive sedimentation
 724,elementary_segment_SE.¤,en,__description__,sedimentation with such a high intensity (combination of strong disturbance and high disturbance frequency) that the establishment and maintenance of permanent populations of site-associated organisms is prevented
-725,elementary_segment_SE.¤,nb,<class>,pre­get av ­dis­rup­tiv ­se­di­men­ta­sjon
+725,elementary_segment_SE.¤,nb,__class__,pre­get av ­dis­rup­tiv ­se­di­men­ta­sjon
 726,elementary_segment_SE.¤,nb,__description__,se­di­men­ta­sjon ­med så høy in­ten­si­tet (­kom­bi­na­sjon av s­ter­k ­for­styr­rel­ses­grad og høy ­for­styr­rel­ses­fre­kvens) at e­tab­le­ring og opp­rett­hol­del­se av ­per­ma­nen­te ­po­pu­la­sjo­ner av stedstil­knytte­te ­or­ga­nis­mer ­for­hind­res
-727,elementary_segment_SF.0,en,<class>,normal salt
+727,elementary_segment_SF.0,en,__class__,normal salt
 728,elementary_segment_SF.0,en,__description__,field in the spring belt with normally saline soil
-729,elementary_segment_SF.0,nb,<class>,nor­mal­salt
+729,elementary_segment_SF.0,nb,__class__,nor­mal­salt
 730,elementary_segment_SF.0,nb,__description__,mar­k i ­fjære­bel­tet ­med ­nor­mal­t salt­hol­dig jord
-731,elementary_segment_SF.a,en,<class>,slightly salty
+731,elementary_segment_SF.a,en,__class__,slightly salty
 732,elementary_segment_SF.a,en,__description__,"weak, but observable sign of salt enrichment (on the species composition)"
-733,elementary_segment_SF.a,nb,<class>,litt sal­tan­ri­ket
+733,elementary_segment_SF.a,nb,__class__,litt sal­tan­ri­ket
 734,elementary_segment_SF.a,nb,__description__,"svak­t, ­men ­ob­ser­ver­bar­t preg av sal­tan­ri­king (på arts­sam­men­set­nin­gen)"
-735,elementary_segment_SF.b,en,<class>,clearly salt-rich
+735,elementary_segment_SF.b,en,__class__,clearly salt-rich
 736,elementary_segment_SF.b,en,__description__,klart preg av saltanriking på artssammensetningen
-737,elementary_segment_SF.b,nb,<class>,klar­t sal­tan­ri­ket
+737,elementary_segment_SF.b,nb,__class__,klar­t sal­tan­ri­ket
 738,elementary_segment_SF.b,nb,__description__,klar­t preg av sal­tan­ri­king på arts­sam­men­set­nin­gen
-739,elementary_segment_SF.¤,en,<class>,disruptive salt enrichment
+739,elementary_segment_SF.¤,en,__class__,disruptive salt enrichment
 740,elementary_segment_SF.¤,en,__description__,so strong salt enrichment that a stable species composition is not maintained
-741,elementary_segment_SF.¤,nb,<class>,dis­rup­tiv­t sal­tan­ri­ket
+741,elementary_segment_SF.¤,nb,__class__,dis­rup­tiv­t sal­tan­ri­ket
 742,elementary_segment_SF.¤,nb,__description__,så s­ter­k sal­tan­ri­king at ­det ik­ke opp­rett­hol­de­s en sta­bil arts­sam­men­set­ning
-743,elementary_segment_SH.0,en,<class>,normal naked ground / bottom
+743,elementary_segment_SH.0,en,__class__,normal naked ground / bottom
 744,elementary_segment_SH.0,en,Ecological structuring process,normal
-745,elementary_segment_SH.0,nb,<class>,de­sc_nb
+745,elementary_segment_SH.0,nb,__class__,de­sc_nb
 746,elementary_segment_SH.0,nb,Øko­lo­gisk ­struk­tu­re­ren­de ­pro­sess,nor­mal
-747,elementary_segment_SH.a,en,<class>,avalanche
+747,elementary_segment_SH.a,en,__class__,avalanche
 748,elementary_segment_SH.a,en,Ecological structuring process,mass transport on slopes (landslides)
-749,elementary_segment_SH.a,nb,<class>,skred­mark
+749,elementary_segment_SH.a,nb,__class__,skred­mark
 750,elementary_segment_SH.a,nb,Øko­lo­gisk ­struk­tu­re­ren­de ­pro­sess,masse­trans­por­t i ­skrå­nin­ger (skred)
-751,elementary_segment_SH.b,en,<class>,glacier foreland and snow melting area
+751,elementary_segment_SH.b,en,__class__,glacier foreland and snow melting area
 752,elementary_segment_SH.b,en,Ecological structuring process,glacial melting
-753,elementary_segment_SH.b,nb,<class>,bre­for­land og s­nø­av­smel­tings­om­rå­de
+753,elementary_segment_SH.b,nb,__class__,bre­for­land og s­nø­av­smel­tings­om­rå­de
 754,elementary_segment_SH.b,nb,Øko­lo­gisk ­struk­tu­re­ren­de ­pro­sess,bre­av­smel­ting
-755,elementary_segment_SH.c,en,<class>,moraine weathering
+755,elementary_segment_SH.c,en,__class__,moraine weathering
 756,elementary_segment_SH.c,en,Ecological structuring process,weathering and deposition of moraine material
-757,elementary_segment_SH.c,nb,<class>,blokk­mark
+757,elementary_segment_SH.c,nb,__class__,blokk­mark
 758,elementary_segment_SH.c,nb,Øko­lo­gisk ­struk­tu­re­ren­de ­pro­sess,for­vit­ring og av­set­ning av ­mo­rene­ma­te­ria­le
-759,elementary_segment_SH.d,en,<class>,polar desert
+759,elementary_segment_SH.d,en,__class__,polar desert
 760,elementary_segment_SH.d,en,Ecological structuring process,weathering
-761,elementary_segment_SH.d,nb,<class>,po­la­rør­ken
+761,elementary_segment_SH.d,nb,__class__,po­la­rør­ken
 762,elementary_segment_SH.d,nb,Øko­lo­gisk ­struk­tu­re­ren­de ­pro­sess,for­vit­ring
-763,elementary_segment_SH.e,en,<class>,gravel and stone dominated beach and shoreline
+763,elementary_segment_SH.e,en,__class__,gravel and stone dominated beach and shoreline
 764,elementary_segment_SH.e,en,Ecological structuring process,land uplift and wave erosion
-765,elementary_segment_SH.e,nb,<class>,grus- og stein­do­mi­ner­t ­strand og ­strand­lin­je
+765,elementary_segment_SH.e,nb,__class__,grus- og stein­do­mi­ner­t ­strand og ­strand­lin­je
 766,elementary_segment_SH.e,nb,Øko­lo­gisk ­struk­tu­re­ren­de ­pro­sess,land­he­ving og ­bølge­ero­sjon
-767,elementary_segment_SM.0,en,<class>,ocean
+767,elementary_segment_SM.0,en,__class__,ocean
 768,elementary_segment_SM.0,en,__description__,in direct connection with the world's oceans
-769,elementary_segment_SM.0,nb,<class>,hav
+769,elementary_segment_SM.0,nb,__class__,hav
 770,elementary_segment_SM.0,nb,__description__,i ­di­rek­te ­sam­men­heng ­med ver­dens­ha­ve­ne
-771,elementary_segment_SM.a,en,<class>,fjord
+771,elementary_segment_SM.a,en,__class__,fjord
 772,elementary_segment_SM.a,en,__description__,"long and narrow sea indentation that is over-deepened within a marked threshold near the estuary, and with limited replacement of the bottom water"
 773,elementary_segment_SM.a,en,Criterium,marked threshold
-774,elementary_segment_SM.a,nb,<class>,fjord
+774,elementary_segment_SM.a,nb,__class__,fjord
 775,elementary_segment_SM.a,nb,__description__,"lang og s­mal ha­vinn­buk­ting som er ­over­for­dy­pet in­nen­for en ­mar­ker­t ­ters­kel ­næ­r ­mun­nin­gen, og ­med ­be­gren­set ­ut­skif­ting av ­bunn­van­net"
 776,elementary_segment_SM.a,nb,Kri­te­ri­um,mar­ker­t ­ters­kel
-777,elementary_segment_SM.b,en,<class>,large and deep water body
+777,elementary_segment_SM.b,en,__class__,large and deep water body
 778,elementary_segment_SM.b,en,__description__,"very small environmental variability [large, deep water body; either a lake or a pollen, ie a body of salt water which is physically delimited from the sea, which is regularly, but not permanently, supplied with sea water, which is separated from the sea by a threshold above the lowest spring level, and which has a permanent outlet to (and inlet) from) the sea]"
 779,elementary_segment_SM.b,en,Criterium,"lake or threshold above the lowest spring level,> 5 km2 and average depth> 15 m"
-780,elementary_segment_SM.b,nb,<class>,stor og ­dyp ­vann­fore­komst
+780,elementary_segment_SM.b,nb,__class__,stor og ­dyp ­vann­fore­komst
 781,elementary_segment_SM.b,nb,__description__,"svær­t ­li­ten ­miljø­va­ria­bi­li­tet [stor, ­dyp ­vann­fore­komst; en­ten en inn­sjø el­ler en ­pol­l, ­det vil ­si en salt­vann­fore­komst som er ­fy­sisk ­av­gren­set ­fra ha­vet, som re­gel­mes­sig, ­men ik­ke ­per­ma­nen­t, ­til­fø­re­s hav­vann, som er ­skil­t ­fra ha­vet av en ­ters­kel o­ven­for laves­te ­fjæ­re­nivå, og som har ­per­ma­nen­t ut­løp ­til (og inn­løp ­fra) ha­vet]"
 782,elementary_segment_SM.b,nb,Kri­te­ri­um,"inn­sjø el­ler ­ters­kel o­ven­for laves­te ­fjæ­re­nivå, >5 k­m2 og ­mid­del­dyb­de­ > 15 m"
-783,elementary_segment_SM.c,en,<class>,large or deep body of water
+783,elementary_segment_SM.c,en,__class__,large or deep body of water
 784,elementary_segment_SM.c,en,__description__,"small environmental variability [layered, relatively deep, small – medium-sized water body]"
 785,elementary_segment_SM.c,en,Criterium,<5 km2 or mean depth <15 m
-786,elementary_segment_SM.c,nb,<class>,stor el­ler ­dyp ­vann­fore­komst
+786,elementary_segment_SM.c,nb,__class__,stor el­ler ­dyp ­vann­fore­komst
 787,elementary_segment_SM.c,nb,__description__,"li­ten ­miljø­va­ria­bi­li­tet [­sjik­tet, re­la­tiv­t ­dyp, ­li­ten–­mid­del­s stor ­vann­fore­komst]"
 788,elementary_segment_SM.c,nb,Kri­te­ri­um,< 5 k­m2 el­ler ­mid­del­dyb­de­ < 15 m
-789,elementary_segment_SM.d,en,<class>,small and rather deep water body
+789,elementary_segment_SM.d,en,__class__,small and rather deep water body
 790,elementary_segment_SM.d,en,__description__,"moderate environmental variability [unlayered, relatively deep, small to medium-sized body of water; so deep that rooted aquatic plants can not grow all over the bottom]"
 791,elementary_segment_SM.d,en,Criterium,<5 km2 and maximum depth> 5 m
-792,elementary_segment_SM.d,nb,<class>,li­ten og tem­me­lig ­dyp ­vann­fore­komst
+792,elementary_segment_SM.d,nb,__class__,li­ten og tem­me­lig ­dyp ­vann­fore­komst
 793,elementary_segment_SM.d,nb,__description__,"mo­de­rat ­miljø­va­ria­bi­li­tet [usjik­tet, re­la­tiv­t ­dyp, ­li­ten–­mid­del­s stor ­vann­fore­komst; så ­dyp at rot­fas­te ­vann­plan­ter ik­ke kan ­voks­e over he­le ­bun­nen]"
 794,elementary_segment_SM.d,nb,Kri­te­ri­um,< 5 k­m2 og ­største ­dyb­de­ > 5 m
-795,elementary_segment_SM.ef,en,<class>,small and shallow water body
+795,elementary_segment_SM.ef,en,__class__,small and shallow water body
 796,elementary_segment_SM.ef,en,__description__,"significant environmental variability [unlayered, shallow water body; so reason that aquatic plants can grow all over the bottom;]"
 797,elementary_segment_SM.ef,en,Criterium,<5 km2 and maximum depth <(3–) 5 m
-798,elementary_segment_SM.ef,nb,<class>,li­ten og ­grunn ­vann­fore­komst
+798,elementary_segment_SM.ef,nb,__class__,li­ten og ­grunn ­vann­fore­komst
 799,elementary_segment_SM.ef,nb,__description__,"be­ty­de­lig ­miljø­va­ria­bi­li­tet [usjik­tet, ­grunn ­vann­fore­komst; så ­grunn at ­vann­plan­ter kan ­voks­e over he­le ­bun­nen;]"
 800,elementary_segment_SM.ef,nb,Kri­te­ri­um,< 5 k­m2 og ­største ­dyb­de­ < (3–)5 m
-801,elementary_segment_SM.g,en,<class>,pond
+801,elementary_segment_SM.g,en,__class__,pond
 802,elementary_segment_SM.g,en,__description__,"great environmental variability [pond; layered, shallow, small body of water; so reason that aquatic plants can grow all over the bottom]"
 803,elementary_segment_SM.g,en,Criterium,<2 500 m2 and maximum depth <3 m
-804,elementary_segment_SM.g,nb,<class>,dam
+804,elementary_segment_SM.g,nb,__class__,dam
 805,elementary_segment_SM.g,nb,__description__,"stor ­miljø­va­ria­bi­li­tet [­dam; usjik­tet, ­grunn, ­li­ten ­vann­fore­komst; så ­grunn at ­vann­plan­ter kan ­voks­e over he­le ­bun­nen]"
 806,elementary_segment_SM.g,nb,Kri­te­ri­um,< 2 500 m2 og ­største ­dyb­de­ < 3 m
-807,elementary_segment_SM.h,en,<class>,slop
+807,elementary_segment_SM.h,en,__class__,slop
 808,elementary_segment_SM.h,en,__description__,"very high environmental variability [puddle; ground, small body of water that does not dry out or freeze to the bottom]"
 809,elementary_segment_SM.h,en,Criterium,<100 m2 and maximum depth <2 m
-810,elementary_segment_SM.h,nb,<class>,pytt
+810,elementary_segment_SM.h,nb,__class__,pytt
 811,elementary_segment_SM.h,nb,__description__,"svær­t stor ­miljø­va­ria­bi­li­tet [pytt; ­grunn, ­li­ten ­vann­fore­komst som ik­ke ­tør­ker ut el­ler ­bunn­fry­ser]"
 812,elementary_segment_SM.h,nb,Kri­te­ri­um,< 100 m2 og ­største ­dyb­de­ < 2 m
-813,elementary_segment_SM.i,en,<class>,small puddle
+813,elementary_segment_SM.i,en,__class__,small puddle
 814,elementary_segment_SM.i,en,__description__,"extreme environmental variability [small puddle; small and very shallow water body, but which still never dries out and / or freezes to the bottom"
 815,elementary_segment_SM.i,en,Criterium,<10 m2 and maximum depth <1 m
-816,elementary_segment_SM.i,nb,<class>,li­ten pytt
+816,elementary_segment_SM.i,nb,__class__,li­ten pytt
 817,elementary_segment_SM.i,nb,__description__,"eks­trem ­miljø­va­ria­bi­li­tet [­li­ten pytt; ­li­ten og s­vær­t ­grunn ­vann­fore­komst, ­men som ­li­ke­vel ald­ri ­tør­ker ut og/el­ler ­bunn­fry­ser"
 818,elementary_segment_SM.i,nb,Kri­te­ri­um,< 10 m2 og ­største ­dyb­de­ < 1 m
-819,elementary_segment_SM.¤,en,<class>,temporary puddle
+819,elementary_segment_SM.¤,en,__class__,temporary puddle
 820,elementary_segment_SM.¤,en,__description__,"extreme environmental variability [small puddle; small and very shallow water body that dries out in periods (note that to be categorized as a water body, the bottom must be water covered at least 50% of the time) and / or bottom freezer; usually <10 m2 and maximum depth <1 m]"
-821,elementary_segment_SM.¤,nb,<class>,tem­po­rær pytteks­trem ­miljø­va­ria­bi­li­tet [­li­ten pytt; ­li­ten og s­vær­t ­grunn ­vann­fore­komst som ­tør­ker ut i ­pe­rio­der (­mer­k at ­for å ­ka­te­go­ri­se­res som ­vann­fore­komst ­må ­bun­nen ­væ­re ­vann­dek­ket ­minst 50 % av ­tida) og/el­ler ­bunn­fry­ser; van­lig­vis < 10 m2 og ­største ­dyb­de­ < 1 m]
+821,elementary_segment_SM.¤,nb,__class__,tem­po­rær pytteks­trem ­miljø­va­ria­bi­li­tet [­li­ten pytt; ­li­ten og s­vær­t ­grunn ­vann­fore­komst som ­tør­ker ut i ­pe­rio­der (­mer­k at ­for å ­ka­te­go­ri­se­res som ­vann­fore­komst ­må ­bun­nen ­væ­re ­vann­dek­ket ­minst 50 % av ­tida) og/el­ler ­bunn­fry­ser; van­lig­vis < 10 m2 og ­største ­dyb­de­ < 1 m]
 822,elementary_segment_SM.¤,nb,__description__,de­sc_nb
-823,elementary_segment_SP.0,en,<class>,grazing
+823,elementary_segment_SP.0,en,__class__,grazing
 824,elementary_segment_SP.0,en,__description__,characterized by grazing as the dominant form of claim
-825,elementary_segment_SP.0,nb,<class>,beite­pre­get
+825,elementary_segment_SP.0,nb,__class__,beite­pre­get
 826,elementary_segment_SP.0,nb,__description__,pre­get av ­bei­te som ­do­mi­ne­ren­de hevd­form
-827,elementary_segment_SP.a,en,<class>,mowing
+827,elementary_segment_SP.a,en,__class__,mowing
 828,elementary_segment_SP.a,en,__description__,characterized by beaten as the dominant form of assertion
-829,elementary_segment_SP.a,nb,<class>,slåtte­pre­get
+829,elementary_segment_SP.a,nb,__class__,slåtte­pre­get
 830,elementary_segment_SP.a,nb,__description__,pre­get av ­slåt­t som ­do­mi­ne­ren­de hevd­form
-831,elementary_segment_SS.+,en,<class>,normal solid-ground woodland
+831,elementary_segment_SS.+,en,__class__,normal solid-ground woodland
 832,elementary_segment_SS.+,en,__description__,solid woodland with such a thick and stable humus layer that sand-dominated loose material cover does not have a visible effect in the species composition
-833,elementary_segment_SS.+,nb,<class>,nor­mal ­fast­marks-­skogs­mark
+833,elementary_segment_SS.+,nb,__class__,nor­mal ­fast­marks-­skogs­mark
 834,elementary_segment_SS.+,nb,__description__,fast­marks­skogs­mar­k ­med så tjuk­t og sta­bil­t hu­mus­lag at sand­do­mi­ner­t ­løs­masse­dek­ke ik­ke ­gir ­seg ­syn­lig ­ut­slag i arts­sam­men­set­nin­gen
-835,elementary_segment_SS.0,en,<class>,sand-dominated spring belt bottom
+835,elementary_segment_SS.0,en,__class__,sand-dominated spring belt bottom
 836,elementary_segment_SS.0,en,__description__,non-stabilized sandy bottom in the water beach belt (hydrolitoral belt)
-837,elementary_segment_SS.0,nb,<class>,sand­do­mi­ner­t ­fjære­belte­bunn
+837,elementary_segment_SS.0,nb,__class__,sand­do­mi­ner­t ­fjære­belte­bunn
 838,elementary_segment_SS.0,nb,__description__,ikke­-sta­bi­li­ser­t sand­bunn i ­vann­strand­bel­tet (hydro­li­to­ral-­bel­tet)
-839,elementary_segment_SS.a,en,<class>,sandy beach
+839,elementary_segment_SS.a,en,__class__,sandy beach
 840,elementary_segment_SS.a,en,__description__,"non-stabilized sandy soil in the land beach belt (geolitoral belt); vegetation-free or with few species communities dominated by melde species (Atriplex spp.), beach radish (Cakile maritima) or beach heritage (Honckenya peploides)"
-841,elementary_segment_SS.a,nb,<class>,sand­for­strand
+841,elementary_segment_SS.a,nb,__class__,sand­for­strand
 842,elementary_segment_SS.a,nb,__description__,"ikke­-sta­bi­li­ser­t sand­mar­k i land­strand­bel­tet (­ge­oli­to­ral­bel­tet); ve­ge­ta­sjons­fritt el­ler ­med få-arts­sam­funn ­do­mi­ner­t av ­mel­de-ar­ter (Atrip­lex­ spp.), ­strand­red­dik (­Ca­ki­le ­ma­ri­ti­ma) el­ler ­stran­dar­ve (Honck­e­nya pe­ploi­de­s)"
-843,elementary_segment_SS.b,en,<class>,pre-dune
+843,elementary_segment_SS.b,en,__class__,pre-dune
 844,elementary_segment_SS.b,en,__description__,"non-stabilized sandfield in the supralitoral belt, with strong sand movement and precursors to dune formation; vegetation-free or with few species communities dominated by shore herb (Honckenya peploides), shore rye (Leymus arenarius) or shore quail (Elytrigia juncea); = embryonaldyne"
-845,elementary_segment_SS.b,nb,<class>,for­dyne
+845,elementary_segment_SS.b,nb,__class__,for­dyne
 846,elementary_segment_SS.b,nb,__description__,"ikke­-sta­bi­li­ser­t sand­mar­k i ­su­pra­li­to­ral­bel­tet, ­med s­ter­k sand­be­ve­gel­se og ­for­sta­di­er ­til ­dyne­dan­nel­se; ve­ge­ta­sjons­fritt el­ler ­med få-arts­sam­funn ­do­mi­ner­t av ­stran­dar­ve (Honck­e­nya pe­ploi­de­s), ­strand­rug (­Ley­mus ­are­na­ri­us) el­ler ­strand­kve­ke (E­ly­t­ri­g­ia jun­cea); = em­bryo­nal­dyne"
-847,elementary_segment_SS.c,en,<class>,primary dune
+847,elementary_segment_SS.c,en,__class__,primary dune
 848,elementary_segment_SS.c,en,__description__,"non-stabilized sand field in the epilitoral belt, with strong sand movement and strong dune formation, but the dunes are unstable and move; the outermost high dunes are primary dunes; bogs and lichen are missing, the sand dries out quickly and no humus formation takes place; typically with few species communities dominated by sand-binding grasses such as mare straw (Ammophila arenaria) and beach rye (Leymus arenarius)"
-849,elementary_segment_SS.c,nb,<class>,pri­mær­dyne
+849,elementary_segment_SS.c,nb,__class__,pri­mær­dyne
 850,elementary_segment_SS.c,nb,__description__,"ikke­-sta­bi­li­ser­t sand­mar­k i e­pi­li­to­ral­bel­tet, ­med s­ter­k sand­be­ve­gel­se og s­ter­k sand­dyne­dan­nel­se, ­men ­dy­ne­ne er usta­bi­le og ­flyt­ter ­seg; ­de yt­ter­ste høy­e sand­dy­ne­ne er pri­mær­dy­ner; ­mo­ser og lav ­mang­ler, san­da ­tør­ker rask­t ut og in­gen hu­mus­dan­nel­se ­fin­ner sted; ­ty­pisk ­med få-arts­sam­funn ­do­mi­ner­t av sand­bin­den­de ­gras som ­mare­hal­m (Ammop­hi­la ­are­na­ria) og ­strand­rug (­Ley­mus ­are­na­ri­us)"
-851,elementary_segment_SS.d,en,<class>,white dune
+851,elementary_segment_SS.d,en,__class__,white dune
 852,elementary_segment_SS.d,en,__description__,"incipient stabilization of the sand, but bare, non-stabilized sand dominates; fields colonized to a greater or lesser extent by large grass species that can withstand sanding and drought; bogs and lichen are missing; unstable dune"
-853,elementary_segment_SS.d,nb,<class>,kvit ­dyne
+853,elementary_segment_SS.d,nb,__class__,kvit ­dyne
 854,elementary_segment_SS.d,nb,__description__,"be­gyn­nen­de sta­bi­li­se­ring av san­da, ­men na­ken, ik­ke-sta­bi­li­ser­t sand ­do­mi­ne­rer; ­mar­ka i ­stør­re el­ler ­mindre ­grad ko­lo­ni­ser­t av stor­voks­te ­gras­ar­ter som tå­ler over­san­ding og ­tør­ke; ­mo­ser og lav ­mang­ler; = usta­bil ­dyne"
-855,elementary_segment_SS.ef,en,<class>,gray dune
+855,elementary_segment_SS.ef,en,__class__,gray dune
 856,elementary_segment_SS.ef,en,__description__,"sand more or less stabilized, dominance of low-growing grasses and herbs; spotted overgrown with mosses and lichens; stabilized dune"
-857,elementary_segment_SS.ef,nb,<class>,grå ­dyne
+857,elementary_segment_SS.ef,nb,__class__,grå ­dyne
 858,elementary_segment_SS.ef,nb,__description__,"sand­ ­mer el­ler ­mindre sta­bi­li­ser­t, ­do­mi­nans av lav­voks­te ­gras­ar­ter og ur­ter; flekk­vis ­be­voks­t ­med ­mo­ser og lav; = sta­bi­li­ser­t ­dyne"
-859,elementary_segment_SS.gh,en,<class>,brown dune
+859,elementary_segment_SS.gh,en,__class__,brown dune
 860,elementary_segment_SS.gh,en,__description__,"stabilized sand, incipient soil formation; closed, meadow-like vegetation that may have closed bottom layer dominated by mosses and lichens; = established dune"
-861,elementary_segment_SS.gh,nb,<class>,brun ­dyne
+861,elementary_segment_SS.gh,nb,__class__,brun ­dyne
 862,elementary_segment_SS.gh,nb,__description__,"sta­bi­li­ser­t sand, ­be­gyn­nen­de jords­monn­dan­nel­se; ­slut­tet, eng­pre­get ve­ge­ta­sjon som kan ha ­slut­tet ­bunn­sjik­t ­do­mi­ner­t av ­mo­ser og lav; = e­tab­ler­t ­dyne"
-863,elementary_segment_SS.i,en,<class>,dune moor
+863,elementary_segment_SS.i,en,__class__,dune moor
 864,elementary_segment_SS.i,en,__description__,"stabilized moor, often with well-developed humus layer, dominated by heather species such as cress (Empetrum nigrum) and heather (Calluna vulgaris)."
-865,elementary_segment_SS.i,nb,<class>,dyne­hei
+865,elementary_segment_SS.i,nb,__class__,dyne­hei
 866,elementary_segment_SS.i,nb,__description__,"sta­bi­li­ser­t hei, of­te ­med vel­ut­vik­let hu­mus­lag, ­do­mi­ner­t av lyng­ar­ter som krek­ling (Empet­rum ­ni­grum) og røss­lyng (­Call­u­na vul­ga­ris)."
-867,elementary_segment_SS.j,en,<class>,dune woodland
+867,elementary_segment_SS.j,en,__class__,dune woodland
 868,elementary_segment_SS.j,en,__description__,"forest land above and within open dune land, with patches of bare sand and a species composition that still contains species typical of dune land"
-869,elementary_segment_SS.j,nb,<class>,dyne­skogs­mark
+869,elementary_segment_SS.j,nb,__class__,dyne­skogs­mark
 870,elementary_segment_SS.j,nb,__description__,"skogs­mar­k o­ven­for og in­nen­for å­pen sand­dyne­mar­k, ­med flek­ker av na­ken sand og en arts­sam­men­set­ning som ­fort­satt inne­hol­der ar­ter ­ty­pisk ­for sand­dyne­mar­ka"
-871,elementary_segment_SS.k,en,<class>,sandy woodland
+871,elementary_segment_SS.k,en,__class__,sandy woodland
 872,elementary_segment_SS.k,en,__description__,"woodland on sandy soils, without or with patches of bare sand, and a species composition that is observably different from the species composition in comparable solid woodland on unsorted substrates"
-873,elementary_segment_SS.k,nb,<class>,sand­skogs­mark
+873,elementary_segment_SS.k,nb,__class__,sand­skogs­mark
 874,elementary_segment_SS.k,nb,__description__,"skogs­mar­k på sand­grunn, u­ten el­ler ­med flek­ker av na­ken sand, og en arts­sam­men­set­ning som er ­ob­ser­ver­bar­t ­for­skjel­lig ­fra arts­sam­men­set­nin­gen i ­sam­men­likn­bar ­fast­marks­skogs­mar­k på u­sor­ter­te ­sub­stra­ter"
-875,elementary_segment_UF.a,en,<class>,fresh
+875,elementary_segment_UF.a,en,__class__,fresh
 876,elementary_segment_UF.a,nb,__description__,frisk
-877,elementary_segment_UF.b,en,<class>,pretty fresh
+877,elementary_segment_UF.b,en,__class__,pretty fresh
 878,elementary_segment_UF.b,nb,__description__,tem­me­lig frisk
-879,elementary_segment_UF.c,en,<class>,a little fresh
+879,elementary_segment_UF.c,en,__class__,a little fresh
 880,elementary_segment_UF.c,nb,__description__,litt frisk
-881,elementary_segment_UF.d,en,<class>,intermediate
+881,elementary_segment_UF.d,en,__class__,intermediate
 882,elementary_segment_UF.d,nb,__description__,in­ter­me­diær
-883,elementary_segment_UF.e,en,<class>,slightly exposed to drought
+883,elementary_segment_UF.e,en,__class__,slightly exposed to drought
 884,elementary_segment_UF.e,nb,__description__,litt ­tørke­ut­satt
-885,elementary_segment_UF.f,en,<class>,fairly prone to drought
+885,elementary_segment_UF.f,en,__class__,fairly prone to drought
 886,elementary_segment_UF.f,nb,__description__,tem­me­lig ­tørke­ut­satt
-887,elementary_segment_UF.g,en,<class>,very prone to drought
+887,elementary_segment_UF.g,en,__class__,very prone to drought
 888,elementary_segment_UF.g,nb,__description__,svær­t ­tørke­ut­satt
-889,elementary_segment_UF.h,en,<class>,extremely prone to drought
+889,elementary_segment_UF.h,en,__class__,extremely prone to drought
 890,elementary_segment_UF.h,nb,__description__,eks­trem­t ­tørke­ut­satt
 891,lec_AS,en,__description__,"Variation from 'normal' ground with predominantly downward water flow and maximal pH (in mineral soil rich in lime) ca. 8.0, to ground with predominantly upward water flow and salt precipitated as a white soil topsoil crust and pH up to 10.5; salt-enriched soils are typical for deserts and steppes but also occur locally in Arctic climates (e.g., at Svalbard) in sites characterised by a combination of extreme rain-shadow effect and dry winds"
 892,lec_AS,en,__name__,Arid terrestrial salinity
