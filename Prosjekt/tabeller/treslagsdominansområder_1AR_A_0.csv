@@ -1,0 +1,32 @@
+Klasse,Forklaring
+0,"Skogsmark uten tresjikt (1AG-A-0 ? 3, det vil si arealandel innenfor trærnes kroneperiferi < 10 %)"
+F2,"Bartrær er relative dominanter, ingen med-dominerende treslagsgrupper. Arealandelen innenfor kroneperiferien er større for furu enn for gran"
+G2,"Bartrær er relative dominanter, ingen med-dominerende treslagsgrupper. Arealandelen innenfor kroneperiferien er større for gran enn for furu"
+F2E,"Bartrær er relative dominanter, edellauvtrær er med-dominerende treslagsgruppe. Arealandelen innenfor kroneperiferien er større for furu enn for gran."
+G2E,"Bartrær er relative dominanter, edellauvtrær er med-dominerende treslagsgruppe. Arealandelen innenfor kroneperiferien er større for gran enn for furu."
+F2L,"Bartrær er relative dominanter, boreale lauvtrær er med-dominerende treslagsgruppe. Arealandelen innenfor kroneperiferien er større for furu enn for gran."
+G2L,"Bartrær er relative dominanter, boreale lauvtrær er med-dominerende treslagsgruppe. Arealandelen innenfor kroneperiferien er større for gran enn for furu."
+F2V,"Bartrær er relative dominanter, pil og vier er med-dominerende treslagsgruppe. Arealandelen innenfor kroneperiferien er større for furu enn for gran."
+G2V,"Bartrær er relative dominanter, pil og vier er med-dominerende treslagsgruppe. Arealandelen innenfor kroneperiferien er større for gran enn for furu."
+BE,Bartrær og edellauvtrær er relative samdominanter
+BL,Bartrær og boreale lauvtrær er relative samdominanter
+BV,Bartrær og pil og vier er relative samdominanter
+B,Bartrær er eneste treslagsgruppe som tilfredsstiller definisjonen av relativ samdominant
+E2,"Edellauvtrær er relative dominanter, ingen med-dominerende treslagsgrupper"
+E2B,"Edellauvtrær er relative dominanter, bartrær er med-dominerende treslagsgruppe"
+E2L,"Edellauvtrær er relative dominanter, boreale lauvtrær er med-dominerende treslagsgruppe"
+E2V,"Edellauvtrær er relative dominanter, pil og vier er med-dominerende treslagsgruppe"
+EL,Edellauvtrær og boreale lauvtrær er relative samdominanter
+EV,Edellauvtrær og pil og vier er relative samdominanter
+E,Edellauvtrær er eneste treslagsgruppe som tilfredsstiller definisjonen av relativ samdominant
+L2,"Boreale lauvtrær er relative dominanter, ingen med-dominerende treslagsgrupper"
+L2B,"Boreale lauvtrær er relative dominanter, bartrær er med-dominerende treslagsgruppe"
+L2E,"Boreale lauvtrær er relative dominanter, edellauvtrær er med-dominerende treslagsgruppe"
+L2V,"Boreale lauvtrær er relative dominanter, pil og vier er med-dominerende treslagsgruppe"
+LV,Boreale lauvtrær og pil og vier er relative samdominanter
+L,Boreale lauvtrær er eneste treslagsgruppe som tilfredsstiller definisjonen av relativ samdominant
+V2,"Pil og vier er relative dominanter, ingen med-dominerende treslagsgrupper"
+V2B,"Pil og vier er relative dominanter, bartrær er med-dominerende treslagsgruppe"
+V2E,"Pil og vier er relative dominanter, edellauvtrær er med-dominerende treslagsgruppe"
+V2L,"Pil og vier er relative dominanter, boreale lauvtrær er med-dominerende treslagsgruppe"
+V,Pil og vier er eneste treslagsgruppe som tilfredsstiller definisjonen av relativ samdominant

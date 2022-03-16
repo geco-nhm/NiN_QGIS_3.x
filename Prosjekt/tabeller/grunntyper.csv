@@ -1,14 +1,17 @@
 htgrk;htypek;gtypek;grunntype
 L;L;L;L Ferskvannsbunnsystemer
+L;L4;L4-C-1;L4-C-01 Helofytt-ferskvannssump - KA 1 (KA ab < 2 mg Ca/L)
+L;L4;L4-C-2;L4-C-02 Helofytt-ferskvannssump - KA 1 (KA cde 2 - 10 mg Ca/L)
+L;L4;L4-C-3;L4-C-03 Helofytt-ferskvannssump - KA 1 (KA fghi > 10 mg Ca/L)
 T;T1;;
 T;T1;T1-C-1;T1-C-01 lite tørkeutsatte svært og temmelig kalkfattige nakne berg
-T;T1;T1-C-2;T1-C-02 tørkeutsatte svært og temmelig kalkfattige berg; bergvegger og knauser
+T;T1;T1-C-2;T1-C-02 tørkeutsatte svært og temmelig kalkfattige bergbergvegger og knauser
 T;T1;T1-C-3;T1-C-03 lite tørkeutsatte litt kalkfattige og svakt intermediære nakne berg
-T;T1;T1-C-4;T1-C-04 tørkeutsatte litt kalkfattige og svakt intermediære berg; bergvegger og knauser
+T;T1;T1-C-4;T1-C-04 tørkeutsatte litt kalkfattige og svakt intermediære bergbergvegger og knauser
 T;T1;T1-C-5;T1-C-05 lite tørkeutsatte sterkt intermediære og litt kalkrike nakne berg 
-T;T1;T1-C-6;T1-C-06 tørkeutsatte sterkt intermediære og litt kalkrike berg; bergvegger og knauser
+T;T1;T1-C-6;T1-C-06 tørkeutsatte sterkt intermediære og litt kalkrike bergbergvegger og knauser
 T;T1;T1-C-7;T1-C-07 lite tørkeutsatte temmelig til ekstremt kalkrike nakne berg 
-T;T1;T1-C-8;T1-C-08 tørkeutsatte temmelig til ekstremt kalkrike berg; bergvegger og knauser
+T;T1;T1-C-8;T1-C-08 tørkeutsatte temmelig til ekstremt kalkrike bergbergvegger og knauser
 T;T1;T1-C-9;T1-C-09 svakt intermediært og kalkfattig forblåst berg
 T;T1;T1-C-10;T1-C-10 sterkt intermediært til ekstremt kalkrikt forblåst berg
 T;T1;T1-C-11;T1-C-11 svakt intermediært og kalkfattig snøleieberg
@@ -134,7 +137,7 @@ T;T17;T17-C-1;T17-C-1 jordskred
 T;T17;T17-C-2;T17-C-2 grus- og sandskred
 T;T17;T17-C-3;T17-C-3 silt- og leirskred
 T;T18;;
-T;T18;T18-C-1;T18-C-1 åpne flomfastmarker på sand; grus og stein
+T;T18;T18-C-1;T18-C-1 åpne flomfastmarker på sand grus og stein
 T;T18;T18-C-2;T18-C-2 åpen flomfastmark på silt og leire
 T;T18;T18-C-3;T18-C-3 åpen flomfastmark på kalkrik grus og stein
 T;T18;T18-C-4;T18-C-4 åpen flomfastmark på sand med klart erosjonspreg
@@ -167,7 +170,7 @@ T;T26;;
 T;T26;T26-C-1;T26-C-1 fjellhei-initialer
 T;T26;T26-C-2;T26-C-2 snøleie-initialer
 T;T26;T26-C-3;T26-C-3 grus- og steindominert breforland i pionerfasen
-T;T26;T26-C-4;T26-C-4 breforland og snøavsmeltingsområder i pionérfase; dominert av fin grus; sand; silt til leire
+T;T26;T26-C-4;T26-C-4 breforland og snøavsmeltingsområder i pionérfase dominert av fin grus sand silt til leire
 T;T27;;
 T;T27;T27-C-1;T27-C-1 kalkfattig og intermediær blokkmark
 T;T27;T27-C-2;T27-C-2 kalkfattig og intermediær snøleie-blokkmark
@@ -247,7 +250,7 @@ T;T36;T36-C-2;T36-C-2 tørrlagt elvebunn
 T;T36;T36-C-3;T36-C-3 tørrlagt innsjøbunn
 T;T37;;
 T;T37;T37-C-1;T37-C-1 slagghauger og deponier for fast kjemisk avfall
-T;T37;T37-C-2;T37-C-2 asfalt; løs betong o.l.
+"T;T37;T37-C-2;T37-C-2 asfalt, løs betong o.l."
 T;T37;T37-C-3;T37-C-3 avfallsdeponi o.l.
 T;T38;;
 T;T38;T38-C-1;T38-C-1 treplantasje
@@ -255,7 +258,7 @@ T;T39;;
 T;T39;T39-C-1;T39-C-1 blokkdeponier
 T;T39;T39-C-2;T39-C-2 blottlagt fast fjell
 T;T39;T39-C-3;T39-C-3 fast fjell blottlagt ved tørrlegging eller nedtapping
-T;T39;T39-C-4;T39-C-4 sterkt modifiserte eller syntetiske; overveiende uorganisk faste substrater
+T;T39;T39-C-4;T39-C-4 sterkt modifiserte eller syntetiske overveiende uorganisk faste substrater
 T;T40;;
 T;T40;T40-C-1;T40-C-1 eng-liknende sterkt endret fastmark
 T;T41;;
@@ -263,7 +266,7 @@ T;T41;T41-C-1;T41-C-1 eng-liknende oppdyrket mark
 T;T42;;
 T;T42;T42-C-1;T42-C-1 blomsterbed og liknende
 T;T43;;
-T;T43;T43-C-1;T43-C-1 plener; parker og liknende
+"T;T43;T43-C-1;T43-C-1 plener, parker og liknende"
 T;T44;;
 T;T44;T44-C-1;T44-C-1 åker
 T;T45;;
