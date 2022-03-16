@@ -12,7 +12,7 @@ Systemet er tilpasset kartlegging i skala 1:5 000 og 1:20 000
 * raster: aktuelle flybilder  over Finse
 * tabeller: aktuelle hovedtypegrupper, hovedtyper, grunntyper i hver sin csv-fil
 * vektor: shapefiler med bakgrunnsinfor-masjon (jernbane, bygninger, veier og vann) og shapefila du skal digitalisere polygoner i (Finse_NiN_5000)
-#### 2.	Prosjekt: prosjektfila proj_NiN_5000.qgs og underkatalogene:
+#### 2.	Prosjekt: prosjektfila Prosjekt_NiN.qgs og underkatalogene:
 *	raster: her legges bilder over aktuelt område
 *	tabeller: aktuelle hovedtypegrupper, hovedtyper, grunntyper i hver sin csv-fil
 *	shp_nin: shapefilene du skal digitalisere polygoner i (NN_5000, NN_20000)
