@@ -4,6 +4,8 @@ Presset på norsk natur fra ulike samfunns-sektorer, privat som offentlig, er st
 
 Rapporten viser QGIS-oppsettet (i.e. et tilpasset registreringsskjema) og gir veiledning i bruken slik at hvem som helst fritt kan benytte dette i sin undervisning. Oppsettet fokuseres på terrestrisk kartlegging og omfatter ikke alle hovedtyper og grunntyper fra NiN, men heller et utvalg av naturtyper samt med noen viktige variablene fra beskrivelsessystem. Oppsettet kan også benyttes av private aktører eller offentlige institusjoner for intern opplæring. Registreringsskjemaet kan også tilpasses til kartlegging for andre formål, f.eks. til forskningsformål eller arealundersøkelser. 
 
+Systemet er tilpasset kartlegging i skala 1:5 000 og 1:20 000
+
 ### NiN_QGIS hovedstruktur inneholder to mapper:
  
 #### 1.	Finse: prosjektfila Finse_NiN_5000.qgs og underkatalogene
@@ -13,4 +15,4 @@ Rapporten viser QGIS-oppsettet (i.e. et tilpasset registreringsskjema) og gir ve
 #### 2.	Prosjekt: prosjektfila proj_NiN_5000.qgs og underkatalogene:
 *	raster: her legges bilder over aktuelt område
 *	tabeller: aktuelle hovedtypegrupper, hovedtyper, grunntyper i hver sin csv-fil
-*	vektor: shapefila du skal digitalisere polygoner i (NiN_5000)
+*	shp_nin: shapefilene du skal digitalisere polygoner i (NN_5000, NN_20000)
