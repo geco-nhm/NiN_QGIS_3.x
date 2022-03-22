@@ -1,0 +1,49 @@
+htgrk,htypek,gtypek,grunntype
+L,L-1,L1-C-1,kalk­fat­tig ­fast og s­vær­t klar inn­sjø- og ro­lig elve­bunn
+L,L-1,L1-C-2,in­ter­me­diær ­til ­litt kalk­rik ­fast og s­vær­t klar inn­sjø- og ro­lig elve­bunn
+L,L-1,L1-C-3,kalk­rik ­fast og s­vær­t klar inn­sjø- og ro­lig elve­bunn
+L,L-1,L1-C-4,kalk­fat­tig ­fast elve­bunn ­med s­ter­k ­strøm
+L,L-1,L1-C-5,in­ter­me­diær ­til ­litt kalk­rik ­fast elve­bunn ­med s­ter­k ­strøm
+L,L-1,L1-C-6,kalk­rik ­fast elve­bunn ­med s­ter­k ­strøm
+L,L-1,L1-C-7,klar ­til hu­møs kalk­fat­tig ­fast inn­sjø- og ro­lig elve­bunn
+L,L-2,L2-C-1,svær­t kalk­fat­tig sand og ­grus­bunn
+L,L-2,L2-C-10,litt kalk­fat­tig ­til in­ter­me­diær stein­bunn
+L,L-2,L2-C-11,litt kalk­fat­tig ­til in­ter­me­diær ­or­ga­nisk ­løs­bunn
+L,L-2,L2-C-12,litt kalk­fat­tig ­til in­ter­me­diær ­myr­torv­bunn
+L,L-2,L2-C-13,kalk­rik sand- og ­grus­bunn
+L,L-2,L2-C-14,kalk­rik ­løs­bunn
+L,L-2,L2-C-15,kalk­rik ­leir­bunn
+L,L-2,L2-C-16,kalk­rik stein­bunn
+L,L-2,L2-C-17,dis­rup­tiv ­se­di­men­ta­sjons­bunn
+L,L-2,L2-C-18,kalk­rik ­or­ga­nisk ­løs­bunn
+L,L-2,L2-C-19,kalk­rik ­myr­torv­bunn
+L,L-2,L2-C-2,svær­t kalk­fat­tig ­løs­bunn
+L,L-2,L2-C-3,svær­t kalk­fat­tig stein­bunn
+L,L-2,L2-C-4,svær­t kalk­fat­tig ­or­ga­nisk ­løs­bunn
+L,L-2,L2-C-5,svær­t kalk­fat­tig ­myr­torv­bunn
+L,L-2,L2-C-6,høl­je­gjøl­bunn
+L,L-2,L2-C-7,litt kalk­fat­tig ­til in­ter­me­diær sand- og ­grus­bunn
+L,L-2,L2-C-8,litt kalk­fat­tig ­til in­ter­me­diær ­løs­bunn
+L,L-2,L2-C-9,litt kalk­fat­tig ­til in­ter­me­diær kalk­fat­tig ­leir­bunn
+L,L-3,L3-C-1,kalk­fat­tig og in­ter­me­diær ­dyp ­se­di­ment­bunn
+L,L-3,L3-C-2,kalk­rik ­dyp ­se­di­ment­bunn
+L,L-4,L4-C-1,kalk­fat­tig he­l­o­fytt­sump
+L,L-4,L4-C-2,litt kalk­fat­tig ­til in­ter­me­diær he­l­o­fytt­sump
+L,L-4,L4-C-3,kalk­rik he­l­o­fytt­sump
+L,L-5,L5-C-1,litt kalk­fat­tig og in­ter­me­diær ­grunn­kil­de
+L,L-5,L5-C-2,litt kalk­fat­tig og in­ter­me­diær torv­mark­s­kil­de
+L,L-5,L5-C-3,litt kalk­fat­tig og in­ter­me­diær inn­sjø- og elve­kil­de
+L,L-5,L5-C-4,kalk­rik ­grunn­kil­de
+L,L-6,L6-C-1,pe­rio­disk an­ok­sisk inn­sjø­bunn
+L,L-6,L6-C-2,an­ok­sisk inn­sjø­bunn
+L,L-7,L7-C-1,sterk­t re­gu­ler­t el­ler ­ny ­fast inn­sjø­bunn
+L,L-7,L7-C-2,sterk­t re­gu­ler­t el­ler ­ny ­fast elve­bunn
+L,L-7,L7-C-3,ned­dem­t na­ken­t ­berg
+L,L-8,L8-C-1,inn­sjø­bunn som er sterk­t ­endret ved­ ­de­po­ne­ring el­ler ut­tak av ­mas­ser
+L,L-8,L8-C-2,elve­bunn som er sterk­t ­endret ved­ ­de­po­ne­ring el­ler ut­tak av ­mas­ser
+L,L-8,L8-C-3,bunn ­med sterk­t ­av­vi­ken­de kje­misk ­sam­men­set­ning
+L,L-8,L8-C-4,sterk­t ­endret ­grunn­kilde­bunn
+L,L-8,L8-C-5,sterk­t re­gu­ler­t inn­sjø­bunn
+L,L-8,L8-C-6,sterk­t re­gu­ler­t elve­bunn
+L,L-8,L8-C-7,ned­dem­t jord­dek­t ­fast­mar­k og andre ­løs­mas­ser
+L,L-8,L8-C-8,ned­dem­t torv­mark
