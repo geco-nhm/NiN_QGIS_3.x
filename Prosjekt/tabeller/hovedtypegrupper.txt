@@ -1,0 +1,8 @@
+htgrk,hovedtypegruppe
+F,F - Lim­nis­ke ­vann­mas­ser (­vann­masse­sys­te­mer i ­fersk­vann)
+H,H - Ma­ri­ne ­vann­mas­ser (­vann­masse­sys­te­mer i salt­vann)
+I,I - Snø- og is­sys­te­mer
+L,L - Fersk­vanns­bunn­sys­te­mer (­lim­nis­ke ­bunn­sys­te­mer)
+M,M - Salt­vanns­bunn­sys­te­mer (­ma­ri­ne ­bunn­sys­te­mer)
+T,T - Fast­marks­sys­te­mer
+V,V - Våt­marks­sys­te­mer
