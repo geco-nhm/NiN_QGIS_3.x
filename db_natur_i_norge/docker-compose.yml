@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  nin_db_build:
+    build: .
+    image: nin_db_build:latest
+    entrypoint: /bin/bash
+    stdin_open: true
+    tty: true
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./src:/src
