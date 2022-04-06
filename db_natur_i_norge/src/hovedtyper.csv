@@ -1,0 +1,116 @@
+,id,adb_id,name
+0,F1,NA F1,Lagdelte fullsirkulerende (mono- og dimiktiske) vannmasser med fiskesamfunn
+1,F2,NA F2,Ikke-lagdelte (polymiktiske) vannmasser med fiskesamfunn
+2,F3,NA F3,Lagdelte fullsirkulerende (mono- og dimiktiske) naturlig fisketomme vannmasser
+3,F4,NA F4,Ikke-lagdelte (polymiktiske) naturlig fisketomme vannmasser
+4,F5,NA F5,Turbide vannmasser
+5,F6,NA F6,Grottesjø-vannmasser
+6,F7,NA F7,Innsjø-vannmasser preget av oksygenmangel
+7,F8,NA F8,Elvevannmasser
+8,F9,NA F9,Nye innsjø-vannmasser
+9,F10,NA F10,Innsjø-vannmasser preget av kronisk kjemisk påvirkning
+10,F11,NA F11,Innsjø-vannmasser preget av introduksjon eller bortfall av strukturerende organismer
+11,F12,NA F12,Elvevannmasser preget av kronisk kjemisk påvirkning
+12,F13,NA F13,Elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+13,H1,NA H1,Havvannmasser
+14,H2,NA H2,Sirkulerende vannmasser i fysisk avgrensete saltvannsforekomster
+15,H3,NA H3,Ikke-sirkulerende marine vannmasser i fysisk avgrensete saltvannsforekomster
+16,H4,NA H4,Sterkt endrete marine vannmasser
+17,I1,NA I1,Snø- og isdekt fastmark
+18,L1,NA L1,Eufotisk fast innsjøbunn
+19,L2,NA L2,Eufotisk innsjø-sedimentbunn
+20,L3,NA L3,Afotisk (dyp) innsjø-sedimentbunn
+21,L4,NA L4,Helofyttsump
+22,L5,NA L5,Ferskvanns-undervannseng
+23,L6,NA L6,Gjøl-bunn på fast torv
+24,L7,NA L7,Innsjøbunn av dy og gytje
+25,L8,NA L8,Innsjøbunn av grovt organisk materiale
+26,L9,NA L9,Innsjøbunn preget av oksygenmangel
+27,L10,NA L10,Arktisk permafrost-innsjøbunn
+28,L11,NA L11,Ny innsjøbunn
+29,L12,NA L12,Semi-naturlig eutrof innsjøbunn
+30,L13,NA L13,Semi-naturlig vannstrand-eng
+31,L14,NA L14,Ny sterkt endret innsjøbunn
+32,L15,NA L15,Ny innsjøbunn med opphav i elvebunn
+33,L16,NA L16,Innsjøbunn preget av kronisk fysisk forstyrrelse
+34,L17,NA L17,Innsjøbunn preget av kronisk kjemisk påvirkning
+35,M1,NA M1,Eufotisk fast saltvannsbunn
+36,M2,NA M2,Afotisk fast saltvannsbunn
+37,M3,NA M3,Fast fjærebeltebunn
+38,M4,NA M4,Eufotisk marin sedimentbunn
+39,M5,NA M5,Afotisk marin sedimentbunn
+40,M6,NA M6,Korallrev-bunn
+41,M7,NA M7,Marin undervannseng
+42,M8,NA M8,Helofytt-saltvannsump
+43,M9,NA M9,Littoralbasseng-bunn
+44,M10,NA M10,Marin grotte og overheng
+45,M11,NA M11,Kaldt gassoppkomme
+46,M12,NA M12,Varm havkilde
+47,M13,NA M13,Marin sedimentbunn preget av oksygenmangel
+48,M14,NA M14,Sterkt endret eller ny fast saltvannsbunn
+49,M15,NA M15,Sterkt endret eller ny marin sedimentbunn
+50,O1,NA O1,Fast elvebunn
+51,O2,NA O2,Elvesedimentbunn
+52,O3,NA O3,Ferskvannskildebunn
+53,O4,NA O4,Varm ferskvannskildebunn
+54,O5,NA O5,Ny sedimentbunn i elv
+55,O6,NA O6,Elvebunn preget av kronisk fysisk forstyrrelse
+56,O7,NA O7,Elvebunn preget av kronisk fysikalsk-kjemisk påvirkning
+57,T1,NA T1,Nakent berg
+58,T2,NA T2,Åpen grunnlendt mark
+59,T3,NA T3,"Fjellhei, leside og tundra"
+60,T4,NA T4,Fastmarksskogsmark
+61,T5,NA T5,Grotte og overheng
+62,T6,NA T6,Strandberg
+63,T7,NA T7,Snøleie
+64,T8,NA T8,Fuglefjell-eng og fugletopp
+65,T9,NA T9,Mosetundra
+66,T10,NA T10,Arktisk steppe
+67,T11,NA T11,Saltanrikingsmark i fjæresonen
+68,T12,NA T12,Strandeng
+69,T13,NA T13,Rasmark
+70,T14,NA T14,Rabbe
+71,T15,NA T15,Fosse-eng
+72,T16,NA T16,Rasmarkhei og -eng
+73,T17,NA T17,Aktiv skredmark
+74,T18,NA T18,Åpen flomfastmark
+75,T19,NA T19,Oppfrysingsmark
+76,T20,NA T20,Isinnfrysingsmark
+77,T21,NA T21,Sanddynemark
+78,T22,NA T22,Fjellgrashei og grastundra
+79,T23,NA T23,Ferskvanns-driftvoll
+80,T24,NA T24,Driftvoll
+81,T25,NA T25,Historisk skredmark
+82,T26,NA T26,Breforland og snøavsmeltingsområde
+83,T27,NA T27,Blokkmark
+84,T28,NA T28,Polarørken
+85,T29,NA T29,Grus- og steindominert strand og strandlinje
+86,T30,NA T30,Flomskogsmark
+87,T31,NA T31,Boreal hei
+88,T32,NA T32,Semi-naturlig eng
+89,T33,NA T33,Semi-naturlig strandeng
+90,T34,NA T34,Kystlynghei
+91,T35,NA T35,Sterkt endret åpen fastmark med løsmassedekke
+92,T36,NA T36,Ny fastmark på tidligere våtmark og ferskvannsbunn
+93,T37,NA T37,"Ny fastmark på sterkt modifi-serte og syntetiske substrater, i rask suksesjon"
+94,T38,NA T38,Treplantasje
+95,T39,NA T39,Sterkt endret eller ny fastmark i langsom suksesjon
+96,T40,NA T40,Sterkt endret fastmark med preg av semi-naturlig eng
+97,T41,NA T41,Oppdyrket mark med preg av semi-naturlig eng
+98,T42,NA T42,"Sterkt endret, hyppig bearbeidet fastmark med intensivt hevdpreg"
+99,T43,NA T43,"Sterkt endret, varig fastmark med intensivt hevdpreg"
+100,T44,NA T44,Åker
+101,T45,NA T45,Oppdyrket varig eng
+102,V1,NA V1,Åpen jordvannsmyr
+103,V2,NA V2,Myr- og sumpskogsmark
+104,V3,NA V3,Nedbørsmyr
+105,V4,NA V4,Kaldkilde
+106,V5,NA V5,Varm kilde
+107,V6,NA V6,Våtsnøleie og snøleiekilde
+108,V7,NA V7,Arktisk permafrost-våtmark
+109,V8,NA V8,Strandsumpskogsmark
+110,V9,NA V9,Semi-naturlig myr
+111,V10,NA V10,Semi-naturlig våteng
+112,V11,NA V11,Torvtak
+113,V12,NA V12,Grøftet torvmark
+114,V13,NA V13,Ny våtmark

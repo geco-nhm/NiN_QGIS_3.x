@@ -1,0 +1,386 @@
+,id,adb_id,name
+0,F1-E-1,NA F1-E-1,Svært kalkfattige og klare lagdelte vannmasser med enkelt fiskesamfunn
+1,F1-E-2,NA F1-E-2,Svært kalkfattige og humøse lagdelte vannmasser med enkelt fiskesamfunn
+2,F1-E-3,NA F1-E-3,Noe kalkfattige og klare lagdelte vannmasser med enkelt fiskesamfunn
+3,F1-E-4,NA F1-E-4,Noe kalkfattige og humøse lagdelte vannmasser med enkelt fiskesamfunn
+4,F1-E-5,NA F1-E-5,Moderat kalkrike lagdelte vannmasser med enkelt fiskesamfunn
+5,F1-E-6,NA F1-E-6,Svært kalkrike lagdelte vannmasser med enkelt fiskesamfunn
+6,F1-E-7,NA F1-E-7,Svært kalkfattige og klare lagdelte vannmasser med middels komplekst fiskesamfunn
+7,F1-E-8,NA F1-E-8,Svært kalkfattige og humøse lagdelte vannmasser med middels komplekst fiskesamfunn
+8,F1-E-9,NA F1-E-9,Noe kalkfattige og klare lagdelte vannmasser med middels komplekst fiskesamfunn
+9,F1-E-10,NA F1-E-10,Noe kalkfattige og humøse lagdelte vannmasser med middels komplekst fiskesamfunn
+10,F1-E-11,NA F1-E-11,Moderat kalkrike lagdelte vannmasser med middels komplekst fiskesamfunn
+11,F1-E-12,NA F1-E-12,Svært kalkrike lagdelte vannmasser med middels komplekst fiskesamfunn
+12,F1-E-13,NA F1-E-13,Svært kalkfattige og klare lagdelte vannmasser med komplekst fiskesamfunn
+13,F1-E-14,NA F1-E-14,Svært kalkfattige og humøse lagdelte vannmasser med komplekst fiskesamfunn
+14,F1-E-15,NA F1-E-15,Noe kalkfattige og klare lagdelte vannmasser med komplekst fiskesamfunn
+15,F1-E-16,NA F1-E-16,Noe kalkfattige og humøse lagdelte vannmasser med komplekst fiskesamfunn
+16,F1-E-17,NA F1-E-17,Moderat kalkrike lagdelte vannmasser med komplekst fiskesamfunn
+17,F1-E-18,NA F1-E-18,Svært kalkrike lagdelte vannmasser med komplekst fiskesamfunn
+18,F2-E-1,NA F2-E-1,Svært kalkfattige og klare grunne vannmasser med enkelt fiskesamfunn
+19,F2-E-2,NA F2-E-2,Svært kalkfattige og humøse grunne vannmasser med enkelt fiskesamfunn
+20,F2-E-3,NA F2-E-3,Noe kalkfattige og klare grunne vannmasser med enkelt fiskesamfunn
+21,F2-E-4,NA F2-E-4,Noe kalkfattige og humøse grunne vannmasser med enkelt fiskesamfunn
+22,F2-E-5,NA F2-E-5,Moderat kalkrike grunne vannmasser med enkelt fiskesamfunn
+23,F2-E-6,NA F2-E-6,Svært kalkrike grunne vannmasser med enkelt fiskesamfunn
+24,F2-E-7,NA F2-E-7,Svært kalkfattige og klare grunne vannmasser med middels komplekst fiskesamfunn
+25,F2-E-8,NA F2-E-8,Svært kalkfattige og humøse grunne vannmasser med middels komplekst fiskesamfunn
+26,F2-E-9,NA F2-E-9,Noe kalkfattige og klare grunne vannmasser med middels komplekst fiskesamfunn
+27,F2-E-10,NA F2-E-10,Noe kalkfattige og humøse grunne vannmasser med middels komplekst fiskesamfunn
+28,F2-E-11,NA F2-E-11,Moderat kalkrike grunne vannmasser med middels komplekst fiskesamfunn
+29,F2-E-12,NA F2-E-12,Svært kalkrike grunne vannmasser med middels komplekst fiskesamfunn
+30,F2-E-13,NA F2-E-13,Svært kalkfattige og klare grunne vannmasser med komplekst fiskesamfunn
+31,F2-E-14,NA F2-E-14,Svært kalkfattige og humøse grunne vannmasser med komplekst fiskesamfunn
+32,F2-E-15,NA F2-E-15,Noe kalkfattige og klare grunne vannmasser med komplekst fiskesamfunn
+33,F2-E-16,NA F2-E-16,Noe kalkfattige og humøse grunne vannmasser med komplekst fiskesamfunn
+34,F2-E-17,NA F2-E-17,Moderat kalkrike grunne vannmasser med komplekst fiskesamfunn
+35,F2-E-18,NA F2-E-18,Svært kalkrike grunne vannmasser med komplekst fiskesamfunn
+36,F3-E-1,NA F3-E-1,Svært kalkfattige og klare lagdelte vannmasser uten fisk
+37,F3-E-2,NA F3-E-2,Svært kalkfattige og humøse lagdelte vannmasser uten fisk
+38,F3-E-3,NA F3-E-3,Noe kalkfattige og klare lagdelte vannmasser uten fisk
+39,F3-E-4,NA F3-E-4,Noe kalkfattige og humøse lagdelte vannmasser uten fisk
+40,F3-E-5,NA F3-E-5,Moderat kalkrike lagdelte vannmasser uten fisk
+41,F3-E-6,NA F3-E-6,Svært kalkrike lagdelte vannmasser uten fisk
+42,F4-E-1,NA F4-E-1,Svært kalkfattige og klare store grunne vannmasser uten fisk
+43,F4-E-2,NA F4-E-2,Svært kalkfattige og klare små grunne vannmasser uten fisk
+44,F4-E-3,NA F4-E-3,Noe kalkfattige og klare store grunne vannmasser uten fisk
+45,F4-E-4,NA F4-E-4,Noe kalkfattige og klare små grunne vannmasser uten fisk
+46,F4-E-5,NA F4-E-5,Moderat kalkrike og klare store grunne vannmasser uten fisk
+47,F4-E-6,NA F4-E-6,Moderat kalkrike og klare små grunne vannmasser uten fisk
+48,F4-E-7,NA F4-E-7,Svært kalkrike og klare store grunne vannmasser uten fisk
+49,F4-E-8,NA F4-E-8,Svært kalkrike og klare små grunne vannmasser uten fisk
+50,F4-E-9,NA F4-E-9,Svært kalkfattige og humøse store grunne vannmasser uten fisk
+51,F4-E-10,NA F4-E-10,Svært kalkfattige og humøse små grunne vannmasser uten fisk
+52,F4-E-11,NA F4-E-11,Noe kalkfattige og humøse store grunne vannmasser uten fisk
+53,F4-E-12,NA F4-E-12,Noe kalkfattige og humøse små grunne vannmasser uten fisk
+54,F4-E-13,NA F4-E-13,Moderat kalkrike og humøse store grunne vannmasser uten fisk
+55,F4-E-14,NA F4-E-14,Moderat kalkrike og humøse små grunne vannmasser uten fisk
+56,F4-E-15,NA F4-E-15,Svært kalkrike og humøse store grunne vannmasser uten fisk
+57,F4-E-16,NA F4-E-16,Svært kalkrike og humøse små grunne vannmasser uten fisk
+58,F5-E-1,NA F5-E-1,Kalkfattige litt turbide vannmasser
+59,F5-E-2,NA F5-E-2,Kalkrike litt turbide vannmasser
+60,F5-E-3,NA F5-E-3,Svært turbide vannmasser
+61,F6-E-1,NA F6-E-1,Grottesjø-vannmasser
+62,F7-E-1,NA F7-E-1,Innsjø-vannmasser med periodisk oksygenmangel
+63,F7-E-2,NA F7-E-2,Anoksiske innsjø-vannmasser betinget av gammelt havvann
+64,F7-E-3,NA F7-E-3,Anoksiske innsjø-vannmasser betinget av saltholdig kildevann
+65,F7-E-4,NA F7-E-4,Anoksiske innsjø-vannmasser betinget av jernholdig vann
+66,F7-E-5,NA F7-E-5,Anoksiske innsjø-vannmasser betinget av kalkrikt vann
+67,F7-E-6,NA F7-E-6,Anoksiske innsjø-vannmasser betinget av humusrikt vann
+68,F8-E-1,NA F8-E-1,Elvevannmasser uten fisk
+69,F8-E-2,NA F8-E-2,Elvevannmasser med fisk
+70,F9-E-1,NA F9-E-1,Kalkfattige grunne nye innsjø-vannmasser uten fisk
+71,F9-E-2,NA F9-E-2,Kalkfattige lagdelte nye innsjø-vannmasser uten fisk
+72,F9-E-3,NA F9-E-3,Kalkrike grunne nye innsjø-vannmasser uten fisk
+73,F9-E-4,NA F9-E-4,Kalkrike lagdelte nye innsjø-vannmasser uten fisk
+74,F9-E-5,NA F9-E-5,Kalkfattige grunne nye innsjø-vannmasser med fisk
+75,F9-E-6,NA F9-E-6,Kalkfattige lagdelte nye innsjø-vannmasser med fisk
+76,F9-E-7,NA F9-E-7,Kalkrike grunne nye innsjø-vannmasser med fisk
+77,F9-E-8,NA F9-E-8,Kalkrike lagdelte nye innsjø-vannmasser med fisk
+78,F10-E-1,NA F10-E-1,Kronisk kjemisk påvirkede innsjø-vannmasser
+79,F10-E-2,NA F10-E-2,Kronisk saltpåvirkede innsjø-vannmasser
+80,F10-E-3,NA F10-E-3,Kronisk eutrofierte innsjø-vannmasser
+81,F10-E-4,NA F10-E-4,Kronisk forsurede innsjø-vannmasser
+82,F11-E-1,NA F11-E-1,Sterkt endrede kalkfattige innsjø-vannmasser preget av introduksjon eller bortfall av strukturerende organismer
+83,F11-E-2,NA F11-E-2,Sterkt endrede kalkrike innsjø-vannmasser preget av introduksjon eller bortfall av strukturerende organismer
+84,F12-E-1,NA F12-E-1,Sterkt forsurede elvevannmasser
+85,F13-E-1,NA F13-E-1,Sterkt endrede kalkfattige elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+86,F13-E-2,NA F13-E-2,Sterkt endrede kalkrike elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+87,F13-E-1,NA F13-E-1,Sterkt endrede kalkfattige elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+88,F13-E-2,NA F13-E-2,Sterkt endrede kalkrike elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+89,F13-E-1,NA F13-E-1,Sterkt endrede kalkfattige elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+90,F13-E-2,NA F13-E-2,Sterkt endrede kalkrike elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+91,F13-E-1,NA F13-E-1,Sterkt endrede kalkfattige elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+92,F13-E-2,NA F13-E-2,Sterkt endrede kalkrike elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+93,F13-E-1,NA F13-E-1,Sterkt endrede kalkfattige elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+94,F13-E-2,NA F13-E-2,Sterkt endrede kalkrike elvevannmasser preget av introduksjon eller bortfall av strukturerende organismer
+95,I1-E-1,NA I1-E-1,snø- og isdekt fastmark
+96,L1-E-1,NA L1-E-1,Svært kalkfattig eufotisk fast innsjøbunn
+97,L1-E-2,NA L1-E-2,Noe kalkfattig eufotisk fast innsjøbunn
+98,L1-E-3,NA L1-E-3,Moderat kalkrik eufotisk fast innsjøbunn
+99,L1-E-4,NA L1-E-4,Svært kalkrik eufotisk fast innsjøbunn
+100,L1-E-5,NA L1-E-5,Turbid eufotisk fast innsjøbunn
+101,L2-E-1,NA L2-E-1,Kalkfattig fin innsjø-sedimentbunn
+102,L2-E-2,NA L2-E-2,Kalkfattig grov innsjø-sedimentbunn
+103,L2-E-3,NA L2-E-3,Kalkrik fin innsjø-sedimentbunn 
+104,L2-E-4,NA L2-E-4,Kalkrik grov innsjø-sedimentbunn
+105,L2-E-5,NA L2-E-5,Turbid eufotisk innsjø-sedimentbunn
+106,L3-E-1,NA L3-E-1,Kalkfattig dyp innsjøbunn
+107,L3-E-2,NA L3-E-2,Moderat kalkrik dyp innsjøbunn
+108,L3-E-3,NA L3-E-3,Svært kalkrik dyp innsjøbunn
+109,L4-E-1,NA L4-E-1,Kalkfattig helofyttsump
+110,L4-E-2,NA L4-E-2,Moderat kalkrik helofyttsump
+111,L4-E-3,NA L4-E-3,Svært kalkrik helofyttsump
+112,L5-E-1,NA L5-E-1,Kalkfattig undervannseng i innsjø
+113,L5-E-2,NA L5-E-2,Moderat kalkrik undervannseng i innsjø
+114,L5-E-3,NA L5-E-3,Svært kalkrik undervannseng i innsjø
+115,L5-E-4,NA L5-E-4,Kalkfattig undervannseng i elv
+116,L5-E-5,NA L5-E-5,Moderat kalkrik undervannseng i elv
+117,L6-E-1,NA L6-E-1,Kalkfattig flarkgjøl-bunn på fast torv
+118,L6-E-2,NA L6-E-2,Kalkrik flarkgjøl-bunn på fast torv
+119,L6-E-3,NA L6-E-3,Høljegjøl-bunn på fast torv 
+120,L7-E-1,NA L7-E-1,Svært kalkfattig innsjøbunn av dy og gytje
+121,L7-E-2,NA L7-E-2,Noe kalkfattig innsjøbunn av dy og gytje
+122,L7-E-3,NA L7-E-3,Moderat kalkrik innsjøbunn av dy og gytje
+123,L7-E-4,NA L7-E-4,Svært kalkrik innsjøbunn av dy og gytje
+124,L8-E-1,NA L8-E-1,Kalkfattig innsjøbunn av grovt organisk materiale
+125,L8-E-2,NA L8-E-2,Kalkrik innsjøbunn av grovt organisk materiale
+126,L9-E-1,NA L9-E-1,Innsjøbunn med periodisk oksygenmangel
+127,L9-E-2,NA L9-E-2,Anoksisk innsjøbunn med gammelt havvann
+128,L9-E-3,NA L9-E-3,Anoksisk innsjøbunn betinget av saltholdig kildevann
+129,L9-E-4,NA L9-E-4,Anoksisk innsjøbunn betinget av jernholdig vann
+130,L9-E-5,NA L9-E-5,Anoksisk innsjøbunn betinget av kalkrikt vann
+131,L9-E-6,NA L9-E-6,Anoksisk innsjøbunn betinget av humusrikt vann
+132,L10-E-1,NA L10-E-1,Arktisk permafrost-innsjøbunn
+133,L11-E-1,NA L11-E-1,Ny innsjøbunn
+134,L11-E-2,NA L11-E-2,Ny innsjøbunn
+135,L12-E-1,NA L12-E-1,Semi-naturlig eutrof innsjøbunn
+136,L13-E-1,NA L13-E-1,Kalkfattig semi-naturlig vannstrand-eng
+137,L13-E-2,NA L13-E-2,Kalkrik semi-naturlig vannstrand-eng
+138,L14-E-1,NA L14-E-1,Sterkt endret ny fast og syntetisk innsjøbunn
+139,L14-E-2,NA L14-E-2,Kalkfattig ny innsjø-sedimentbunn
+140,L14-E-3,NA L14-E-3,Kalkrik ny innsjø-sedimentbunn 
+141,L15-E-1,NA L15-E-1,Kalkfattig ny innsjøbunn med opphav i elvebunn
+142,L15-E-2,NA L15-E-2,Kalkrik ny innsjøbunn med opphav i elvebunn
+143,L16-E-1,NA L16-E-1,Kalkfattig kronisk fysisk forstyrret innsjøbunn
+144,L16-E-2,NA L16-E-2,Kalkrik kronisk fysisk forstyrret innsjøbunn
+145,L16-E-3,NA L16-E-3,Reguleringssone i innsjø
+146,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+147,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+148,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+149,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+150,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+151,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+152,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+153,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+154,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+155,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+156,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+157,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+158,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+159,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+160,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+161,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+162,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+163,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+164,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+165,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+166,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+167,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+168,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+169,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+170,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+171,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+172,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+173,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+174,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+175,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+176,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+177,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+178,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+179,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+180,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+181,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+182,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+183,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+184,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+185,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+186,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+187,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+188,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+189,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+190,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+191,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+192,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+193,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+194,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+195,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+196,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+197,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+198,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+199,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+200,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+201,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+202,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+203,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+204,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+205,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+206,L17-E-1,NA L17-E-1,Kronisk kjemisk påvirket innsjøbunn 
+207,L17-E-2,NA L17-E-2,Kronisk saltpåvirket innsjø-sedimentbunn 
+208,L17-E-3,NA L17-E-3,Kronisk eutrofiert innsjøbunn 
+209,L17-E-4,NA L17-E-4,Kronisk forsuret innsjøbunn 
+210,O1-E-1,NA O1-E-1,Svært kalkfattig fastbunn i klar elv 
+211,O1-E-2,NA O1-E-2,Noe kalkfattig fastbunn i klar elv
+212,O1-E-3,NA O1-E-3,Moderat kalkrik fastbunn i klar elv
+213,O1-E-4,NA O1-E-4,Svært kalkrik fastbunn i klar elv
+214,O1-E-5,NA O1-E-5,Kalkfattig fastbunn i humøs elv
+215,O1-E-6,NA O1-E-6,Kalkrik fastbunn i humøs elv
+216,O1-E-7,NA O1-E-7,Turbid fast elvebunn
+217,O2-E-1,NA O2-E-1,Kalkfattig sedimentbunn i klar elv
+218,O2-E-2,NA O2-E-2,Kalkrik sedimentbunn i klar elv
+219,O2-E-3,NA O2-E-3,Sedimentbunn i humøs elv
+220,O2-E-4,NA O2-E-4,Utstrømspåvirket kalkfattig elvebunn
+221,O2-E-5,NA O2-E-5,Utstrømspåvirket kalkrik elvebunn
+222,O2-E-6,NA O2-E-6,Turbid elvesedimentbunn
+223,O3-E-1,NA O3-E-1,Kalkfattig ferskvannskildebunn
+224,O3-E-2,NA O3-E-2,Kalkrik ferskvannskildebunn
+225,O4-E-1,NA O4-E-1,Bunn i litt varm kilde
+226,O4-E-2,NA O4-E-2,Bunn i varm kilde
+227,O4-E-3,NA O4-E-3,Svovelpåvirket bunn i litt varm kilde
+228,O5-E-1,NA O5-E-1,Ny sedimentbunn i elv
+229,O6-E-1,NA O6-E-1,Kalkfattig kronisk fysisk forstyrret elvebunn
+230,O6-E-2,NA O6-E-2,Kalkrik kronisk fysisk forstyrret elvebunn
+231,O6-E-3,NA O6-E-3,Turbid minstevannførings-strekning i elv 
+232,O7-E-1,NA O7-E-1,Kronisk kjemisk påvirket elvebunn
+233,O7-E-2,NA O7-E-2,Kronisk kjemisk påvirket elvebunn
+234,O7-E-3,NA O7-E-3,Kronisk forsuret elvebunn
+235,T1-E-1,NA T1-E-1,svært kalkfattige til svakt intermediære nakne berg
+236,T1-E-2,NA T1-E-2,sterkt intermediære til ekstremt kalkrike nakne berg
+237,T2-E-1,NA T2-E-1,åpne og kalkfattige grunnlendte marker
+238,T2-E-2,NA T2-E-2,åpne intermediære grunnlendte marker
+239,T2-E-3,NA T2-E-3,åpne svakt kalkrike grunnlendte marker
+240,T2-E-4,NA T2-E-4,åpne kalkrike grunnlente marker
+241,T3-E-1,NA T3-E-1,kalkfattig leside
+242,T3-E-2,NA T3-E-2,intermediær leside
+243,T3-E-3,NA T3-E-3,kalkrike lesider og intermediære og kalkrike kildevannspåvirkede fjell-lavheier
+244,T3-E-4,NA T3-E-4,kalkfattige fjell-lyng- og lavheier
+245,T3-E-5,NA T3-E-5,intermediære fjell-lyng- og lavheier
+246,T3-E-6,NA T3-E-6,svakt kalkrike fjell-lyng- og lavheier
+247,T3-E-7,NA T3-E-7,svært kalkrike fjell-lyng- og lavheier
+248,T4-E-1,NA T4-E-1,blåbær- og bærlyngskoger
+249,T4-E-2,NA T4-E-2,svake lågurt- og storbregneskoger
+250,T4-E-3,NA T4-E-3,lite tørkeutsatte lågurt- og bærlyng- lågurtskoger
+251,T4-E-4,NA T4-E-4,lav- og lyngskoger
+252,T4-E-5,NA T4-E-5,tørkeutsatte svake lågurtskoger
+253,T4-E-6,NA T4-E-6,tørkeutsatte lågurtskoger
+254,T5-E-1,NA T5-E-1,kalkfattige til svakt kalkrike grotter og overheng
+255,T5-E-2,NA T5-E-2,sterkt kalkrike grotter og overheng
+256,T5-E-3,NA T5-E-3,mindre kalkrikt grottedyp
+257,T5-E-4,NA T5-E-4,indre del av dyp karstgrotte
+258,T6-E-1,NA T6-E-1,kalkfattige strandberg
+259,T6-E-2,NA T6-E-2,kalkrik bergknaus i bølgesprutsonen
+260,T7-E-1,NA T7-E-1,svært kalkfattig moderat snøleie
+261,T7-E-2,NA T7-E-2,svakt kalkfattige og intermediære moderate og seine snøleier
+262,T7-E-3,NA T7-E-3,intermediært ekstremsnøleie
+263,T7-E-4,NA T7-E-4,svakt kalkrike moderate og seine snøleier
+264,T7-E-5,NA T7-E-5,sterkt kalkrike moderate og seine snøleier
+265,T7-E-6,NA T7-E-6,kalkrikt ekstremsnøleie
+266,T8-E-1,NA T8-E-1,fuglefjellenger
+267,T8-E-2,NA T8-E-2,fugletopp
+268,T9-E-1,NA T9-E-1,fattig-intermediær mosetundra
+269,T9-E-2,NA T9-E-2,kalkrik mosetundra
+270,T10-E-1,NA T10-E-1,arktiske stepper
+271,T11-E-1,NA T11-E-1,saltanrikningsmarker
+272,T12-E-1,NA T12-E-1,strandenger
+273,T13-E-1,NA T13-E-1,tørkeutsatte kalkfattige grove rasmarker
+274,T13-E-2,NA T13-E-2,kalkfattig grus- og sanddominert rasmark
+275,T13-E-3,NA T13-E-3,tørkeutsatte intermediære og svcakt kalkrike grove rasmarker
+276,T13-E-4,NA T13-E-4,intermediær og svakt kalkrik ur
+277,T13-E-5,NA T13-E-5,tørkeutsatte sterkt kalkrike grove rasmarker
+278,T13-E-6,NA T13-E-6,sterkt kalkrik grus- og sanddominert rasmark
+279,T13-E-7,NA T13-E-7,lite tørkeutsatte kalkfattige rasmarker
+280,T13-E-8,NA T13-E-8,lite tørkeutsatte intermediære og svkat kalkrike rasmarker
+281,T13-E-9,NA T13-E-9,lite tørkeutsatte sterkt kalkrike rasmarker
+282,T14-E-1,NA T14-E-1,kalkfattig og intermediær rabbe
+283,T14-E-2,NA T14-E-2,kalkrik rabbe
+284,T15-E-1,NA T15-E-1,kalkfattig og intermediær fosse-eng
+285,T15-E-2,NA T15-E-2,kalkrik fosse-eng
+286,T16-E-1,NA T16-E-1,rasmarkenger og -heier
+287,T17-E-1,NA T17-E-1,jordskred
+288,T17-E-2,NA T17-E-2,grus- og sandskred
+289,T17-E-3,NA T17-E-3,silt- og leirskred
+290,T18-E-1,NA T18-E-1,åpne flomfastmarker
+291,T18-E-2,NA T18-E-2,åpen flomfastmark på kalkrik grus og stein
+292,T18-E-3,NA T18-E-3,åpen flomfastmark på sand med klart erosjonspreg
+293,T19-E-1,NA T19-E-1,kalkfattige finjordsflekker
+294,T19-E-2,NA T19-E-2,kalkrike finjordsflekker
+295,T20-E-1,NA T20-E-1,kalkfattig og intermediær isinnfrysingsmark
+296,T20-E-2,NA T20-E-2,kalkrik isinnfrysingsmark
+297,T21-E-1,NA T21-E-1,sanddynemarker
+298,T22-E-1,NA T22-E-1,kalkfattige og intermediære fjellgrasheier og grassnøleier
+299,T22-E-2,NA T22-E-2,kalkrike fjellgrasheier og grassnøleier
+300,T23-E-1,NA T23-E-1,ferskvannsdriftvoll
+301,T24-E-1,NA T24-E-1,driftvoller
+302,T25-E-1,NA T25-E-1,historisk jordskred
+303,T25-E-2,NA T25-E-2,historiske grus- og sandskred
+304,T25-E-3,NA T25-E-3,historisk silt- og leirskred
+305,T26-E-1,NA T26-E-1,breforland og snøavsmeltningsområder
+306,T27-E-1,NA T27-E-1,kalkfattige og intermediære blokkmarker
+307,T27-E-2,NA T27-E-2,kalkrike blokkmarker
+308,T27-E-3,NA T27-E-3,blokkmark i vegetasjonsfritt snøleie
+309,T28-E-1,NA T28-E-1,kalkfattig polarørken
+310,T28-E-2,NA T28-E-2,intermediær og svakt kalkrik polarørken
+311,T28-E-3,NA T28-E-3,sterkt kalkrik polarørken
+312,T29-E-1,NA T29-E-1,skjellsand- grus- og steindominerte strender og strandlinjer
+313,T30-E-1,NA T30-E-1,flomskogsmarker
+314,T31-E-1,NA T31-E-1,kalkfattig boreal frisk hei
+315,T31-E-2,NA T31-E-2,kalkfattige boreale lyng- og lavheier
+316,T31-E-3,NA T31-E-3,intermediære boreale friske heier
+317,T31-E-4,NA T31-E-4,intermediære boreal lyng- og lavhei
+318,T31-E-5,NA T31-E-5,kalkrike boreale friske heier
+319,T31-E-6,NA T31-E-6,svakt kalkrike boreale lyng- og lavheier
+320,T31-E-7,NA T31-E-7,sterkt kalkrike boreale lyng- og lavheier
+321,T32-E-1,NA T32-E-1,kalkfattige enger
+322,T32-E-2,NA T32-E-2,intermediære enger
+323,T32-E-3,NA T32-E-3,kalkrike enger
+324,T33-E-1,NA T33-E-1,semi-naturlige strandenger
+325,T34-E-1,NA T34-E-1,kalkfattige bakli- og kystlyngheier
+326,T34-E-2,NA T34-E-2,intermediære bakli- og kystlyngheier
+327,T34-E-3,NA T34-E-3,svakt kalkrike kystlyngheier
+328,T34-E-4,NA T34-E-4,sterkt kalkrike kystlyngheier
+329,T35-E-1,NA T35-E-1,sterkt endret fastmark med jorddekke
+330,T35-E-2,NA T35-E-2,sterkt endrede fastmarker med dekke av sand eller grus
+331,T35-E-3,NA T35-E-3,sterkt endret fastmark med dekke av silt og leire
+332,T36-E-1,NA T36-E-1,sterkt endret tidligere våtmark
+333,T36-E-2,NA T36-E-2,tørrlagt elvebunn
+334,T36-E-3,NA T36-E-3,tørrlagt innsjøbunn
+335,T37-E-1,NA T37-E-1,slagghauger og deponier for fast kjemisk avfall
+336,T37-E-2,NA T37-E-2,"asfalt, løs betong o.l."
+337,T37-E-3,NA T37-E-3,avfallsdeponi o.l.
+338,T38-E-1,NA T38-E-1,treplantasje
+339,T39-E-1,NA T39-E-1,blokkdeponier
+340,T39-E-2,NA T39-E-2,blottlagt fast fjell
+341,T39-E-3,NA T39-E-3,fast fjell blottlagt ved tørrlegging eller nedtapping
+342,T39-E-4,NA T39-E-4,"sterkt modifiserte eller syntetiske, overveiende uorganisk faste substrater"
+343,T40-E-1,NA T40-E-1,eng-liknende sterkt endret fastmark
+344,T41-E-1,NA T41-E-1,eng-liknende oppdyrket mark
+345,T42-E-1,NA T42-E-1,blomsterbed og liknende
+346,T43-E-1,NA T43-E-1,"plener, parker og liknende"
+347,T44-E-1,NA T44-E-1,åker
+348,T45-E-1,NA T45-E-1,oppdyrkede varige enger med lite intensivt hevdpreg
+349,T45-E-2,NA T45-E-2,oppdyrkede varige enger med intensivt og svært intensivt hevdpreg
+350,V1-E-1,NA V1-E-1,fattigmyrer
+351,V1-E-2,NA V1-E-2,sterkt intermediære og litt kalkrike myrer
+352,V1-E-3,NA V1-E-3,rikmyrer
+353,V2-E-1,NA V2-E-1,kalkfattige og svakt intermediære myr- og sumpskogsmarker
+354,V2-E-2,NA V2-E-2,sterkt intermediære litt kalkrike myr- og sumpskog-marker
+355,V2-E-3,NA V2-E-3,temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+356,V3-E-1,NA V3-E-1,ombrotrofe myrer
+357,V4-E-1,NA V4-E-1,litt kalkfattige til litt kalkrike kilder
+358,V4-E-2,NA V4-E-2,temmelig til ekstremt kalkrike kilder
+359,V4-E-3,NA V4-E-3,sterkt intermediære og litt kalkrike torvmarkskilder
+360,V4-E-4,NA V4-E-4,temmelig til ekstremt kalkrike torvmarkskilder
+361,V5-E-1,NA V5-E-1,svak varmkilde
+362,V5-E-2,NA V5-E-2,klar varmkilde
+363,V6-E-1,NA V6-E-1,litt kalkfattige til litt kalkrike våt- og kildesnøleier
+364,V6-E-2,NA V6-E-2,temmelig til ekstremt kalkrike våt- og kildesnøeleier
+365,V6-E-3,NA V6-E-3,ekstreme våt- og kildesnøleie
+366,V7-E-1,NA V7-E-1,kalkfattig og intermediær permafrost-våtmark
+367,V7-E-2,NA V7-E-2,kalkrik permafrost-våtmark
+368,V8-E-1,NA V8-E-1,kalkfattig og intermediær strand- og sumpskogsmark
+369,V8-E-2,NA V8-E-2,kalkrik strand- og sumpskogsmark
+370,V8-E-3,NA V8-E-3,saltpåvirket strand- og sumpskogsmark
+371,V9-E-1,NA V9-E-1,kalkfattig semi-naturlig myr
+372,V9-E-2,NA V9-E-2,intermediær semi-naturlig myr
+373,V9-E-3,NA V9-E-3,kalkrik semi-naturlig myr
+374,V10-E-1,NA V10-E-1,intermediær våteng
+375,V10-E-2,NA V10-E-2,kalkrike og svakt kildevannspåvirkede semi-naturlige våtenger
+376,V11-E-1,NA V11-E-1,kalkfattig torvtak
+377,V11-E-2,NA V11-E-2,kalkrikt torvtak
+378,V12-E-1,NA V12-E-1,grøftet kalkfattig jordvannsmyr
+379,V12-E-2,NA V12-E-2,grøftet kalkrik jordvannsmyr
+380,V12-E-3,NA V12-E-3,grøftet nedbørsmyr
+381,V13-E-1,NA V13-E-1,nye våtmarker med opprinnelse i sterkt endrede fastmarkssystemer
+382,V13-E-2,NA V13-E-2,nye våtmarker med opprinnelse i jordbruksmark på fastmark
+383,V13-E-3,NA V13-E-3,nye våtmarker med opprinnelse i neddemt skogsmark
+384,V13-E-4,NA V13-E-4,nye våtmarker med opprinnelse i ferskvannsbunn

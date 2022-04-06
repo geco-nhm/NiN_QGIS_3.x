@@ -15,14 +15,19 @@ class ArtsdatabankenNinApi:
     def get_versions(self):
         url = f'{self.base_url}/versjoner'
         response = requests.get(url=url, headers=self.headers)
+        assert(response.status_code==200)
         return json.loads(response.content)
 
     def get_all_codes(self, version):
         url = f'{self.base_url}/{version}/koder/allekoder?tre=false'
         response = requests.get(url=url, headers=self.headers)
+        assert(response.status_code ==200)
         return json.loads(response.content)
 
     def get_specific_code(self, version, code):
         url = f'{self.base_url}/{version}/koder/hentkode/{code}'
         response = requests.get(url=url, headers=self.headers)
+        assert(response.status_code==200)
         return json.loads(response.content)
+
+# %%
