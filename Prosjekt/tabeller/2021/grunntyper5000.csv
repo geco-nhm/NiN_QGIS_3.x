@@ -1,0 +1,338 @@
+htgrk,htypek,gtypek,grunntype
+L,L,L,L Ferskvannsbunnsystemer
+L,L4,L4-C-1,L4-C-01 Helofytt-ferskvannssump - KA 1 (KA ab < 2 mg Ca/L)
+L,L4,L4-C-2,L4-C-02 Helofytt-ferskvannssump - KA 1 (KA cde 2 - 10 mg Ca/L)
+L,L4,L4-C-3,L4-C-03 Helofytt-ferskvannssump - KA 1 (KA fghi > 10 mg Ca/L)
+T,T1,,
+T,T1,T1-C-1,T1-C-01 lite tørkeutsatte svært og temmelig kalkfattige nakne berg
+T,T1,T1-C-2,T1-C-02 tørkeutsatte svært og temmelig kalkfattige bergbergvegger og knauser
+T,T1,T1-C-3,T1-C-03 lite tørkeutsatte litt kalkfattige og svakt intermediære nakne berg
+T,T1,T1-C-4,T1-C-04 tørkeutsatte litt kalkfattige og svakt intermediære bergbergvegger og knauser
+T,T1,T1-C-5,T1-C-05 lite tørkeutsatte sterkt intermediære og litt kalkrike nakne berg 
+T,T1,T1-C-6,T1-C-06 tørkeutsatte sterkt intermediære og litt kalkrike bergbergvegger og knauser
+T,T1,T1-C-7,T1-C-07 lite tørkeutsatte temmelig til ekstremt kalkrike nakne berg 
+T,T1,T1-C-8,T1-C-08 tørkeutsatte temmelig til ekstremt kalkrike bergbergvegger og knauser
+T,T1,T1-C-9,T1-C-09 svakt intermediært og kalkfattig forblåst berg
+T,T1,T1-C-10,T1-C-10 sterkt intermediært til ekstremt kalkrikt forblåst berg
+T,T1,T1-C-11,T1-C-11 svakt intermediært og kalkfattig snøleieberg
+T,T1,T1-C-12,T1-C-12 sterkt intermediært til ekstremt kalkrikt snøleieberg
+T,T2,,
+T,T2,T2-C-1,T2-C-1 åpen kalkfattig grunnlendt lyngmark
+T,T2,T2-C-2,T2-C-2 åpen kalkfattig grunnlendt lavmark
+T,T2,T2-C-3,T2-C-3 åpen intermediær grunnlendt lyngmark
+T,T2,T2-C-4,T2-C-4 åpen intermediær grunnlendt lavmark
+T,T2,T2-C-5,T2-C-5 åpen svakt kalkrik grunnlendt lyngmark
+T,T2,T2-C-6,T2-C-6 åpen svakt kalkrik grunnlendt lavmark
+T,T2,T2-C-7,T2-C-7 åpen sterkt kalkrik grunnlendt lyngmark
+T,T2,T2-C-8,T2-C-8 åpen sterkt kalkrik grunnlendt lavmark
+T,T3,,
+T,T3,T3-C-1,T3-C-01 kalkfattig leside
+T,T3,T3-C-2,T3-C-02 kalkfattig fjell-lynghei
+T,T3,T3-C-3,T3-C-03 kalkfattig fjell-lavhei
+T,T3,T3-C-4,T3-C-04 intermediær leside
+T,T3,T3-C-5,T3-C-05 intermediær fjell-lynghei
+T,T3,T3-C-6,T3-C-06 intermediær fjell-lavhei
+T,T3,T3-C-7,T3-C-07 svakt kalkrik leside
+T,T3,T3-C-8,T3-C-08 svakt kalkrik fjell-lynghei
+T,T3,T3-C-9,T3-C-09 svakt kalkrik fjell-lavhei
+T,T3,T3-C-10,T3-C-10 sterkt kalkrik leside
+T,T3,T3-C-11,T3-C-11 sterkt kalkrik fjell-lynghei
+T,T3,T3-C-12,T3-C-12 sterkt kalkrik fjell-lavhei
+T,T3,T3-C-13,T3-C-13 intermediær kildepåvirket fjellhei
+T,T3,T3-C-14,T3-C-14 kalkrik kildepåvirket fjellhei
+T,T4,,
+T,T4,T4-C-1,T4-C-01 blåbærskog
+T,T4,T4-C-2,T4-C-02 svak lågurtskog
+T,T4,T4-C-3,T4-C-03 lågurtskog
+T,T4,T4-C-4,T4-C-04 kalklågurtskog
+T,T4,T4-C-5,T4-C-05 bærlyngskog
+T,T4,T4-C-6,T4-C-06 svak bærlyng-lågurtskog
+T,T4,T4-C-7,T4-C-07 bærlyng-lågurtskog
+T,T4,T4-C-8,T4-C-08 bærlyng-kalklågurtskog
+T,T4,T4-C-9,T4-C-09 lyngskog
+T,T4,T4-C-10,T4-C-10 svak lyng-lågurtskog
+T,T4,T4-C-11,T4-C-11 lyng-lågurtskog
+T,T4,T4-C-12,T4-C-12 lyng-kalklågurtskog
+T,T4,T4-C-13,T4-C-13 lavskog
+T,T4,T4-C-14,T4-C-14 svak lav-lågurtskog
+T,T4,T4-C-15,T4-C-15 lav-lågurtskog
+T,T4,T4-C-16,T4-C-16 lav-kalklågurtskog
+T,T4,T4-C-17,T4-C-17 storbregneskog
+T,T4,T4-C-18,T4-C-18 høgstaudeskog
+T,T4,T4-C-19,T4-C-19 litt tørkeutsatt høgstaudeskog
+T,T4,T4-C-20,T4-C-20 tørkeutsatt høgstaudeskog
+T,T5,,
+T,T5,T5-C-1,T5-C-1 kalkfattige til svakt kalkrike tørkeutsatte grotter og overheng
+T,T5,T5-C-2,T5-C-2 sterkt kalkrike ikke tørkeutsatte grotter og overheng
+T,T5,T5-C-3,T5-C-3 mindre kalkrikt grottedyp
+T,T5,T5-C-4,T5-C-4 indre del av dyp karstgrotte
+T,T5,T5-C-5,T5-C-5 tørt kalkfattig overheng
+T,T5,T5-C-6,T5-C-6 tørt intermediært og svakt kalkrikt overheng
+T,T5,T5-C-7,T5-C-7 tørt sterkt kalkrikt overheng
+T,T6,,
+T,T6,T6-C-1,T6-C-1 kalkfattige strandberg
+T,T6,T6-C-2,T6-C-2 kalkrik bergknaus i bølgesprutsonen
+T,T7,,
+T,T7,T7-C-1,T7-C-01 svært kalkfattig moderat snøleie
+T,T7,T7-C-2,T7-C-02 svakt kalkfattig moderat snøleie
+T,T7,T7-C-3,T7-C-03 intermediært moderat snøleie
+T,T7,T7-C-4,T7-C-04 intermediært seint snøleie
+T,T7,T7-C-5,T7-C-05 intermediært ekstremsnøleie
+T,T7,T7-C-6,T7-C-06 svakt kalkrikt moderat snøleie
+T,T7,T7-C-7,T7-C-07 svakt kalkrikt seint snøleie
+T,T7,T7-C-8,T7-C-08 sterkt kalkrikt moderat snøleie
+T,T7,T7-C-9,T7-C-09 sterkt kalkrikt seint snøleie
+T,T7,T7-C-10,T7-C-10 kalkrikt ekstremsnøleie
+T,T7,T7-C-11,T7-C-11 vegetasjonsfritt snøleie
+T,T7,T7-C-12,T7-C-12 kildepåvirket intermediært snøleie
+T,T7,T7-C-13,T7-C-13 kildepåvirket svakt kalkrikt snøleie
+T,T7,T7-C-14,T7-C-14 kildepåvirket kalksnøleie
+T,T8,,
+T,T8,T8-C-1,T8-C-1 fuglefjell-høgstaude-enger
+T,T8,T8-C-2,T8-C-2 kildepåvirket fuglefjell-eng
+T,T8,T8-C-3,T8-C-3 fugletopp
+T,T9,,
+T,T9,T9-C-1,T9-C-1 fattig-intermediær mosetundra
+T,T9,T9-C-2,T9-C-2 kalkrik mosetundra
+T,T10,,
+T,T10,T10-C-1,T10-C-1 arktiske stepper
+T,T11,,
+T,T11,T11-C-1,T11-C-1 saltanrikingsmarker i geolitoral
+T,T11,T11-C-2,T11-C-2 øvre saltanrikingsmark på grus
+T,T12,,
+T,T12,T12-C-1,T12-C-1 strandenger i nedre og midtre geolitoral
+T,T12,T12-C-2,T12-C-2 strandenger i øvre geolitoral og supralitoral
+T,T13,,
+T,T13,T13-C-1,T13-C-01 kalkfattig grov ur
+T,T13,T13-C-2,T13-C-02 kalkfattig ur
+T,T13,T13-C-3,T13-C-03 kalkfattig grus- og sanddominert rasmark
+T,T13,T13-C-4,T13-C-04 intermediær og svakt kalkrik grov ur
+T,T13,T13-C-5,T13-C-05 intermediær og svakt kalkrik ur
+T,T13,T13-C-6,T13-C-06 intermediær og svakt kalkrik grus- og sanddominert rasmark
+T,T13,T13-C-7,T13-C-07 sterkt kalkrik grov ur
+T,T13,T13-C-8,T13-C-08 sterkt kalkrik ur
+T,T13,T13-C-9,T13-C-09 sterkt kalkrik grus- og sanddominert rasmark
+T,T13,T13-C-10,T13-C-10 kalkfattig fuktig grov ur
+T,T13,T13-C-11,T13-C-11 kalkfattig fuktig ur
+T,T13,T13-C-12,T13-C-12 intermediær og svakt kalkrik fuktig grov ur
+T,T13,T13-C-13,T13-C-13 intermediær og svakt kalkrik fuktig ur
+T,T13,T13-C-14,T13-C-14 sterkt kalkrik fuktig grov ur
+T,T13,T13-C-15,T13-C-15 sterkt kalkrik fuktig ur
+T,T14,,
+T,T14,T14-C-1,T14-C-1 kalkfattig og intermediær rabbe
+T,T14,T14-C-2,T14-C-2 kalkrik rabbe
+T,T15,,
+T,T15,T15-C-1,T15-C-1 kalkfattig og intermediær fosse-eng
+T,T15,T15-C-2,T15-C-2 kalkrik fosse-eng
+T,T16,,
+T,T16,T16-C-1,T16-C-1 kalkfattig rasmarkeng og -hei
+T,T16,T16-C-2,T16-C-2 intermediær rasmarkeng og -hei
+T,T16,T16-C-3,T16-C-3 svakt kalkrik rasmarkeng og -hei
+T,T16,T16-C-4,T16-C-4 sterkt kalkrik rasmarkeng og -hei
+T,T16,T16-C-5,T16-C-5 kildepåvirket intermediær rasmarkeng og -hei
+T,T16,T16-C-6,T16-C-6 kildepåvirket kalkrik rasmarkeng og -hei
+T,T16,T16-C-7,T16-C-7 sterkt raspreget rasmarkeng og -hei
+T,T17,,
+T,T17,T17-C-1,T17-C-1 jordskred
+T,T17,T17-C-2,T17-C-2 grus- og sandskred
+T,T17,T17-C-3,T17-C-3 silt- og leirskred
+T,T18,,
+T,T18,T18-C-1,T18-C-1 åpne flomfastmarker på sand grus og stein
+T,T18,T18-C-2,T18-C-2 åpen flomfastmark på silt og leire
+T,T18,T18-C-3,T18-C-3 åpen flomfastmark på kalkrik grus og stein
+T,T18,T18-C-4,T18-C-4 åpen flomfastmark på sand med klart erosjonspreg
+T,T19,,
+T,T19,T19-C-1,T19-C-1 kalkfattige finjordsflekker
+T,T19,T19-C-2,T19-C-2 kalkrike finjordsflekker
+T,T20,,
+T,T20,T20-C-1,T20-C-1 kalkfattig og intermediær isinnfrysingsmark
+T,T20,T20-C-2,T20-C-2 kalkrik isinnfrysingsmark
+T,T21,,
+T,T21,T21-C-1,T21-C-1 forstrand og primærdyner
+T,T21,T21-C-2,T21-C-2 kvite og grå dyner
+T,T21,T21-C-3,T21-C-3 brune dyner og dynehei
+T,T21,T21-C-4,T21-C-4 dynetrau
+T,T22,,
+T,T22,T22-C-1,T22-C-1 kalkfattig og intermediær fjellgrashei
+T,T22,T22-C-2,T22-C-2 kalkfattig og intermediær grassnøleie
+T,T22,T22-C-3,T22-C-3 kalkrik fjellgrashei
+T,T22,T22-C-4,T22-C-4 kalkrikt grassnøleie
+T,T23,,
+T,T23,T23-C-1,T23-C-1 ferskvannsdriftvoll
+T,T24,,
+T,T24,T24-C-1,T24-C-1 beskyttede og moderat eksponerte driftvoller
+T,T24,T24-C-2,T24-C-2 ettårsdriftvoll
+T,T25,,
+T,T25,T25-C-1,T25-C-1 historisk jordskred
+T,T25,T25-C-2,T25-C-2 historiske grus- og sandskred
+T,T25,T25-C-3,T25-C-3 historisk silt- og leirskred
+T,T26,,
+T,T26,T26-C-1,T26-C-1 fjellhei-initialer
+T,T26,T26-C-2,T26-C-2 snøleie-initialer
+T,T26,T26-C-3,T26-C-3 grus- og steindominert breforland i pionerfasen
+T,T26,T26-C-4,T26-C-4 breforland og snøavsmeltingsområder i pionérfase dominert av fin grus sand silt til leire
+T,T27,,
+T,T27,T27-C-1,T27-C-1 kalkfattig og intermediær blokkmark
+T,T27,T27-C-2,T27-C-2 kalkfattig og intermediær snøleie-blokkmark
+T,T27,T27-C-3,T27-C-3 kalkrik blokkmark
+T,T27,T27-C-4,T27-C-4 kalkrik snøleie-blokkmark
+T,T27,T27-C-5,T27-C-5 blokkmark i vegetasjonsfritt snøleie
+T,T27,T27-C-6,T27-C-6 kalkfattig og intermediær rabbepreget blokkmark
+T,T27,T27-C-7,T27-C-7 kalkrik rabbepreget blokkmark
+T,T28,,
+T,T28,T28-C-1,T28-C-1 kalkfattig polarørken
+T,T28,T28-C-2,T28-C-2 intermediær og svakt kalkrik polarørken
+T,T28,T28-C-3,T28-C-3 sterkt kalkrik polarørken
+T,T29,,
+T,T29,T29-C-1,T29-C-1 stein- og grusstrender og strandlinjer i pionérfase på epilitoral fastmark
+T,T29,T29-C-2,T29-C-2 stein- og grusstrender og strandlinjer i etablerings- og konsolideringsfase på epilitoral fastmark
+T,T29,T29-C-3,T29-C-3 øvre skjellsandstrand med pionervegetasjon
+T,T29,T29-C-4,T29-C-4 øvre skjellsandstrand uten pionervegetasjon
+T,T29,T29-C-5,T29-C-5 stein- og grusstrender og strandlinjer i pionérfase i supralitoral
+T,T29,T29-C-6,T29-C-6 nedre skjellsandstrand med pionervegetasjon
+T,T30,,
+T,T30,T30-C-1,T30-C-1 flomskogsmarker på grus og stein
+T,T30,T30-C-2,T30-C-2 flomskogsmarker på finmateriale
+T,T30,T30-C-3,T30-C-3 kildepåvirkede flomskogsmarker på finmateriale
+T,T30,T30-C-4,T30-C-4 erosjonspregede flomskogsmarker på finmateriale
+T,T31,,
+T,T31,T31-C-1,T31-C-01 kalkfattig boreal frisk hei
+T,T31,T31-C-2,T31-C-02 kalkfattig boreal lynghei
+T,T31,T31-C-3,T31-C-03 kalkfattig boreal lavhei
+T,T31,T31-C-4,T31-C-04 intermediær boreal frisk hei
+T,T31,T31-C-5,T31-C-05 intermediær boreal lynghei
+T,T31,T31-C-6,T31-C-06 intermediær boreal lavhei
+T,T31,T31-C-7,T31-C-07 svakt kalkrik boreal frisk hei
+T,T31,T31-C-8,T31-C-08 svakt kalkrik boreal lynghei
+T,T31,T31-C-9,T31-C-09 svakt kalkrik boreal lavhei
+T,T31,T31-C-10,T31-C-10 sterkt kalkrik boreal frisk hei
+T,T31,T31-C-11,T31-C-11 sterkt kalkrik boreal lynghei
+T,T31,T31-C-12,T31-C-12 sterkt kalkrik boreal lavhei
+T,T31,T31-C-13,T31-C-13 intermediær kildepåvirket boreal frisk hei
+T,T31,T31-C-14,T31-C-14 kalkrik kildepåvirket boreal frisk hei
+T,T32,,
+T,T32,T32-C-1,T32-C-01 kalkfattig eng med mindre hevdpreg
+T,T32,T32-C-2,T32-C-02 kalkfattig eng med klart hevdpreg
+T,T32,T32-C-3,T32-C-03 intermediær eng med mindre hevdpreg
+T,T32,T32-C-4,T32-C-04 intermediære enger med ekstensivt og svakt intensivt hevdpreg
+T,T32,T32-C-5,T32-C-05 svakt kalkrik eng med mindre hevdpreg
+T,T32,T32-C-6,T32-C-06 svakt kalkrike enger med ekstensivt og svakt intensivt hevdpreg
+T,T32,T32-C-7,T32-C-07 sterkt kalkrik eng med mindre hevdpreg
+T,T32,T32-C-8,T32-C-08 sterkt kalkrik eng med ekstensivt hevdpreg
+T,T32,T32-C-9,T32-C-09 kalkrik fukteng med mindre hevdpreg
+T,T32,T32-C-10,T32-C-10 kalkrik fukteng med klart hevdpreg og gjødselpåvirkning
+T,T32,T32-C-11,T32-C-11 kalkfattig tørreng med mindre hevdpreg
+T,T32,T32-C-12,T32-C-12 kalkfattig tørreng med klart hevdpreg
+T,T32,T32-C-13,T32-C-13 intermediær tørreng med mindre hevdpreg
+T,T32,T32-C-14,T32-C-14 intermediær tørreng med klart hevdpreg og gjødselpåvirkning
+T,T32,T32-C-15,T32-C-15 svakt kalkrik tørreng med mindre hevdpreg
+T,T32,T32-C-16,T32-C-16 svakt kalkrik tørreng med klart hevdpreg og gjødselpåvirkning
+T,T32,T32-C-17,T32-C-17 sterkt kalkrik tørreng med mindre hevdpreg
+T,T32,T32-C-18,T32-C-18 sterkt kalkrik tørreng med klart hevdpreg
+T,T32,T32-C-19,T32-C-19 sanddyne-eng med klart hevdpreg og gjødselpåvirkning
+T,T33,,
+T,T33,T33-C-1,T33-C-1 nedre semi-naturlig strandeng
+T,T33,T33-C-2,T33-C-2 øvre semi-naturlig strandeng
+T,T34,,
+T,T34,T34-C-1,T34-C-1 kalkfattig bakli-hei
+T,T34,T34-C-2,T34-C-2 kalkfattige kystlyngheier
+T,T34,T34-C-3,T34-C-3 intermediær bakli-hei
+T,T34,T34-C-4,T34-C-4 intermediære kystlyngheier
+T,T34,T34-C-5,T34-C-5 svakt kalkrike kystlyngheier
+T,T34,T34-C-6,T34-C-6 sterkt kalkrike kystlyngheier
+T,T35,,
+T,T35,T35-C-1,T35-C-1 sterkt endret fastmark med jorddekke
+T,T35,T35-C-2,T35-C-2 sterkt endrede fastmarker med dekke av sand eller grus
+T,T35,T35-C-3,T35-C-3 sterkt endret fastmark med dekke av silt og leire
+T,T36,,
+T,T36,T36-C-1,T36-C-1 sterkt endret tidligere våtmark
+T,T36,T36-C-2,T36-C-2 tørrlagt elvebunn
+T,T36,T36-C-3,T36-C-3 tørrlagt innsjøbunn
+T,T37,,
+T,T37,T37-C-1,T37-C-1 slagghauger og deponier for fast kjemisk avfall
+T,T37,T37-C-2,T37-C-2 asfalt og løs betong o.l.
+T,T37,T37-C-3,T37-C-3 avfallsdeponi o.l.
+T,T38,,
+T,T38,T38-C-1,T38-C-1 treplantasje
+T,T39,,
+T,T39,T39-C-1,T39-C-1 blokkdeponier
+T,T39,T39-C-2,T39-C-2 blottlagt fast fjell
+T,T39,T39-C-3,T39-C-3 fast fjell blottlagt ved tørrlegging eller nedtapping
+T,T39,T39-C-4,T39-C-4 sterkt modifiserte eller syntetiske overveiende uorganisk faste substrater
+T,T40,,
+T,T40,T40-C-1,T40-C-1 eng-liknende sterkt endret fastmark
+T,T41,,
+T,T41,T41-C-1,T41-C-1 eng-liknende oppdyrket mark
+T,T42,,
+T,T42,T42-C-1,T42-C-1 blomsterbed og liknende
+T,T43,,
+T,T43,T43-C-1,T43-C-1 plener og parker og liknende
+T,T44,,
+T,T44,T44-C-1,T44-C-1 åker
+T,T45,,
+T,T45,T45-C-1,T45-C-1 oppdyrkede varige enger med lite intensivt hevdpreg
+T,T45,T45-C-2,T45-C-2 oppdyrket intensiv slåtteeng
+T,T45,T45-C-3,T45-C-3 oppdyrket svært intensiv slåtteeng
+V,V1,,
+V,V1,V1-C-1,V01-C-1 svært og temmelig kalkfattige myrflater
+V,V1,V1-C-2,V01-C-2 litt kalkfattige og svakt intermediære myrflater
+V,V1,V1-C-3,V01-C-3 sterkt intermediære og litt kalkrike myrflater 
+V,V1,V1-C-4,V01-C-4 temmelig til ekstremt kalkrike myrflater 
+V,V1,V1-C-5,V01-C-5 svært og temmelig kalkfattige myrkanter 
+V,V1,V1-C-6,V01-C-6 litt kalkfattige og svakt intermediære myrkanter
+V,V1,V1-C-7,V01-C-7 sterkt intermediære og litt kalkrike myrkanter
+V,V1,V1-C-8,V01-C-8 temmelig til ekstremt kalkrike myrkanter
+V,V1,V1-C-9,V01-C-9 saltpåvirket myrkant
+V,V2,,
+V,V2,V2-C-1,V02-C-1 kalkfattige og svakt intermediære myr- og sumpskogsmarker
+V,V2,V2-C-2,V02-C-2 sterkt intermediære litt kalkrike myr- og sumpskog-marker
+V,V2,V2-C-3,V02-C-3 temmelig til ekstremt kalkrike myr- og sumpskogsmarker
+V,V3,,
+V,V3,V3-C-1,V03-C-1 ombrotrofe myrflater
+V,V3,V3-C-2,V03-C-2 ombrotrof myrkant
+V,V4,,
+V,V4,V4-C-1,V04-C-1 litt kalkfattig og svakt intermediær svakkilde
+V,V4,V4-C-2,V04-C-2 sterkt intermediære og litt kalkrike kilder
+V,V4,V4-C-3,V04-C-3 temmelig til ekstremt kalkrike kilder
+V,V4,V4-C-4,V04-C-4 sterkt intermediære og litt kalkrike torvmarkskilder
+V,V4,V4-C-5,V04-C-5 temmelig til ekstremt kalkrike torvmarkskilder
+V,V5,,
+V,V5,V5-C-1,V05-C-1 svak varmkilde
+V,V5,V5-C-2,V05-C-2 klar varmkilde
+V,V6,,
+V,V6,V6-C-1,V06-C-1 kalkfattig og intermediært moderat våtsnøleie
+V,V6,V6-C-2,V06-C-2 kalkrikt moderat våtsnøleie
+V,V6,V6-C-3,V06-C-3 kalkfattig og intermediært seint våtsnøleie
+V,V6,V6-C-4,V06-C-4 kalkrikt seint våtsnøleie
+V,V6,V6-C-5,V06-C-5 kalkfattig og intermediært ekstrem-våtsnøleie
+V,V6,V6-C-6,V06-C-6 kalkrikt ekstrem-våtsnøleie
+V,V6,V6-C-7,V06-C-7 kalkfattig og intermediært seint kildesnøleie
+V,V6,V6-C-8,V06-C-8 kalkrikt seint kildesnøleie
+V,V6,V6-C-9,V06-C-9 ekstrem-kildesnøleie
+V,V7,,
+V,V7,V7-C-1,V07-C-1 kalkfattig og intermediær permafrost-våtmark
+V,V7,V7-C-2,V07-C-2 kalkrik permafrost-våtmark
+V,V8,,
+V,V8,V8-C-1,V08-C-1 kalkfattig og intermediær strand- og sumpskogsmark
+V,V8,V8-C-2,V08-C-2 kalkrik strand- og sumpskogsmark
+V,V8,V8-C-3,V08-C-3 saltpåvirket strand- og sumpskogsmark
+V,V9,,
+V,V9,V9-C-1,V09-C-1 kalkfattig semi-naturlig myr
+V,V9,V9-C-2,V09-C-2 intermediær semi-naturlig myr
+V,V9,V9-C-3,V09-C-3 kalkrik semi-naturlig myr
+V,V10,,
+V,V10,V10-C-1,V10-C-1 intermediær våteng
+V,V10,V10-C-2,V10-C-2 kalkrik våteng
+V,V10,V10-C-3,V10-C-3 kildevannspåvirket våteng
+V,V11,,
+V,V11,V11-C-1,V11-C-1 kalkfattig torvtak
+V,V11,V11-C-2,V11-C-2 kalkrikt torvtak
+V,V12,,
+V,V12,V12-C-1,V12-C-1 grøftet kalkfattig jordvannsmyr
+V,V12,V12-C-2,V12-C-2 grøftet kalkrik jordvannsmyr
+V,V12,V12-C-3,V12-C-3 grøftet nedbørsmyr
+V,V13,,
+V,V13,V13-C-1,V13-C-1 nye våtmarker med opprinnelse i sterkt endrede fastmarkssystemer
+V,V13,V13-C-2,V13-C-2 nye våtmarker med opprinnelse i jordbruksmark på fastmark
+V,V13,V13-C-3,V13-C-3 nye våtmarker med opprinnelse i neddemt skogsmark
+V,V13,V13-C-4,V13-C-4 nye våtmarker med opprinnelse i ferskvannsbunn
