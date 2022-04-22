@@ -31,9 +31,14 @@ def generate_major_type_group_table(version):
     major_type_group_ids = get_child_ids(code='NA', version=version)
     major_type_groups_table = pd.DataFrame({'adb_id' :major_type_group_ids})
     major_type_groups_table['name'] = major_type_groups_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
-    major_type_groups_table['id'] = major_type_groups_table['adb_id'].apply(lambda x: x.split(' ')[-1])
-    major_type_groups_table = major_type_groups_table[['id', 'adb_id', 'name']]
-    major_type_groups_table.to_csv('hovedtypegrupper.csv')
+    major_type_groups_table['htgrk'] = major_type_groups_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    major_type_groups_table['hovedtypegruppe'] = major_type_groups_table.agg(lambda x: f"{x['htgrk']} - {x['name']}", axis=1)
+    major_type_groups_table = major_type_groups_table[['htgrk', 'hovedtypegruppe', 'adb_id']]
+    # add first line into the dataframe with "not mapped" option
+    nm = []
+    nm.insert(0, {'htgrk': '0', 'hovedtypegruppe': '0 - Ikke kartlagt'}) 
+    major_type_groups_table_csv = pd.concat([pd.DataFrame(nm), major_type_groups_table], ignore_index=True)
+    major_type_groups_table_csv.to_csv('hovedtypegrupper.csv')
     return major_type_groups_table
 
 # %%
@@ -50,9 +55,15 @@ def generate_major_type_table(major_type_groups_table, version):
     major_type_ids = generate_major_type_ids(major_type_groups_table, version)
     major_type_table = pd.DataFrame({'adb_id' :major_type_ids})
     major_type_table['name'] = major_type_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
-    major_type_table['id'] = major_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
-    major_type_table = major_type_table[['id', 'adb_id', 'name']]
-    major_type_table.to_csv('hovedtyper.csv')
+    major_type_table['htypek'] = major_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    major_type_table['hovedtype'] = major_type_table.agg(lambda x: f"{x['htypek']} - {x['name']}", axis=1)
+    major_type_table['htgrk'] = major_type_table['htypek'].str[:1]
+    major_type_table = major_type_table[['htgrk', 'htypek', 'hovedtype', 'adb_id']]
+    # add first line into the dataframe with "not mapped" option
+    nm = []
+    nm.insert(0, {'htgrk': '0', 'htypek': '0', 'hovedtype': '0 - Ikke kartlagt'}) 
+    major_type_table_csv = pd.concat([pd.DataFrame(nm), major_type_table], ignore_index=True)
+    major_type_table_csv.to_csv('hovedtyper.csv')
     return major_type_table
 
 
@@ -63,7 +74,6 @@ def get_child_scaled_ids(code, version, scale=5000):
 
     return [x['Id'] for x in childs]
 # %%
-
 def generate_minor_type_ids(major_type_table, version, scale):
     ids_list = []
     for idx, item in major_type_table['adb_id'].items():
@@ -80,9 +90,17 @@ def generate_minor_type_table(major_type_table, version, scale):
     minor_type_ids = generate_minor_type_ids(major_type_table, version, scale)
     minor_type_table = pd.DataFrame({'adb_id' :minor_type_ids})
     minor_type_table['name'] = minor_type_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
-    minor_type_table['id'] = minor_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
-    minor_type_table = minor_type_table[['id', 'adb_id', 'name']]
-    minor_type_table.to_csv(f'grunntyper{scale}.csv')
+    minor_type_table['gtypek'] = minor_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    minor_type_table['grunntype'] = minor_type_table.agg(lambda x: f"{x['gtypek']} - {x['name']}", axis=1)
+    minor_type_table['htypek'] = minor_type_table['gtypek'].apply(lambda x: x.split('-')[0])
+    minor_type_table['htgrk'] = minor_type_table['gtypek'].str[:1]
+    minor_type_table = minor_type_table[['htgrk', 'htypek', 'gtypek', 'grunntype', 'adb_id']]
+        # add first line into the dataframe with "not mapped" option
+    nm = []
+    nm.insert(0, {'htgrk': '0', 'htypek': '0', 'gtypek': '0', 'grunntype': '0 - Ikke kartlagt'}) 
+    minor_type_table_csv = pd.concat([pd.DataFrame(nm), minor_type_table], ignore_index=True)
+
+    minor_type_table_csv.to_csv(f'grunntyper{scale}.csv')
     return minor_type_table
 
 # %%

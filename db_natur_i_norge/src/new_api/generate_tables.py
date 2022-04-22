@@ -11,4 +11,5 @@ major_type_table = generate_major_type_table(major_type_groups_table, version)
 minor_type_table = generate_minor_type_table(major_type_table, version, 5000)
 minor_type_table = generate_minor_type_table(major_type_table, version, 20000)
 
+
 # %%

@@ -1,9 +1,10 @@
-,id,adb_id,name
-0,F,NA F,Limniske vannmasser
-1,H,NA H,Marine vannmasser
-2,I,NA I,Snø- og issystemer
-3,L,NA L,Innsjøbunnsystemer
-4,M,NA M,Saltvannsbunnsystemer
-5,O,NA O,Elvebunnsystemer
-6,T,NA T,Fastmarkssystemer
-7,V,NA V,Våtmarkssystemer
+,htgrk,hovedtypegruppe,adb_id
+0,0,0 - Ikke kartlagt,
+1,F,F - Limniske vannmasser,NA F
+2,H,H - Marine vannmasser,NA H
+3,I,I - Snø- og issystemer,NA I
+4,L,L - Innsjøbunnsystemer,NA L
+5,M,M - Saltvannsbunnsystemer,NA M
+6,O,O - Elvebunnsystemer,NA O
+7,T,T - Fastmarkssystemer,NA T
+8,V,V - Våtmarkssystemer,NA V
