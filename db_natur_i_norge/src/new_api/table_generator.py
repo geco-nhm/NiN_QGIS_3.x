@@ -3,25 +3,22 @@ from concurrent.futures.process import _check_system_limits
 from urllib import response
 from new_api.artsdatabanken_nin_api import ArtsdatabankenNinApi
 import pandas as pd
+import csv
 
 # %%
 api = ArtsdatabankenNinApi('https://nin-kode-api.artsdatabanken.no')
 
-# %% Generate major type group table
-
-
 # %%
+def get_child_ids(code, version):
+    data = api.get_specific_code(version, code)
+    childs = data['UnderordnetKoder']    
+    return [x['Id'] for x in childs]
 # def generate_major_type_group_ids(version):
 #     all_codes = api.get_all_codes(version)
 #     major_type_groups = [x for x in all_codes if x['Kategori'] == 'Naturmangfoldnivå']
 #     assert(len(major_type_groups) == 1)
 #     major_type_groups = major_type_groups[0]
 #     return [x['Id'] for x in major_type_groups['UnderordnetKoder']]
-def get_child_ids(code, version):
-    data = api.get_specific_code(version, code)
-    childs = data['UnderordnetKoder']    
-    return [x['Id'] for x in childs]
-
 # %%
 def get_name_for_code(code, version):
     resp = api.get_specific_code(version, code)
@@ -38,7 +35,7 @@ def generate_major_type_group_table(version):
     nm = []
     nm.insert(0, {'htgrk': '0', 'hovedtypegruppe': '0 - Ikke kartlagt'}) 
     major_type_groups_table_csv = pd.concat([pd.DataFrame(nm), major_type_groups_table], ignore_index=True)
-    major_type_groups_table_csv.to_csv('hovedtypegrupper.csv')
+    major_type_groups_table_csv.to_csv('hovedtypegrupper.csv', quoting=csv.QUOTE_NONNUMERIC)
     return major_type_groups_table
 
 # %%
@@ -63,7 +60,7 @@ def generate_major_type_table(major_type_groups_table, version):
     nm = []
     nm.insert(0, {'htgrk': '0', 'htypek': '0', 'hovedtype': '0 - Ikke kartlagt'}) 
     major_type_table_csv = pd.concat([pd.DataFrame(nm), major_type_table], ignore_index=True)
-    major_type_table_csv.to_csv('hovedtyper.csv')
+    major_type_table_csv.to_csv('hovedtyper.csv', quoting=csv.QUOTE_NONNUMERIC)
     return major_type_table
 
 
@@ -100,7 +97,7 @@ def generate_minor_type_table(major_type_table, version, scale):
     nm.insert(0, {'htgrk': '0', 'htypek': '0', 'gtypek': '0', 'grunntype': '0 - Ikke kartlagt'}) 
     minor_type_table_csv = pd.concat([pd.DataFrame(nm), minor_type_table], ignore_index=True)
 
-    minor_type_table_csv.to_csv(f'grunntyper{scale}.csv')
+    minor_type_table_csv.to_csv(f'grunntyper{scale}.csv', quoting=csv.QUOTE_NONNUMERIC)
     return minor_type_table
 
 # %%
