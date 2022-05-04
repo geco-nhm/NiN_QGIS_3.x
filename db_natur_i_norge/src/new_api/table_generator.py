@@ -35,7 +35,7 @@ def generate_major_type_group_table(version):
     nm = []
     nm.insert(0, {'htgrk': '0', 'hovedtypegruppe': '0 - Ikke kartlagt'}) 
     major_type_groups_table_csv = pd.concat([pd.DataFrame(nm), major_type_groups_table], ignore_index=True)
-    major_type_groups_table_csv.to_csv('hovedtypegrupper.csv', quoting=csv.QUOTE_NONNUMERIC)
+    major_type_groups_table_csv.to_csv('hovedtypegrupper.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
     return major_type_groups_table
 
 # %%
@@ -60,7 +60,7 @@ def generate_major_type_table(major_type_groups_table, version):
     nm = []
     nm.insert(0, {'htgrk': '0', 'htypek': '0', 'hovedtype': '0 - Ikke kartlagt'}) 
     major_type_table_csv = pd.concat([pd.DataFrame(nm), major_type_table], ignore_index=True)
-    major_type_table_csv.to_csv('hovedtyper.csv', quoting=csv.QUOTE_NONNUMERIC)
+    major_type_table_csv.to_csv('hovedtyper.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
     return major_type_table
 
 
@@ -97,7 +97,7 @@ def generate_minor_type_table(major_type_table, version, scale):
     nm.insert(0, {'htgrk': '0', 'htypek': '0', 'gtypek': '0', 'grunntype': '0 - Ikke kartlagt'}) 
     minor_type_table_csv = pd.concat([pd.DataFrame(nm), minor_type_table], ignore_index=True)
 
-    minor_type_table_csv.to_csv(f'grunntyper{scale}.csv', quoting=csv.QUOTE_NONNUMERIC)
+    minor_type_table_csv.to_csv(f'grunntyper{scale}.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
     return minor_type_table
 
 # %%
