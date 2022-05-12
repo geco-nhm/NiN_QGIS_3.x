@@ -1,3 +1,5 @@
-*.pyc
-*.ipynb
+**.pyc
+**.ipynb
 *.qgs~
+FKB-Vann_FGDB/
+Prosjekt/raster/
