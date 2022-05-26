@@ -1,3 +1,4 @@
 {
-    "jupyter.jupyterServerType": "remote"
+    "jupyter.jupyterServerType": "remote",
+    "jupyter.sendSelectionToInteractiveWindow": true
 }

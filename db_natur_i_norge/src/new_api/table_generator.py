@@ -24,6 +24,8 @@ def get_name_for_code(code, version):
     resp = api.get_specific_code(version, code)
     return resp['Navn']
 # %%    
+# major_type_groups_table is generated with all major type groups
+# major_type_groups_table_limn is filtered by L, O and F. 
 def generate_major_type_group_table(version):
     major_type_group_ids = get_child_ids(code='NA', version=version)
     major_type_groups_table = pd.DataFrame({'adb_id' :major_type_group_ids})
@@ -35,8 +37,14 @@ def generate_major_type_group_table(version):
     nm = []
     nm.insert(0, {'htgrk': '0', 'hovedtypegruppe': '0 - Ikke kartlagt'}) 
     major_type_groups_table_csv = pd.concat([pd.DataFrame(nm), major_type_groups_table], ignore_index=True)
+    #major_type_groups_table_csv.insert(0, 'srt', [0,1,5,8,2,4,3,6,7])#major_type_groups_table_csv.sort_values('srt', inplace=True)
     major_type_groups_table_csv.to_csv('hovedtypegrupper.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
-    return major_type_groups_table
+    # Filter out the limnic types  for convenience
+    major_type_groups_table_limn = major_type_groups_table.loc[major_type_groups_table['htgrk'].isin(['L','O','F'])]
+    major_type_groups_table_limn_csv = pd.concat([pd.DataFrame(nm), major_type_groups_table_limn], ignore_index=True)
+    major_type_groups_table_limn_csv.to_csv('hovedtypegrupper_limn.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
+    return major_type_groups_table, major_type_groups_table_limn
+     
 
 # %%
 def generate_major_type_ids(major_type_groups_table, version):
@@ -46,22 +54,45 @@ def generate_major_type_ids(major_type_groups_table, version):
         children_ids = get_child_ids(code=item, version=version)
         ids_list.extend(children_ids)
     return ids_list     
-        
+
+# %% 
+# leading zeros function
+def expand_zeros(table_to_be_expanded):
+    table_to_be_expanded['htypek'] = table_to_be_expanded['adb_id'].apply(lambda x: x.split(' ')[-1])
+    table_to_be_expanded['htypek_letter'] = table_to_be_expanded['htypek'].str[0]
+    table_to_be_expanded['htypek_number'] = table_to_be_expanded['htypek'].str[1:]
+    table_to_be_expanded['htypek_number'] = table_to_be_expanded['htypek_number'].apply(lambda x: x.zfill(2))
+    table_to_be_expanded['htypek'] = table_to_be_expanded['htypek_letter'] + table_to_be_expanded['htypek_number']
+    expanded_table = table_to_be_expanded[['adb_id', 'name', 'htypek']]
+    return expanded_table
+
+
 # %%
 def generate_major_type_table(major_type_groups_table, version):
     major_type_ids = generate_major_type_ids(major_type_groups_table, version)
     major_type_table = pd.DataFrame({'adb_id' :major_type_ids})
     major_type_table['name'] = major_type_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
-    major_type_table['htypek'] = major_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    major_type_table = expand_zeros(major_type_table)
+    # major_type_table['htypek'] = major_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    # major_type_table['htypek_letter'] = major_type_table['htypek'].str[0]
+    # major_type_table['htypek_number'] = major_type_table['htypek'].str[1:]
+    # major_type_table['htypek_number'] = major_type_table['htypek_number'].apply(lambda x: x.zfill(2))
+    # major_type_table['htypek'] = major_type_table['htypek_letter'] +major_type_table['htypek_number']
     major_type_table['hovedtype'] = major_type_table.agg(lambda x: f"{x['htypek']} - {x['name']}", axis=1)
     major_type_table['htgrk'] = major_type_table['htypek'].str[:1]
+
     major_type_table = major_type_table[['htgrk', 'htypek', 'hovedtype', 'adb_id']]
     # add first line into the dataframe with "not mapped" option
     nm = []
     nm.insert(0, {'htgrk': '0', 'htypek': '0', 'hovedtype': '0 - Ikke kartlagt'}) 
     major_type_table_csv = pd.concat([pd.DataFrame(nm), major_type_table], ignore_index=True)
     major_type_table_csv.to_csv('hovedtyper.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
-    return major_type_table
+    # Filter out the limnic types  for convenience
+    major_type_table_limn = major_type_table.loc[major_type_table['htgrk'].isin(['L','O','F'])]
+    major_type_table_limn_csv = pd.concat([pd.DataFrame(nm), major_type_table_limn], ignore_index=True)
+    major_type_table_limn_csv.to_csv('hovedtyper_limn.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
+
+    return major_type_table, major_type_table_limn
 
 
 # %%
