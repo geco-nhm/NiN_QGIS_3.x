@@ -101,6 +101,18 @@ def get_child_scaled_ids(code, version, scale=5000):
     childs = data['Kartleggingsenheter'][str(scale)] 
 
     return [x['Id'] for x in childs]
+
+# %%
+def get_lkm(code, version):
+    data = api.get_specific_code(version, code)
+    #childs = data['Miljovariabler'][1]['Trinn'][0]['Kode']
+    lkm = [x['Trinn'] for x in data['Miljovariabler']]
+    #Here I need to add an exception similar as below
+    lkm_list = [element for sublist in lkm for element in sublist]
+    lkm_code ={lkm_code['Kode'] for lkm_code in lkm_list}
+    return lkm_code
+    # I need to check how to get elementary segment for each minor type
+    
 # %%
 def generate_minor_type_ids(major_type_table, version, scale):
     ids_list = []
@@ -108,9 +120,10 @@ def generate_minor_type_ids(major_type_table, version, scale):
         print(item)
         try:
             children_ids = get_child_scaled_ids(code=item, version=version, scale=scale)
+            ids_list.extend(children_ids)
         except Exception as e:
             print(f'unable to get child id for {item}. error: {e}')
-        ids_list.extend(children_ids)
+        
     return ids_list     
         
 # %%
@@ -118,7 +131,9 @@ def generate_minor_type_table(major_type_table, version, scale):
     minor_type_ids = generate_minor_type_ids(major_type_table, version, scale)
     minor_type_table = pd.DataFrame({'adb_id' :minor_type_ids})
     minor_type_table['name'] = minor_type_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
+    minor_type_table['lkms'] = major_type_table['adb_id'].apply(lambda x: get_lkm(code=x, version=version))
     minor_type_table['gtypek'] = minor_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    
     minor_type_table['grunntype'] = minor_type_table.agg(lambda x: f"{x['gtypek']} - {x['name']}", axis=1)
     minor_type_table['htypek'] = minor_type_table['gtypek'].apply(lambda x: x.split('-')[0])
     minor_type_table['htgrk'] = minor_type_table['gtypek'].str[:1]
