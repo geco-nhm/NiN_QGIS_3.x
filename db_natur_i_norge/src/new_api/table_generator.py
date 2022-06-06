@@ -56,14 +56,14 @@ def generate_major_type_ids(major_type_groups_table, version):
     return ids_list     
 
 # %% 
-# leading zeros function
-def expand_zeros(table_to_be_expanded):
-    table_to_be_expanded['htypek'] = table_to_be_expanded['adb_id'].apply(lambda x: x.split(' ')[-1])
-    table_to_be_expanded['htypek_letter'] = table_to_be_expanded['htypek'].str[0]
-    table_to_be_expanded['htypek_number'] = table_to_be_expanded['htypek'].str[1:]
+# leading zeros function - could be advantage to generalize for both HOVED and GRUNNtyper
+def expand_zeros_hoved(table_to_be_expanded):
+    table_to_be_expanded['htypek_no_zero'] = table_to_be_expanded['adb_id'].apply(lambda x: x.split(' ')[-1])
+    table_to_be_expanded['htypek_letter'] = table_to_be_expanded['htypek_no_zero'].str[0]
+    table_to_be_expanded['htypek_number'] = table_to_be_expanded['htypek_no_zero'].str[1:]
     table_to_be_expanded['htypek_number'] = table_to_be_expanded['htypek_number'].apply(lambda x: x.zfill(2))
     table_to_be_expanded['htypek'] = table_to_be_expanded['htypek_letter'] + table_to_be_expanded['htypek_number']
-    expanded_table = table_to_be_expanded[['adb_id', 'name', 'htypek']]
+    expanded_table = table_to_be_expanded[['adb_id', 'name', 'htypek', 'htypek_no_zero']]
     return expanded_table
 
 
@@ -72,13 +72,13 @@ def generate_major_type_table(major_type_groups_table, version):
     major_type_ids = generate_major_type_ids(major_type_groups_table, version)
     major_type_table = pd.DataFrame({'adb_id' :major_type_ids})
     major_type_table['name'] = major_type_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
-    major_type_table = expand_zeros(major_type_table)
+    major_type_table = expand_zeros_hoved(major_type_table)
     # major_type_table['htypek'] = major_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
     # major_type_table['htypek_letter'] = major_type_table['htypek'].str[0]
     # major_type_table['htypek_number'] = major_type_table['htypek'].str[1:]
     # major_type_table['htypek_number'] = major_type_table['htypek_number'].apply(lambda x: x.zfill(2))
     # major_type_table['htypek'] = major_type_table['htypek_letter'] +major_type_table['htypek_number']
-    major_type_table['hovedtype'] = major_type_table.agg(lambda x: f"{x['htypek']} - {x['name']}", axis=1)
+    major_type_table['hovedtype'] = major_type_table.agg(lambda x: f"{x['htypek_no_zero']} - {x['name']}", axis=1)
     major_type_table['htgrk'] = major_type_table['htypek'].str[:1]
 
     major_type_table = major_type_table[['htgrk', 'htypek', 'hovedtype', 'adb_id']]
@@ -126,15 +126,29 @@ def generate_minor_type_ids(major_type_table, version, scale):
         
     return ids_list     
         
+# %% 
+# leading zeros function - could be advantage to generalize for both HOVED and GRUNNtyper
+def expand_zeros_grunn(table_to_be_expanded):
+    table_to_be_expanded['gtypek_no_zero'] = table_to_be_expanded['adb_id'].apply(lambda x: x.split(' ')[-1])
+    table_to_be_expanded['gtypek_letter'] = table_to_be_expanded['gtypek_no_zero'].str[0]
+    table_to_be_expanded['gtypek_number'] = table_to_be_expanded['gtypek_no_zero'].str[1:]
+    table_to_be_expanded['gtypek_parts'] = table_to_be_expanded['gtypek_number'].apply(lambda x: x.split('-'))
+    table_to_be_expanded['gtypek_number_first'] = table_to_be_expanded['gtypek_parts'].apply(lambda x: x[0].zfill(2))
+    table_to_be_expanded['gtypek_letter_mid'] = table_to_be_expanded['gtypek_parts'].apply(lambda x: x[1])
+    table_to_be_expanded['gtypek_number_last'] = table_to_be_expanded['gtypek_parts'].apply(lambda x: x[-1].zfill(2))
+    table_to_be_expanded['gtypek'] = table_to_be_expanded['gtypek_letter'] + table_to_be_expanded['gtypek_number_first'] + "-" + table_to_be_expanded['gtypek_letter_mid'] + "-" + table_to_be_expanded['gtypek_number_last']
+    expanded_table = table_to_be_expanded[['adb_id', 'name', 'gtypek', 'gtypek_no_zero']]
+    return expanded_table
+
 # %%
 def generate_minor_type_table(major_type_table, version, scale):
     minor_type_ids = generate_minor_type_ids(major_type_table, version, scale)
     minor_type_table = pd.DataFrame({'adb_id' :minor_type_ids})
     minor_type_table['name'] = minor_type_table['adb_id'].apply(lambda x: get_name_for_code(code=x, version=version))
-    minor_type_table['lkms'] = major_type_table['adb_id'].apply(lambda x: get_lkm(code=x, version=version))
-    minor_type_table['gtypek'] = minor_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
-    
-    minor_type_table['grunntype'] = minor_type_table.agg(lambda x: f"{x['gtypek']} - {x['name']}", axis=1)
+    #minor_type_table['lkms'] = major_type_table['adb_id'].apply(lambda x: get_lkm(code=x, version=version))
+    #minor_type_table['gtypek'] = minor_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
+    minor_type_table = expand_zeros_grunn(minor_type_table)
+    minor_type_table['grunntype'] = minor_type_table.agg(lambda x: f"{x['gtypek_no_zero']} - {x['name']}", axis=1)
     minor_type_table['htypek'] = minor_type_table['gtypek'].apply(lambda x: x.split('-')[0])
     minor_type_table['htgrk'] = minor_type_table['gtypek'].str[:1]
     minor_type_table = minor_type_table[['htgrk', 'htypek', 'gtypek', 'grunntype', 'adb_id']]
