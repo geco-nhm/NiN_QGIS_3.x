@@ -1,0 +1,8 @@
+verdi,R7 trinn,beskrivelse
+1,Nulltrinn (ingen effekt),Nulltrinn (ingen effekt) – referansesituasjon uten innslag av fremmedarter
+2,Svak effekt,Svak effekt – artssammensetningen inneholder én eller to fremmedarter med lav mengde
+3,Nokså svak effekt,"Nokså svak effekt – artssammensetningen inneholder flere enn to arter og/eller minst én dominerende fremmedart, men ulikheten med nulltrinnets karakteristiske artssammensetning er mye mindre (< 1/7 av) enn ulikheten med ekstremtrinnet"
+4,Middels sterk effekt,"Middels sterk effekt – stor ulikhet i artssammensetning både med nulltrinnet og med ekstremtrinnet, men klart størst likhet med nulltrinnet (ulikhet 1/7 – 2/3 av ulikheten med ekstremtrinnet)"
+5,Nokså sterk effekt,Nokså sterk effekt – ulikhet i artssammensetning omtrent like stor med nulltrinnet og med ekstremtrinnet (ulikheten med ett ekstremtrinn > 2/3 av ulikheten med det andre ekstremtrinnet)
+6,Sterk effekt,"Sterk effekt – stor ulikhet i artssammensetning både med nulltrinnet og med ekstremtrinnet, men klart størst likhet med ekstremtrinnet (ulikhet 1/7 – 2/3 av ulikheten med nulltrinnet)"
+7,Ekstremtrinn (gjennomgripende effekt),Ekstremtrinn (gjennomgripende effekt) – referansesituasjon der artssammensetningen ikke eller nesten ikke inneholder arter som kjennetegner nulltrinnet (ulikheten med ekstremtrinnet < 1/7 av ulikheten med nulltrinnet)
