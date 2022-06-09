@@ -149,12 +149,13 @@ def generate_minor_type_table(major_type_table, version, scale):
     #minor_type_table['gtypek'] = minor_type_table['adb_id'].apply(lambda x: x.split(' ')[-1])
     minor_type_table = expand_zeros_grunn(minor_type_table)
     minor_type_table['grunntype'] = minor_type_table.agg(lambda x: f"{x['gtypek_no_zero']} - {x['name']}", axis=1)
+    minor_type_table.rename(columns = {'gtypek_no_zero':'label'}, inplace = True)
     minor_type_table['htypek'] = minor_type_table['gtypek'].apply(lambda x: x.split('-')[0])
     minor_type_table['htgrk'] = minor_type_table['gtypek'].str[:1]
-    minor_type_table = minor_type_table[['htgrk', 'htypek', 'gtypek', 'grunntype', 'adb_id']]
+    minor_type_table = minor_type_table[['htgrk', 'htypek', 'gtypek', 'grunntype', 'label', 'adb_id']]
         # add first line into the dataframe with "not mapped" option
     nm = []
-    nm.insert(0, {'htgrk': '0', 'htypek': '0', 'gtypek': '0', 'grunntype': '0 - Ikke kartlagt'}) 
+    nm.insert(0, {'htgrk': '0', 'htypek': '0', 'gtypek': '0', 'grunntype': '0 - Ikke kartlagt', 'label':'0'}) 
     minor_type_table_csv = pd.concat([pd.DataFrame(nm), minor_type_table], ignore_index=True)
 
     minor_type_table_csv.to_csv(f'grunntyper{scale}.csv', quoting=csv.QUOTE_NONNUMERIC, encoding='utf-8-sig')
