@@ -1,8 +1,8 @@
-﻿,htgrk,hovedtypegruppe,adb_id
-0,0,0 - Ikke kartlagt,
-1,F,F - Limniske vannmasser,NA F
-3,I,I - Snø- og issystemer,NA I
-4,L,L - Innsjøbunnsystemer,NA L
-6,O,O - Elvebunnsystemer,NA O
-7,T,T - Fastmarkssystemer,NA T
-8,V,V - Våtmarkssystemer,NA V
+﻿"","htgrk","hovedtypegruppe","adb_id"
+0,"0","0 - Ikke kartlagt",""
+1,"F","F - Limniske vannmasser","NA F"
+3,"I","I - Snø- og issystemer","NA I"
+4,"L","L - Innsjøbunnsystemer","NA L"
+6,"O","O - Elvebunnsystemer","NA O"
+7,"T","T - Fastmarkssystemer","NA T"
+8,"V","V - Våtmarkssystemer","NA V"
